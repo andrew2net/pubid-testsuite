@@ -8,37 +8,25 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: 977603873b3715514b95d1f5e3ae9ca661f14746
-  clean: true
-  dirty_paths: []
-repository:
-  commit: bd426399f63334f064e2b40cd3e8d2cb53d36e38
+  commit: 3344f2968950751c32582f5d4cb751519b75f343
   clean: false
   dirty_paths:
-  - tests/amca/_debt.yaml
-  - tests/amca/_negative.yaml
-  - tests/amca/_status.yaml
-  - tests/amca/interpretation.yaml
-  - tests/amca/publication.yaml
-  - tests/amca/standard.yaml
-  - tests/asme/_debt.yaml
-  - tests/asme/_status.yaml
-  - tests/asme/standard.yaml
-  - tests/astm/_status.yaml
-  - tests/bsi/_status.yaml
-  - tests/bsi/addendum_document.yaml
-  - tests/csa/_status.yaml
-  - tests/csa/standard.yaml
-  - tests/iso/_status.yaml
-  - tests/iso/bundled_identifier.yaml
-  - tests/astm/_debt.yaml
+  - spec/fixtures/iala/
+repository:
+  commit: 8d811b91fc222ca7d0aed7ecdb56f23f9f4383e5
+  clean: false
+  dirty_paths:
+  - README.md
+  - tests/provenance.yaml
+  - reference-docs/iala/
+  - tests/iala/
 ruby:
   version: 3.4.8
 counts:
-  flavors: 41
-  payloads: 324
-  cases: 98005
-  aliases: 11390
+  flavors: 42
+  payloads: 334
+  cases: 98707
+  aliases: 11404
   negatives: 1237
 payloads:
 - path: amca/_debt.yaml
@@ -437,6 +425,33 @@ payloads:
 - path: gost/national_standard.yaml
   sha256: 66c68be7d8b0fe9c152e02a3cd64859ccfd596541d0defc28041b00b07e449f4
   bytes: 14632
+- path: iala/advice.yaml
+  sha256: 90acaba22888b8c823988a40676d7483f03dbd5fe8bff1d61aa0b70853a45f5d
+  bytes: 2017
+- path: iala/annex.yaml
+  sha256: 83a759d767f1510161e4c31ff01b4d5edd41d83e8a05153547871e360e84a28d
+  bytes: 3046
+- path: iala/general_assembly.yaml
+  sha256: acfebf80fd083fe16b163e4461c71f90473cd1f6231c1b71dc100463f8056d58
+  bytes: 5366
+- path: iala/guideline.yaml
+  sha256: 31f973c3e130839b944e2fa8e6dccfc6f5991546812d2a8ec9eb3f2925f25948
+  bytes: 75267
+- path: iala/letter.yaml
+  sha256: 22edfb0ea5298f11d8aeb87f9bfb535a7029d684f2288ef125c5d038f40b2186
+  bytes: 1276
+- path: iala/manual.yaml
+  sha256: 3c79ac83de1a3fe90e357ac784935566a59166824654c9cf4ef7afb6d69ac981
+  bytes: 1932
+- path: iala/model_course.yaml
+  sha256: d9ad153b42a93904ffdfa081e31cbac5d7c34b2e12653fef54b911d4a9ce444a
+  bytes: 19235
+- path: iala/recommendation.yaml
+  sha256: 16a2aa5a29336d71cb4e596e7cf929d74f82156ab4b9c0271bd24d9777c64193
+  bytes: 46496
+- path: iala/standard.yaml
+  sha256: 3265c0cddb593c4145bd95bd7f2ac973f506de45ecbd9d108d11005d2343f4e2
+  bytes: 3291
 - path: iana/_negative.yaml
   sha256: d0f6e1bc8d7e6e674e360fe6e9132c015d1c3bf69605a7ae052f0888443db595
   bytes: 486
@@ -892,8 +907,8 @@ payloads:
   bytes: 7860
 curated:
 - path: amca/_status.yaml
-  sha256: '059acf73af686e22e48054d11737ff18b7704d626d88138d6ed6881d1941b128'
-  bytes: 346
+  sha256: 1622e7ac5f733a04cb259eef05cbf7d1e862000809bd8d8b69d77d42867955a4
+  bytes: 340
 - path: ansi/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
@@ -904,17 +919,17 @@ curated:
   sha256: 27a051d7d1c5c0fdc31a9f9713517619e163fcb9818e48ee15d5d247a7976dfe
   bytes: 61
 - path: asme/_status.yaml
-  sha256: 91ed168e6f12256fcd19e2de03390432c385be20d4764868e45cd3e06f8c831c
-  bytes: 346
+  sha256: 58fb7ec4ffca22a82bc21940fe172dc553ba6505a7faefa9b585963198071879
+  bytes: 340
 - path: astm/_status.yaml
-  sha256: 470e222322bbcd1957a0c1637fe597fb231f6ba4bad641bca6ae6d854d498be1
-  bytes: 345
+  sha256: 2de4b724ec02be13ebf297a3bf4aa948a6a1cd299b92b30e2a5e2e78048303c7
+  bytes: 339
 - path: bipm/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: bsi/_status.yaml
-  sha256: a4ec6786a6b82d660bbff83e9c59e34d97863474ad067519b9c317becfad4aae
-  bytes: 346
+  sha256: b225267ca557327e9485179f6cf40fc5120801f04e5f9207e0e8016e3e1bf2e6
+  bytes: 340
 - path: calconnect/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
@@ -928,8 +943,8 @@ curated:
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: csa/_status.yaml
-  sha256: d00cb63a6ee1b5e8a84944b5adf02add67dd2907dc8c64071a849371c94986eb
-  bytes: 346
+  sha256: 1973a24b08347f33ee3ea2d5d96624d9603a06c78e8ac06b1aa3928250743fd1
+  bytes: 340
 - path: doi/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
@@ -943,12 +958,15 @@ curated:
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: evs/_status.yaml
-  sha256: 99a3be597d330bfda974acd7ab1576c356e7991ade8684d3cdd06a634befd547
-  bytes: 387
+  sha256: 13911ee34c420343b114cfc690631554ce1c5f35f3ed9062da8504324cb2502e
+  bytes: 424
 - path: gb/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: gost/_status.yaml
+  sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
+  bytes: 59
+- path: iala/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: iana/_status.yaml
@@ -973,8 +991,8 @@ curated:
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: iso/_status.yaml
-  sha256: 0ff770264feb29b86a19750d4de109f82b671849a96d4890d32fb1c201aed724
-  bytes: 345
+  sha256: 04c37847a2175b9de8ce1d6038a0fcfe5b1219fd69ee808b0dcf0656b70ffa76
+  bytes: 339
 - path: itu/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
