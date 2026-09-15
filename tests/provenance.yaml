@@ -8,16 +8,13 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: 3344f2968950751c32582f5d4cb751519b75f343
-  clean: false
-  dirty_paths:
-  - spec/fixtures/iala/
+  commit: 06273c19aa65f792e86ffcccb2cff9e8b6fa31fa
+  clean: true
+  dirty_paths: []
 repository:
   commit: 8d811b91fc222ca7d0aed7ecdb56f23f9f4383e5
   clean: false
   dirty_paths:
-  - README.md
-  - tests/provenance.yaml
   - reference-docs/iala/
   - tests/iala/
 ruby:
