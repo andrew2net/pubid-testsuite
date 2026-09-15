@@ -3,8 +3,9 @@ clean: false
 known_mismatches: 1
 known_schema_errors: 0
 notes: >-
-  evs.national_adoption.0001 deserialize: Pubid::Evs::Identifier.from_hash
-  raises Lutaml::Model::InvalidFormatError on the flavor's own to_hash
-  form (parse/render/hash all fine). Filed as pubid/pubid#383;
-  same error class as the cen_cenelec consolidated gap fixed by #371.
-  Flip to clean once from_hash lands.
+  evs.national_adoption deserialize: from_hash raises
+  Lutaml::Model::InvalidFormatError in the runner process while the
+  export process round-trips cleanly - process-shape dependent, the
+  attribute-snapshot load-order hazard family (pubid#339 message,
+  pubid#382). Tracked in pubid/pubid#383; stays dirty until a
+  load-order-independent fix lands.
