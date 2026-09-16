@@ -1,11 +1,9 @@
 ---
-clean: false
-known_mismatches: 1
+clean: true
+known_mismatches: 0
 known_schema_errors: 0
 notes: >-
-  evs.national_adoption deserialize: from_hash raises
-  Lutaml::Model::InvalidFormatError in the runner process while the
-  export process round-trips cleanly - process-shape dependent, the
-  attribute-snapshot load-order hazard family (pubid#339 message,
-  pubid#382). Tracked in pubid/pubid#383; stays dirty until a
-  load-order-independent fix lands.
+  Fixed (pubid PR: Type-instance defaults replace raw Symbol defaults;
+  lutaml materializes attribute defaults during from_hash and casting a
+  Symbol into Components::Type raised InvalidFormatError - same shape
+  latent in all six IDF classes). pubid/pubid#383.

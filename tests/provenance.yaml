@@ -8,15 +8,23 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: 06273c19aa65f792e86ffcccb2cff9e8b6fa31fa
-  clean: true
-  dirty_paths: []
-repository:
-  commit: 8d811b91fc222ca7d0aed7ecdb56f23f9f4383e5
+  commit: c6bc9f8ede85797cf0591852f2c9c52a2f7fc2a8
   clean: false
   dirty_paths:
-  - reference-docs/iala/
-  - tests/iala/
+  - lib/pubid/evs/identifiers/national_adoption.rb
+  - lib/pubid/idf/identifier.rb
+  - lib/pubid/idf/identifiers/amendment.rb
+  - lib/pubid/idf/identifiers/corrigendum.rb
+  - lib/pubid/idf/identifiers/international_standard.rb
+  - lib/pubid/idf/identifiers/reviewed_method.rb
+  - lib/pubid/idf/single_identifier.rb
+  - spec/pubid/evs/from_hash_spec.rb
+repository:
+  commit: 2619e859ee7cef326e2e74bc98b2fc57378fa043
+  clean: false
+  dirty_paths:
+  - tests/evs/_status.yaml
+  - tests/evs/national_adoption.yaml
 ruby:
   version: 3.4.8
 counts:
@@ -402,8 +410,8 @@ payloads:
   sha256: 257050dcd4455a9dbdcba6992bbce81210b3ab1e0b162c9f11a60e6b55f9cfe4
   bytes: 7030517
 - path: evs/national_adoption.yaml
-  sha256: 8358103bde8898e9ba69e993d51e577b88d99910408d58c410da8b669be8e8d4
-  bytes: 3589
+  sha256: c9ecb9c93f33ab9d9a7910ec9ccaadc7cf1fe5deb82aa0aed9d1027651c4564c
+  bytes: 3399
 - path: gb/_negative.yaml
   sha256: 183e20b3fbf98cdcf8fabe91887ebd7dba300e0a982cc14d79ccb24b36c95d29
   bytes: 461
@@ -955,8 +963,8 @@ curated:
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: evs/_status.yaml
-  sha256: 13911ee34c420343b114cfc690631554ce1c5f35f3ed9062da8504324cb2502e
-  bytes: 424
+  sha256: 5ebef97c51fd67ec6371962b5790985ecb651511ee327b410cd1b66d1b4a3a37
+  bytes: 333
 - path: gb/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
