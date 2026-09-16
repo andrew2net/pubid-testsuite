@@ -2,7 +2,7 @@
 - id: evs.national_adoption.0001
   identifier:
     _type: pubid:evs:national-adoption
-    adopted_identifier:
+    base:
       _type: pubid:cencenelec:european-norm
       number: '18216'
       year: '2026'
@@ -13,7 +13,7 @@
 - id: evs.national_adoption.0002
   identifier:
     _type: pubid:evs:national-adoption
-    adopted_identifier:
+    base:
       _type: pubid:cencenelec:european-norm
       number: '18219'
       year: '2026'
@@ -24,7 +24,7 @@
 - id: evs.national_adoption.0003
   identifier:
     _type: pubid:evs:national-adoption
-    adopted_identifier:
+    base:
       _type: pubid:cencenelec:european-norm
       number: '18220'
       year: '2026'
@@ -35,7 +35,7 @@
 - id: evs.national_adoption.0004
   identifier:
     _type: pubid:evs:national-adoption
-    adopted_identifier:
+    base:
       _type: pubid:cencenelec:european-norm
       number: '18221'
       year: '2026'
@@ -46,7 +46,7 @@
 - id: evs.national_adoption.0005
   identifier:
     _type: pubid:evs:national-adoption
-    adopted_identifier:
+    base:
       _type: pubid:cencenelec:european-norm
       number: '18222'
       year: '2026'
@@ -57,7 +57,7 @@
 - id: evs.national_adoption.0006
   identifier:
     _type: pubid:evs:national-adoption
-    adopted_identifier:
+    base:
       _type: pubid:cencenelec:european-norm
       number: '18223'
       year: '2026'
@@ -68,7 +68,7 @@
 - id: evs.national_adoption.0007
   identifier:
     _type: pubid:evs:national-adoption
-    adopted_identifier:
+    base:
       _type: pubid:cencenelec:adopted-european-norm
       adopted:
         _type: pubid:iso:international-standard
@@ -81,7 +81,7 @@
 - id: evs.national_adoption.0008
   identifier:
     _type: pubid:evs:national-adoption
-    adopted_identifier:
+    base:
       _type: pubid:cencenelec:amendment
       number: '1'
       base:
@@ -98,7 +98,7 @@
 - id: evs.national_adoption.0009
   identifier:
     _type: pubid:evs:national-adoption
-    adopted_identifier:
+    base:
       _type: pubid:cencenelec:adopted-european-norm
       adopted:
         _type: pubid:iso:international-standard
@@ -113,7 +113,7 @@
 - id: evs.national_adoption.0010
   identifier:
     _type: pubid:evs:national-adoption
-    adopted_identifier:
+    base:
       _type: pubid:cencenelec:adopted-european-norm
       adopted:
         _type: pubid:iso:international-standard
