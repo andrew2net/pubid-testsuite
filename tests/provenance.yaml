@@ -8,29 +8,19 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: c6bc9f8ede85797cf0591852f2c9c52a2f7fc2a8
-  clean: false
-  dirty_paths:
-  - lib/pubid/evs/identifiers/national_adoption.rb
-  - lib/pubid/idf/identifier.rb
-  - lib/pubid/idf/identifiers/amendment.rb
-  - lib/pubid/idf/identifiers/corrigendum.rb
-  - lib/pubid/idf/identifiers/international_standard.rb
-  - lib/pubid/idf/identifiers/reviewed_method.rb
-  - lib/pubid/idf/single_identifier.rb
-  - spec/pubid/evs/from_hash_spec.rb
+  commit: e000262b8480e29dc94c88507d2729ea0f539619
+  clean: true
+  dirty_paths: []
 repository:
-  commit: 2619e859ee7cef326e2e74bc98b2fc57378fa043
-  clean: false
-  dirty_paths:
-  - tests/evs/_status.yaml
-  - tests/evs/national_adoption.yaml
+  commit: b037e1c53eda5563914def4f48113b556a0c9301
+  clean: true
+  dirty_paths: []
 ruby:
   version: 3.4.8
 counts:
   flavors: 42
   payloads: 334
-  cases: 98707
+  cases: 98709
   aliases: 11404
   negatives: 1237
 payloads:
@@ -416,8 +406,8 @@ payloads:
   sha256: 183e20b3fbf98cdcf8fabe91887ebd7dba300e0a982cc14d79ccb24b36c95d29
   bytes: 461
 - path: gb/standard.yaml
-  sha256: 469bef14988dc66e35e2f7a95dbae42b5eed428e488803dfa0ea6cbfb80ed3bb
-  bytes: 1665
+  sha256: 2a8b46e057766fedeae0a0ccd5afa34ac07ac29d94ceb3b2d7d41e2ce4a0aedb
+  bytes: 2199
 - path: gost/harmonized.yaml
   sha256: d8e3f6f0e5f976edd683422cf9c17c0d0137292b2735a5ee995a4b87542248b6
   bytes: 23595
