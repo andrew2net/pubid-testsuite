@@ -12,10 +12,9 @@ oracle:
   clean: true
   dirty_paths: []
 repository:
-  commit: 01b263c3732c86ff55415f8adc75c7f07fbd2bd0
-  clean: false
-  dirty_paths:
-  - tests/evs/national_adoption.yaml
+  commit: 47bd5ae9f4638f41a4706d2c6ffb5d0f92941bd9
+  clean: true
+  dirty_paths: []
 ruby:
   version: 3.4.8
 counts:
