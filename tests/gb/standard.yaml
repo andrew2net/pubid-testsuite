@@ -57,6 +57,27 @@
 - id: gb.standard.0006
   identifier:
     _type: pubid:gb:standard
+    publisher: GBn
+    number: '123'
+    year: '1990'
+  representations:
+    human: GBn 123-1990
+    urn: urn:gb:gbn:123:1990
+  style: v3
+- id: gb.standard.0007
+  identifier:
+    _type: pubid:gb:standard
+    publisher: GBn
+    mandate: T
+    number: '123'
+    year: '1990'
+  representations:
+    human: GBn/T 123-1990
+    urn: urn:gb:gbn:123:1990
+  style: v3
+- id: gb.standard.0008
+  identifier:
+    _type: pubid:gb:standard
     publisher: HB
     mandate: Z
     number: '12'
@@ -65,7 +86,7 @@
     human: HB/Z 12-2010
     urn: urn:gb:hb:12:2010
   style: v3
-- id: gb.standard.0007
+- id: gb.standard.0009
   identifier:
     _type: pubid:gb:standard
     publisher: JB
@@ -76,7 +97,7 @@
     human: JB/T 13368-2018
     urn: urn:gb:jb:13368:2018
   style: v3
-- id: gb.standard.0008
+- id: gb.standard.0010
   identifier:
     _type: pubid:gb:standard
     publisher: T/GZAEPI
