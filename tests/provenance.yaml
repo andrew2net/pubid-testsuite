@@ -8,19 +8,31 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: c61ee3029ee5a22c85209bf6cd0d3980c9a45e4e
+  commit: cb628682eed8de7582f366d9730885d7ccba8e7c
   clean: true
   dirty_paths: []
 repository:
-  commit: 47bd5ae9f4638f41a4706d2c6ffb5d0f92941bd9
-  clean: true
-  dirty_paths: []
+  commit: 69ba7e462ad39d9da76d43ad80a367b0528a2b4e
+  clean: false
+  dirty_paths:
+  - reference-docs/oiml/identifiers/pass/document.txt
+  - reference-docs/oiml/identifiers/pass/recommendation.txt
+  - reference-docs/oiml/identifiers/pass/vocabulary.txt
+  - tests/oiml/_normalization.yaml
+  - tests/oiml/annex.yaml
+  - tests/oiml/document.yaml
+  - tests/oiml/expert_report.yaml
+  - tests/oiml/guide.yaml
+  - tests/oiml/recommendation.yaml
+  - tests/oiml/seminar_report.yaml
+  - tests/oiml/vocabulary.yaml
+  - tests/oiml/_debt.yaml
 ruby:
   version: 3.4.8
 counts:
   flavors: 42
-  payloads: 334
-  cases: 98709
+  payloads: 335
+  cases: 98716
   aliases: 11404
   negatives: 1237
 payloads:
@@ -810,35 +822,38 @@ payloads:
 - path: ogc/document.yaml
   sha256: ed599cc8b90aa9dff82787271aea54b2516c90331cc6f8d125a21a96f4ca7cd3
   bytes: 16442
+- path: oiml/_debt.yaml
+  sha256: b20897b0ccab6355ed5d268fe73aeb721f6a34b0a06ab96351ff2cf247b04554
+  bytes: 1547
 - path: oiml/_normalization.yaml
-  sha256: b690a372d4e5f972f7b934edc2bae592f8eb8a6bdeb50d18202c4c45b593c488
-  bytes: 620
+  sha256: 726898c5537e7a5bde29aef9d03e797826e53e7887da53d0f1bf12d72c5db0a6
+  bytes: 1110
 - path: oiml/amendment.yaml
   sha256: dd3dbc002add5aba8b8a910cbb238e30201c9f689863a3b447a8254fc01fd804
   bytes: 1652
 - path: oiml/annex.yaml
-  sha256: e2d21c12b81d64b67f61ea3d33f2dd1236f94ea255717251a4f5be9b174b9ce5
+  sha256: c76c413554bcbc3a47cde66ba9b6802e7d97ee11bcc85e35ced8588efc264e3c
   bytes: 916
 - path: oiml/basic_publication.yaml
   sha256: 12ffdc5c0c0251962a4e65386912f047074d2a49d4beb6440f86e4b903d62d52
   bytes: 512
 - path: oiml/document.yaml
-  sha256: 78621bea4241c0660a5757eb66a4c74a6b191e3248c8f5ff85858f094651487c
-  bytes: 1875
+  sha256: 85446cae85cbb767d298d49cc310c1dff022565ac8e7d009a9611a6a44536d2a
+  bytes: 2293
 - path: oiml/expert_report.yaml
-  sha256: 7c7237a7d7188e44866e228caecd4f252b448781e2a413896ebd0dc7ad97c197
+  sha256: a11616b48f46b9d9f3848f2194813ae2874bf2511ae7d2b4b5a3cc3da2b2f0a0
   bytes: 535
 - path: oiml/guide.yaml
-  sha256: 05f2f0678b69902cc20873a1ece3dfa624c4326fb6d55c37cde74773aad20acb
+  sha256: 77642d580b048fd0f31d9be641ec328fc8d3c4ed8178d9438f06c4348a242c19
   bytes: 634
 - path: oiml/recommendation.yaml
-  sha256: f1fa29a80bcb084b8ffd79d05d32e1ae3e7108c292ca819560a96dc182efd17b
-  bytes: 7247
+  sha256: 7bd9d9abb57b4e5d53415dee83888ffa697b8140f6a6b61a1ef77182345fa633
+  bytes: 8373
 - path: oiml/seminar_report.yaml
-  sha256: 9c33c04d98170718974dfd0a3a283cb03cda631523bee8b0e7d17d78bdb4f0d6
+  sha256: 4206e2c03ba63042e942492af573dbd12c10568462e03e2e6526df264fc7952c
   bytes: 246
 - path: oiml/vocabulary.yaml
-  sha256: bbc810ee88297bd14bb545fc2e426dd12e5abe6e92159e354ccc1c436aa2c565
+  sha256: 6442c4dc7d3d4054d547405d7be1592fc2d20c5eb8c3562cc9c2db54ddd73880
   bytes: 1315
 - path: omg/_negative.yaml
   sha256: d00c8f683b0ddb83f4eb8888fc8fb5af4cb733bb80afa52677e9ef97a832a53f

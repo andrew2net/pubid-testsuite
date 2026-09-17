@@ -1,0 +1,37 @@
+---
+- id: oiml.debt.4d086b1a6a45
+  input: 'OIML R 120 : 1996'
+  expect:
+    error:
+      code: unclassified
+  notes: 'unparsed ground-truth fixture: Pubid::Errors::ParseError: Expected one of
+    [AMENDMENT_IDENTIFIER, AMENDMENT_SHORT, ANNEX_LETTER_IDENTIFIER, ANNEX_IDENTIFIER,
+    PLUS_SUPPLEMENT_IDENTIFIER, TRAILING_SUPPLEMENT_IDENTIFIER, BULLETIN_IDENTIFIER,
+    BASE] at line 1 char'
+- id: oiml.debt.f568018ff4bd
+  input: 'OIML R 65 : 2006'
+  expect:
+    error:
+      code: unclassified
+  notes: 'unparsed ground-truth fixture: Pubid::Errors::ParseError: Expected one of
+    [AMENDMENT_IDENTIFIER, AMENDMENT_SHORT, ANNEX_LETTER_IDENTIFIER, ANNEX_IDENTIFIER,
+    PLUS_SUPPLEMENT_IDENTIFIER, TRAILING_SUPPLEMENT_IDENTIFIER, BULLETIN_IDENTIFIER,
+    BASE] at line 1 char'
+- id: oiml.debt.9b391a688867
+  input: 'OIML R 75-1 : 2002'
+  expect:
+    error:
+      code: unclassified
+  notes: 'unparsed ground-truth fixture: Pubid::Errors::ParseError: Expected one of
+    [AMENDMENT_IDENTIFIER, AMENDMENT_SHORT, ANNEX_LETTER_IDENTIFIER, ANNEX_IDENTIFIER,
+    PLUS_SUPPLEMENT_IDENTIFIER, TRAILING_SUPPLEMENT_IDENTIFIER, BULLETIN_IDENTIFIER,
+    BASE] at line 1 char'
+- id: oiml.debt.8ec083862e63
+  input: 'OIML R 95 : 1990'
+  expect:
+    error:
+      code: unclassified
+  notes: 'unparsed ground-truth fixture: Pubid::Errors::ParseError: Expected one of
+    [AMENDMENT_IDENTIFIER, AMENDMENT_SHORT, ANNEX_LETTER_IDENTIFIER, ANNEX_IDENTIFIER,
+    PLUS_SUPPLEMENT_IDENTIFIER, TRAILING_SUPPLEMENT_IDENTIFIER, BULLETIN_IDENTIFIER,
+    BASE] at line 1 char'
