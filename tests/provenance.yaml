@@ -12,18 +12,10 @@ oracle:
   clean: true
   dirty_paths: []
 repository:
-  commit: 5e897ef8ec225db64c2619cf7eedd23121072a48
+  commit: 64a33d797bca4adaefaf0256178264f1d8a54158
   clean: false
   dirty_paths:
-  - README.md
-  - reference-docs/oiml/identifiers/pass/recommendation.txt
-  - tests/oiml/_debt.yaml
   - tests/oiml/_normalization.yaml
-  - tests/oiml/annex.yaml
-  - tests/oiml/recommendation.yaml
-  - tests/oiml/seminar_report.yaml
-  - tests/oiml/vocabulary.yaml
-  - tests/provenance.yaml
 ruby:
   version: 3.4.8
 counts:

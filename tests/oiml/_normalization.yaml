@@ -17,18 +17,26 @@
   to: OIML R 134-2:2004 (E)
 - from: 'OIML R 111: 2004'
   to: OIML R 111:2004
+- from: 'OIML R 120 : 1996'
+  to: OIML R 120:1996
 - from: 'OIML R 49-2: 2013'
   to: OIML R 49-2:2013
 - from: 'OIML R 49-3: 2013'
   to: OIML R 49-3:2013
 - from: 'OIML R 60: 2000'
   to: OIML R 60:2000
+- from: 'OIML R 65 : 2006'
+  to: OIML R 65:2006
+- from: 'OIML R 75-1 : 2002'
+  to: OIML R 75-1:2002
 - from: 'OIML R 76-1: 2006'
   to: OIML R 76-1:2006
 - from: 'OIML R 82: 2006'
   to: OIML R 82:2006
 - from: 'OIML R 83: 2006'
   to: OIML R 83:2006
+- from: 'OIML R 95 : 1990'
+  to: OIML R 95:1990
 - from: 'OIML V 2-200: 2012'
   to: OIML V 2-200:2012
 - from: OIML D 2 Amendment Edition 2004 (E)
