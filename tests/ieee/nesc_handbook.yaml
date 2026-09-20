@@ -1,5 +1,5 @@
 ---
-- id: ieee.nesc_handbook.5709
+- id: ieee.nesc_handbook.5722
   identifier:
     _type: pubid:ieee:nesc-handbook
     number: '2'
@@ -14,7 +14,7 @@
   non_normalized_aliases:
   - spelling: 2012 NESC Handbook, Seventh Edition
     style: v3
-- id: ieee.nesc_handbook.5710
+- id: ieee.nesc_handbook.5723
   identifier:
     _type: pubid:ieee:nesc-handbook
     number: '2'
@@ -29,3 +29,16 @@
   non_normalized_aliases:
   - spelling: 2017 NESC Handbook, Premier Edition
     style: v3
+- id: ieee.nesc_handbook.5724
+  identifier:
+    _type: pubid:ieee:nesc-handbook
+    number: '2'
+    edition: Premier Edition
+    year: '2017'
+    variant: Handbook
+    registered: true
+    prefix: C
+  representations:
+    human: IEEE Std 2017 NESC(R) Handbook, Premier Edition
+    urn: urn:ieee:ieee:C2:2017:ed.Premier Edition
+  style: v3
