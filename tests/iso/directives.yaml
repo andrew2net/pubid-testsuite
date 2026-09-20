@@ -108,8 +108,7 @@
     _type: pubid:iso:directives
     copublishers:
     - IEC
-    subgroup:
-      value: JTC 1
+    subgroup: JTC 1
   representations:
     human: ISO/IEC JTC 1 DIR
     urn: urn:iso:doc:iso-iec:jtc:1:dir
@@ -120,8 +119,7 @@
     year: '2004'
     copublishers:
     - IEC
-    subgroup:
-      value: JTC 1
+    subgroup: JTC 1
   representations:
     human: ISO/IEC JTC 1 DIR:2004
     urn: urn:iso:doc:iso-iec:jtc:1:dir:2004

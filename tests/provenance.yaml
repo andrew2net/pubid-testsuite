@@ -8,22 +8,26 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: a8ce135898140fc780080c829426e7a7b7ce2607
-  clean: true
-  dirty_paths: []
-repository:
-  commit: ff458deef0f5e39523ccf2c3d4bb4fa137ffa527
+  commit: 7ca94c0f81cd6090962ab5b06fc085ba3b166465
   clean: false
   dirty_paths:
-  - tests/astm/_debt.yaml
-  - tests/astm/_status.yaml
+  - lib/pubid/asme/builder.rb
+  - lib/pubid/asme/parser.rb
+  - spec/pubid/asme/root_number_spec.rb
+repository:
+  commit: 9c1226312901a6913b4625a6feb074f1e16b6c07
+  clean: false
+  dirty_paths:
+  - tests/iso/_status.yaml
+  - tests/iso/bundled_identifier.yaml
+  - tests/iso/directives.yaml
 ruby:
   version: 3.4.8
 counts:
   flavors: 42
   payloads: 333
   cases: 98720
-  aliases: 11404
+  aliases: 11403
   negatives: 1237
 payloads:
 - path: amca/_debt.yaml
@@ -633,8 +637,8 @@ payloads:
   sha256: 002a3f4f3fad72397d101c3a1132fb9d204c6d37c4b79501fd4d9b2d22c3d186
   bytes: 66694
 - path: iso/bundled_identifier.yaml
-  sha256: ee44652a3f78e01ef8946ee7488770d4779df2be30d7214800b0eedd17aa9775
-  bytes: 1076
+  sha256: 84c3954f6077e5226a0b445f9fcb9d7d5d53744fb179f0ea3eaf25186444d9ab
+  bytes: 968
 - path: iso/corrigendum.yaml
   sha256: 5020e7770b6133bccd79f0f7244b7b73684555ded92d6535f8c0fec00bb3759d
   bytes: 43304
@@ -642,8 +646,8 @@ payloads:
   sha256: dbbcc1379318b32f8a9e53cccdabedaa54e05f8babe22446907ada0ee81f31eb
   bytes: 1285
 - path: iso/directives.yaml
-  sha256: b788f902fab31e035466f84755ecde734688bed3b0a929baf4e0d02187a241bd
-  bytes: 2789
+  sha256: 9906617e3d612883424a70b30becc141e73ab73b9ff3d32e74d7cdb526fddb27
+  bytes: 2763
 - path: iso/directives_supplement.yaml
   sha256: 010b108056fb4ba7c28a24a72b0b771213a651125da4842fcb755929b04abf95
   bytes: 3182
@@ -985,8 +989,8 @@ curated:
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: iso/_status.yaml
-  sha256: 04c37847a2175b9de8ce1d6038a0fcfe5b1219fd69ee808b0dcf0656b70ffa76
-  bytes: 339
+  sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
+  bytes: 59
 - path: itu/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
