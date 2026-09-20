@@ -1,13 +1,4 @@
 ---
-- id: cen_cenelec.debt.d098c801691b
-  input: EN 60038/A1 FRAG2
-  expect:
-    error:
-      code: unclassified
-  notes: 'unparsed ground-truth fixture: Pubid::Errors::ParseError: Expected one of
-    [FRAGMENT_IDENTIFIER, (STAGE_PREFIX / PUBLISHER) (SPACE ADOPTED_STRING)? (SPACE
-    TYPE / SLASH TYPE)? (SPACE NUMBER PARTS YEAR?)? SUPPLEMENTS EDITION?] at line
-    1 char 1.'
 - id: cen_cenelec.debt.7912269d0f5c
   input: CECC 16000:1979
   expect:
