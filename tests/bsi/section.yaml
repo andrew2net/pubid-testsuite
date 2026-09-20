@@ -32,7 +32,7 @@
     human: BS 3224 Section D1:1960
     urn: urn:bsi:bs:3224:1960
   style: v3
-- id: bsi.section.0918
+- id: bsi.section.1147
   identifier:
     _type: pubid:bsi:section
     number: '51'
@@ -45,7 +45,7 @@
     human: DD 51:Section 0:1977
     urn: urn:bsi:dd:51:1977
   style: v3
-- id: bsi.section.0919
+- id: bsi.section.1148
   identifier:
     _type: pubid:bsi:section
     number: '51'
@@ -58,7 +58,7 @@
     human: DD 51:Section 1:1977
     urn: urn:bsi:dd:51:1977
   style: v3
-- id: bsi.section.0920
+- id: bsi.section.1149
   identifier:
     _type: pubid:bsi:section
     number: '51'
@@ -71,7 +71,7 @@
     human: DD 51:Section 2:1977
     urn: urn:bsi:dd:51:1977
   style: v3
-- id: bsi.section.0921
+- id: bsi.section.1150
   identifier:
     _type: pubid:bsi:section
     number: '51'
@@ -84,7 +84,7 @@
     human: DD 51:Section 3:1977
     urn: urn:bsi:dd:51:1977
   style: v3
-- id: bsi.section.0922
+- id: bsi.section.1151
   identifier:
     _type: pubid:bsi:section
     number: '51'
@@ -97,7 +97,7 @@
     human: DD 51:Section 4:1977
     urn: urn:bsi:dd:51:1977
   style: v3
-- id: bsi.section.0923
+- id: bsi.section.1152
   identifier:
     _type: pubid:bsi:section
     number: '51'
@@ -110,7 +110,7 @@
     human: DD 51:Section 5:1977
     urn: urn:bsi:dd:51:1977
   style: v3
-- id: bsi.section.0924
+- id: bsi.section.1153
   identifier:
     _type: pubid:bsi:section
     number: '51'
@@ -123,7 +123,7 @@
     human: DD 51:Section 6:1977
     urn: urn:bsi:dd:51:1977
   style: v3
-- id: bsi.section.0925
+- id: bsi.section.1154
   identifier:
     _type: pubid:bsi:section
     number: '51'

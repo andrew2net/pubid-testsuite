@@ -1,0 +1,1150 @@
+---
+- id: bsi.adopted_international_standard.0963
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:international-standard
+      year: '2000'
+      number: '60747'
+      part: '8'
+  representations:
+    human: BS IEC 60747-8:2000
+    urn: urn:bsi:bs:60747:-8:2000
+  style: v3
+- id: bsi.adopted_international_standard.0964
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2020'
+      number: '62559'
+      part: '4'
+  representations:
+    human: BS IEC SRD 62559-4:2020
+    urn: urn:bsi:bs:62559:-4:2020
+  style: v3
+- id: bsi.adopted_international_standard.0965
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2019'
+      number: '62913'
+      part: '1'
+  representations:
+    human: BS IEC SRD 62913-1:2019
+    urn: urn:bsi:bs:62913:-1:2019
+  style: v3
+- id: bsi.adopted_international_standard.0966
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2019'
+      number: '62913'
+      part: '2'
+      subpart: '1'
+  representations:
+    human: BS IEC SRD 62913-2-1:2019
+    urn: urn:bsi:bs:62913:-2:-1:2019
+  style: v3
+- id: bsi.adopted_international_standard.0967
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2019'
+      number: '62913'
+      part: '2'
+      subpart: '2'
+  representations:
+    human: BS IEC SRD 62913-2-2:2019
+    urn: urn:bsi:bs:62913:-2:-2:2019
+  style: v3
+- id: bsi.adopted_international_standard.0968
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2019'
+      number: '62913'
+      part: '2'
+      subpart: '3'
+  representations:
+    human: BS IEC SRD 62913-2-3:2019
+    urn: urn:bsi:bs:62913:-2:-3:2019
+  style: v3
+- id: bsi.adopted_international_standard.0969
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2019'
+      number: '62913'
+      part: '2'
+      subpart: '4'
+  representations:
+    human: BS IEC SRD 62913-2-4:2019
+    urn: urn:bsi:bs:62913:-2:-4:2019
+  style: v3
+- id: bsi.adopted_international_standard.0970
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2022'
+      number: '63188'
+  representations:
+    human: BS IEC SRD 63188:2022
+    urn: urn:bsi:bs:63188:2022
+  style: v3
+- id: bsi.adopted_international_standard.0971
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2020'
+      number: '63199'
+  representations:
+    human: BS IEC SRD 63199:2020
+    urn: urn:bsi:bs:63199:2020
+  style: v3
+- id: bsi.adopted_international_standard.0972
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2021'
+      number: '63200'
+  representations:
+    human: BS IEC SRD 63200:2021
+    urn: urn:bsi:bs:63200:2021
+  style: v3
+- id: bsi.adopted_international_standard.0973
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2022'
+      number: '63219'
+  representations:
+    human: BS IEC SRD 63219:2022
+    urn: urn:bsi:bs:63219:2022
+  style: v3
+- id: bsi.adopted_international_standard.0974
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2022'
+      number: '63233'
+      part: '1'
+  representations:
+    human: BS IEC SRD 63233-1:2022
+    urn: urn:bsi:bs:63233:-1:2022
+  style: v3
+- id: bsi.adopted_international_standard.0975
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2020'
+      number: '63234'
+      part: '1'
+  representations:
+    human: BS IEC SRD 63234-1:2020
+    urn: urn:bsi:bs:63234:-1:2020
+  style: v3
+- id: bsi.adopted_international_standard.0976
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2020'
+      number: '63234'
+      part: '2'
+  representations:
+    human: BS IEC SRD 63234-2:2020
+    urn: urn:bsi:bs:63234:-2:2020
+  style: v3
+- id: bsi.adopted_international_standard.0977
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2021'
+      number: '63235'
+  representations:
+    human: BS IEC SRD 63235:2021
+    urn: urn:bsi:bs:63235:2021
+  style: v3
+- id: bsi.adopted_international_standard.0978
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:systems-reference-document
+      year: '2020'
+      number: '63268'
+  representations:
+    human: BS IEC SRD 63268:2020
+    urn: urn:bsi:bs:63268:2020
+  style: v3
+- id: bsi.adopted_international_standard.0979
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iec:international-standard
+      year: '2025'
+      copublishers:
+      - IEEE
+      number: '61869'
+      part: '21'
+  representations:
+    human: BS IEC/IEEE 61869-21:2025
+    urn: urn:bsi:bs:61869:-21:2025
+  style: v3
+- id: bsi.adopted_international_standard.0980
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '10302'
+      part: '1'
+      year: '2011'
+  representations:
+    human: BS ISO 10302-1:2011
+    urn: urn:bsi:bs:10302:-1:2011
+  style: v3
+- id: bsi.adopted_international_standard.0981
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '10302'
+      part: '2'
+      year: '2011'
+  representations:
+    human: BS ISO 10302-2:2011
+    urn: urn:bsi:bs:10302:-2:2011
+  style: v3
+- id: bsi.adopted_international_standard.0982
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '10889'
+      part: '5'
+      year: '1997'
+  representations:
+    human: BS ISO 10889-5:1997
+    urn: urn:bsi:bs:10889:-5:1997
+  style: v3
+- id: bsi.adopted_international_standard.0983
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '1268'
+      part: '11'
+      year: '2005'
+  representations:
+    human: BS ISO 1268-11:2005
+    urn: urn:bsi:bs:1268:-11:2005
+  style: v3
+- id: bsi.adopted_international_standard.0984
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '17378'
+      part: '2'
+      year: '2014'
+  representations:
+    human: BS ISO 17378-2:2014
+    urn: urn:bsi:bs:17378:-2:2014
+  style: v3
+- id: bsi.adopted_international_standard.0986
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '20662'
+      year: '2020'
+  representations:
+    human: BS ISO 20662:2020
+    urn: urn:bsi:bs:20662:2020
+  style: v3
+- id: bsi.adopted_international_standard.0987
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '21467'
+      year: '2023'
+  representations:
+    human: BS ISO 21467:2023
+    urn: urn:bsi:bs:21467:2023
+  style: v3
+- id: bsi.adopted_international_standard.0989
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '7752'
+      part: '3'
+      year: '2013'
+  representations:
+    human: BS ISO 7752-3:2013
+    urn: urn:bsi:bs:7752:-3:2013
+  style: v3
+- id: bsi.adopted_international_standard.0990
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '815'
+      part: '1'
+      year: '2008'
+  representations:
+    human: BS ISO 815-1:2008
+    urn: urn:bsi:bs:815:-1:2008
+  style: v3
+- id: bsi.adopted_international_standard.0992
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '13818'
+      part: '7'
+      year: '1997'
+      copublishers:
+      - IEC
+  representations:
+    human: BS ISO/IEC 13818-7:1997
+    urn: urn:bsi:bs:13818:-7:1997
+  style: v3
+- id: bsi.adopted_international_standard.0993
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '13818'
+      part: '7'
+      year: '2003'
+      copublishers:
+      - IEC
+  representations:
+    human: BS ISO/IEC 13818-7:2003
+    urn: urn:bsi:bs:13818:-7:2003
+  style: v3
+- id: bsi.adopted_international_standard.0994
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '15288'
+      year: '2002'
+      copublishers:
+      - IEC
+  representations:
+    human: BS ISO/IEC 15288:2002
+    urn: urn:bsi:bs:15288:2002
+  style: v3
+- id: bsi.adopted_international_standard.0995
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '19794'
+      part: '2'
+      year: '2011'
+      copublishers:
+      - IEC
+  representations:
+    human: BS ISO/IEC 19794-2:2011
+    urn: urn:bsi:bs:19794:-2:2011
+  style: v3
+- id: bsi.adopted_international_standard.0997
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '19794'
+      part: '4'
+      year: '2011'
+      copublishers:
+      - IEC
+  representations:
+    human: BS ISO/IEC 19794-4:2011
+    urn: urn:bsi:bs:19794:-4:2011
+  style: v3
+- id: bsi.adopted_international_standard.0999
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '19794'
+      part: '9'
+      year: '2011'
+      copublishers:
+      - IEC
+  representations:
+    human: BS ISO/IEC 19794-9:2011
+    urn: urn:bsi:bs:19794:-9:2011
+  style: v3
+- id: bsi.adopted_international_standard.1001
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '29109'
+      part: '5'
+      year: '2014'
+      copublishers:
+      - IEC
+  representations:
+    human: BS ISO/IEC 29109-5:2014
+    urn: urn:bsi:bs:29109:-5:2014
+  style: v3
+- id: bsi.adopted_international_standard.1002
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '29141'
+      year: '2009'
+      copublishers:
+      - IEC
+  representations:
+    human: BS ISO/IEC 29141:2009
+    urn: urn:bsi:bs:29141:2009
+  style: v3
+- id: bsi.adopted_international_standard.1003
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '29148'
+      year: '2011'
+      copublishers:
+      - IEC
+      - IEEE
+  representations:
+    human: BS ISO/IEC/IEEE 29148:2011
+    urn: urn:bsi:bs:29148:2011
+  style: v3
+- id: bsi.adopted_international_standard.1004
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '80005'
+      part: '1'
+      year: '2012'
+      copublishers:
+      - IEC
+      - IEEE
+  representations:
+    human: BS ISO/IEC/IEEE 80005-1:2012
+    urn: urn:bsi:bs:80005:-1:2012
+  style: v3
+- id: bsi.adopted_international_standard.1005
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    base:
+      _type: pubid:iso:international-standard
+      number: '12906'
+      year: '2024'
+      copublishers:
+      - SAE
+  representations:
+    human: BS ISO/SAE 12906:2024
+    urn: urn:bsi:bs:12906:2024
+  style: v3
+- id: bsi.adopted_international_standard.1248
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: DD
+    base:
+      _type: pubid:iec:publicly-available-specification
+      year: '2011'
+      number: '62717'
+  representations:
+    human: DD IEC PAS 62717:2011
+    urn: urn:bsi:dd:62717:2011
+  style: v3
+  non_normalized_aliases:
+  - spelling: DD IEC/PAS 62717:2011
+    style: v3
+- id: bsi.adopted_international_standard.1249
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: DD
+    base:
+      _type: pubid:iec:publicly-available-specification
+      year: '2011'
+      number: '62722'
+      part: '1'
+  representations:
+    human: DD IEC PAS 62722-1:2011
+    urn: urn:bsi:dd:62722:-1:2011
+  style: v3
+  non_normalized_aliases:
+  - spelling: DD IEC/PAS 62722-1:2011
+    style: v3
+- id: bsi.adopted_international_standard.1250
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: DD
+    base:
+      _type: pubid:iec:publicly-available-specification
+      year: '2011'
+      number: '62722'
+      part: '2'
+      subpart: '1'
+  representations:
+    human: DD IEC PAS 62722-2-1:2011
+    urn: urn:bsi:dd:62722:-2:-1:2011
+  style: v3
+  non_normalized_aliases:
+  - spelling: DD IEC/PAS 62722-2-1:2011
+    style: v3
+- id: bsi.adopted_international_standard.1423
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2003'
+      publisher: CISPR
+      number: '16'
+      part: '3'
+  representations:
+    human: PD CISPR TR 16-3:2003
+    urn: urn:bsi:pd:16:-3:2003
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD CISPR/TR 16-3:2003
+    style: v3
+- id: bsi.adopted_international_standard.1424
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2003'
+      publisher: CISPR
+      number: '16'
+      part: '4'
+      subpart: '1'
+  representations:
+    human: PD CISPR TR 16-4-1:2003
+    urn: urn:bsi:pd:16:-4:-1:2003
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD CISPR/TR 16-4-1:2003
+    style: v3
+- id: bsi.adopted_international_standard.1425
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2003'
+      publisher: CISPR
+      number: '16'
+      part: '4'
+      subpart: '3'
+  representations:
+    human: PD CISPR TR 16-4-3:2003
+    urn: urn:bsi:pd:16:-4:-3:2003
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD CISPR/TR 16-4-3:2003
+    style: v3
+- id: bsi.adopted_international_standard.1426
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2004'
+      publisher: CISPR
+      number: '16'
+      part: '4'
+      subpart: '3'
+  representations:
+    human: PD CISPR TR 16-4-3:2004
+    urn: urn:bsi:pd:16:-4:-3:2004
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD CISPR/TR 16-4-3:2004
+    style: v3
+- id: bsi.adopted_international_standard.1427
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2003'
+      publisher: CISPR
+      number: '16'
+      part: '4'
+      subpart: '4'
+  representations:
+    human: PD CISPR TR 16-4-4:2003
+    urn: urn:bsi:pd:16:-4:-4:2003
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD CISPR/TR 16-4-4:2003
+    style: v3
+- id: bsi.adopted_international_standard.1428
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2004'
+      publisher: CISPR
+      number: '29'
+  representations:
+    human: PD CISPR TR 29:2004
+    urn: urn:bsi:pd:29:2004
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD CISPR/TR 29:2004
+    style: v3
+- id: bsi.adopted_international_standard.1429
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2003'
+      publisher: CISPR
+      number: '31'
+  representations:
+    human: PD CISPR TR 31:2003
+    urn: urn:bsi:pd:31:2003
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD CISPR/TR 31:2003
+    style: v3
+- id: bsi.adopted_international_standard.1460
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:guide
+      year: '2021'
+      number: '115'
+  representations:
+    human: PD IEC GUIDE 115:2021
+    urn: urn:bsi:pd:115:2021
+  style: v3
+- id: bsi.adopted_international_standard.1461
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:publicly-available-specification
+      year: '2014'
+      number: '62883'
+  representations:
+    human: PD IEC PAS 62883:2014
+    urn: urn:bsi:pd:62883:2014
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/PAS 62883:2014
+    style: v3
+- id: bsi.adopted_international_standard.1462
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:publicly-available-specification
+      year: '2020'
+      number: '63256'
+  representations:
+    human: PD IEC PAS 63256:2020
+    urn: urn:bsi:pd:63256:2020
+  style: v3
+- id: bsi.adopted_international_standard.1463
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '1998'
+      number: '60695'
+      part: '7'
+      subpart: '3'
+  representations:
+    human: PD IEC TR 60695-7-3:1998
+    urn: urn:bsi:pd:60695:-7:-3:1998
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/TR 60695-7-3:1998
+    style: v3
+- id: bsi.adopted_international_standard.1464
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '1999'
+      number: '61911'
+  representations:
+    human: PD IEC TR 61911:1999
+    urn: urn:bsi:pd:61911:1999
+  style: v3
+- id: bsi.adopted_international_standard.1465
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2014'
+      number: '62907'
+  representations:
+    human: PD IEC TR 62907:2014
+    urn: urn:bsi:pd:62907:2014
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/TR 62907:2014
+    style: v3
+- id: bsi.adopted_international_standard.1466
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2017'
+      number: '63051'
+  representations:
+    human: PD IEC TR 63051:2017
+    urn: urn:bsi:pd:63051:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/TR 63051:2017
+    style: v3
+- id: bsi.adopted_international_standard.1467
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2017'
+      number: '63097'
+  representations:
+    human: PD IEC TR 63097:2017
+    urn: urn:bsi:pd:63097:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/TR 63097:2017
+    style: v3
+- id: bsi.adopted_international_standard.1468
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-report
+      year: '2025'
+      number: '63400'
+  representations:
+    human: PD IEC TR 63400:2025
+    urn: urn:bsi:pd:63400:2025
+  style: v3
+- id: bsi.adopted_international_standard.1469
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-specification
+      year: '2017'
+      number: '60318'
+      part: '7'
+  representations:
+    human: PD IEC TS 60318-7:2017
+    urn: urn:bsi:pd:60318:-7:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/TS 60318-7:2017
+    style: v3
+- id: bsi.adopted_international_standard.1470
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-specification
+      year: '2017'
+      number: '60479'
+      part: '2'
+  representations:
+    human: PD IEC TS 60479-2:2017
+    urn: urn:bsi:pd:60479:-2:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/TS 60479-2:2017
+    style: v3
+- id: bsi.adopted_international_standard.1471
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-specification
+      year: '2017'
+      number: '62257'
+      part: '7'
+  representations:
+    human: PD IEC TS 62257-7:2017
+    urn: urn:bsi:pd:62257:-7:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/TS 62257-7:2017
+    style: v3
+- id: bsi.adopted_international_standard.1472
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-specification
+      year: '2017'
+      number: '62462'
+  representations:
+    human: PD IEC TS 62462:2017
+    urn: urn:bsi:pd:62462:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/TS 62462:2017
+    style: v3
+- id: bsi.adopted_international_standard.1473
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-specification
+      year: '2025'
+      number: '62607'
+      part: '6'
+      subpart: '27'
+  representations:
+    human: PD IEC TS 62607-6-27:2025
+    urn: urn:bsi:pd:62607:-6:-27:2025
+  style: v3
+- id: bsi.adopted_international_standard.1474
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-specification
+      year: '2017'
+      number: '62862'
+      part: '1'
+      subpart: '2'
+  representations:
+    human: PD IEC TS 62862-1-2:2017
+    urn: urn:bsi:pd:62862:-1:-2:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/TS 62862-1-2:2017
+    style: v3
+- id: bsi.adopted_international_standard.1475
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iec:technical-specification
+      year: '2017'
+      number: '62862'
+      part: '1'
+      subpart: '3'
+  representations:
+    human: PD IEC TS 62862-1-3:2017
+    urn: urn:bsi:pd:62862:-1:-3:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD IEC/TS 62862-1-3:2017
+    style: v3
+- id: bsi.adopted_international_standard.1477
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:guide
+      number: '28'
+      year: '2004'
+      copublishers:
+      - IEC
+  representations:
+    human: PD ISO/IEC Guide 28:2004
+    urn: urn:bsi:pd:28:2004
+  style: v3
+  non_normalized_aliases:
+  - spelling: PD ISO/IEC GUIDE 28:2004
+    style: v3
+- id: bsi.adopted_international_standard.1478
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:guide
+      number: '68'
+      year: '2002'
+      copublishers:
+      - IEC
+  representations:
+    human: PD ISO/IEC Guide 68:2002
+    urn: urn:bsi:pd:68:2002
+  style: v3
+- id: bsi.adopted_international_standard.1479
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:guide
+      number: '71'
+      year: '2001'
+      copublishers:
+      - IEC
+  representations:
+    human: PD ISO/IEC Guide 71:2001
+    urn: urn:bsi:pd:71:2001
+  style: v3
+- id: bsi.adopted_international_standard.1480
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:guide
+      number: '73'
+      year: '2002'
+      copublishers:
+      - IEC
+  representations:
+    human: PD ISO/IEC Guide 73:2002
+    urn: urn:bsi:pd:73:2002
+  style: v3
+- id: bsi.adopted_international_standard.1481
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:guide
+      number: '75'
+      year: '2006'
+      copublishers:
+      - IEC
+  representations:
+    human: PD ISO/IEC Guide 75:2006
+    urn: urn:bsi:pd:75:2006
+  style: v3
+- id: bsi.adopted_international_standard.1482
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-report
+      number: '11801'
+      part: '9902'
+      year: '2017'
+      copublishers:
+      - IEC
+  representations:
+    human: PD ISO/IEC TR 11801-9902:2017
+    urn: urn:bsi:pd:11801:-9902:2017
+  style: v3
+- id: bsi.adopted_international_standard.1483
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-report
+      number: '22446'
+      year: '2017'
+      copublishers:
+      - IEC
+  representations:
+    human: PD ISO/IEC TR 22446:2017
+    urn: urn:bsi:pd:22446:2017
+  style: v3
+- id: bsi.adopted_international_standard.1484
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:pas
+      number: '23735'
+      year: '2025'
+  representations:
+    human: PD ISO/PAS 23735:2025
+    urn: urn:bsi:pd:23735:2025
+  style: v3
+- id: bsi.adopted_international_standard.1485
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:pas
+      number: '24305'
+      year: '2025'
+  representations:
+    human: PD ISO/PAS 24305:2025
+    urn: urn:bsi:pd:24305:2025
+  style: v3
+- id: bsi.adopted_international_standard.1486
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-report
+      number: '10200'
+      year: '1990'
+  representations:
+    human: PD ISO/TR 10200:1990
+    urn: urn:bsi:pd:10200:1990
+  style: v3
+- id: bsi.adopted_international_standard.1487
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-report
+      number: '10358'
+      year: '2021'
+  representations:
+    human: PD ISO/TR 10358:2021
+    urn: urn:bsi:pd:10358:2021
+  style: v3
+- id: bsi.adopted_international_standard.1488
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-report
+      number: '24679'
+      part: '6'
+      year: '2017'
+  representations:
+    human: PD ISO/TR 24679-6:2017
+    urn: urn:bsi:pd:24679:-6:2017
+  style: v3
+- id: bsi.adopted_international_standard.1489
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-report
+      number: '27929'
+      year: '2025'
+  representations:
+    human: PD ISO/TR 27929:2025
+    urn: urn:bsi:pd:27929:2025
+  style: v3
+- id: bsi.adopted_international_standard.1490
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-report
+      number: '80001'
+      part: '2'
+      subpart: '7'
+      year: '2015'
+  representations:
+    human: PD ISO/TR 80001-2-7:2015
+    urn: urn:bsi:pd:80001:-2:-7:2015
+  style: v3
+- id: bsi.adopted_international_standard.1491
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-report
+      number: '9210'
+      year: '2017'
+  representations:
+    human: PD ISO/TR 9210:2017
+    urn: urn:bsi:pd:9210:2017
+  style: v3
+- id: bsi.adopted_international_standard.1492
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-specification
+      number: '11686'
+      year: '2017'
+  representations:
+    human: PD ISO/TS 11686:2017
+    urn: urn:bsi:pd:11686:2017
+  style: v3
+- id: bsi.adopted_international_standard.1493
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-specification
+      number: '22028'
+      part: '5'
+      year: '2023'
+  representations:
+    human: PD ISO/TS 22028-5:2023
+    urn: urn:bsi:pd:22028:-5:2023
+  style: v3
+- id: bsi.adopted_international_standard.1494
+  identifier:
+    _type: pubid:bsi:adopted-international-standard
+    publisher:
+      body: PD
+    base:
+      _type: pubid:iso:technical-specification
+      number: '22163'
+      year: '2017'
+  representations:
+    human: PD ISO/TS 22163:2017
+    urn: urn:bsi:pd:22163:2017
+  style: v3

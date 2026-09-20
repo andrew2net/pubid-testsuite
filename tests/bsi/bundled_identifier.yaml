@@ -200,7 +200,7 @@
       year: '1973'
   representations:
     human: BS 9113 N001 to 004:1973
-    urn: urn:bsi:bs:9113
+    urn: urn:bsi:bs:9113:-N001
   style: v3
 - id: bsi.bundled_identifier.0590
   identifier:
@@ -218,9 +218,9 @@
       year: '1974'
   representations:
     human: BS 9131 N001 to 016:1974
-    urn: urn:bsi:bs:9131
+    urn: urn:bsi:bs:9131:-N001
   style: v3
-- id: bsi.bundled_identifier.0842
+- id: bsi.bundled_identifier.1064
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -238,7 +238,7 @@
     human: BS SP 10 & 11:1949
     urn: urn:bsi:bs:10
   style: v3
-- id: bsi.bundled_identifier.0846
+- id: bsi.bundled_identifier.1068
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -256,7 +256,7 @@
     human: BS SP 115 to 117:1956
     urn: urn:bsi:bs:115
   style: v3
-- id: bsi.bundled_identifier.0849
+- id: bsi.bundled_identifier.1071
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -274,7 +274,7 @@
     human: BS SP 122 TO 125:2016
     urn: urn:bsi:bs:122
   style: v3
-- id: bsi.bundled_identifier.0850
+- id: bsi.bundled_identifier.1072
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -292,7 +292,7 @@
     human: BS SP 122 to 125:1958
     urn: urn:bsi:bs:122
   style: v3
-- id: bsi.bundled_identifier.0851
+- id: bsi.bundled_identifier.1073
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -310,7 +310,7 @@
     human: BS SP 126 & 127:1959
     urn: urn:bsi:bs:126
   style: v3
-- id: bsi.bundled_identifier.0852
+- id: bsi.bundled_identifier.1074
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -329,7 +329,7 @@
     human: BS SP 134 to SP 138:1968
     urn: urn:bsi:bs:134
   style: v3
-- id: bsi.bundled_identifier.0853
+- id: bsi.bundled_identifier.1075
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -348,7 +348,7 @@
     human: BS SP 139 and SP 140:1969
     urn: urn:bsi:bs:139
   style: v3
-- id: bsi.bundled_identifier.0854
+- id: bsi.bundled_identifier.1076
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -374,7 +374,7 @@
     human: BS SP 13; 14; 15 and 16:1949
     urn: urn:bsi:bs:13
   style: v3
-- id: bsi.bundled_identifier.0859
+- id: bsi.bundled_identifier.1081
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -392,7 +392,7 @@
     human: BS SP 28 and 29:1951
     urn: urn:bsi:bs:28
   style: v3
-- id: bsi.bundled_identifier.0862
+- id: bsi.bundled_identifier.1084
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -412,7 +412,7 @@
     human: BS SP 49 and BS SP 50:1953
     urn: urn:bsi:bs:49
   style: v3
-- id: bsi.bundled_identifier.0863
+- id: bsi.bundled_identifier.1085
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -430,7 +430,7 @@
     human: BS SP 51 and 52:1953
     urn: urn:bsi:bs:51
   style: v3
-- id: bsi.bundled_identifier.0864
+- id: bsi.bundled_identifier.1086
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -449,7 +449,7 @@
     human: BS SP 55 and SP 56:1953
     urn: urn:bsi:bs:55
   style: v3
-- id: bsi.bundled_identifier.0865
+- id: bsi.bundled_identifier.1087
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -467,7 +467,7 @@
     human: BS SP 57 and 58:1955
     urn: urn:bsi:bs:57
   style: v3
-- id: bsi.bundled_identifier.0866
+- id: bsi.bundled_identifier.1088
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:
@@ -486,7 +486,7 @@
     human: BS SP 59 and SP 60:1955
     urn: urn:bsi:bs:59
   style: v3
-- id: bsi.bundled_identifier.0868
+- id: bsi.bundled_identifier.1090
   identifier:
     _type: pubid:bsi:bundled-identifier
     identifiers:

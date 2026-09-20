@@ -2457,7 +2457,7 @@
     human: BS CISPR 16-4:2002
     urn: urn:bsi:bs:cispr:16:-4:2002
   style: v3
-- id: bsi.aerospace_standard.0763
+- id: bsi.aerospace_standard.0939
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '152'
@@ -2467,7 +2467,7 @@
     human: BS F 152:2006
     urn: urn:bsi:bs:f:152:2006
   style: v3
-- id: bsi.aerospace_standard.0764
+- id: bsi.aerospace_standard.0940
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '153'
@@ -2477,7 +2477,7 @@
     human: BS F 153:2006
     urn: urn:bsi:bs:f:153:2006
   style: v3
-- id: bsi.aerospace_standard.0765
+- id: bsi.aerospace_standard.0941
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '154'
@@ -2487,7 +2487,7 @@
     human: BS F 154:2006
     urn: urn:bsi:bs:f:154:2006
   style: v3
-- id: bsi.aerospace_standard.0766
+- id: bsi.aerospace_standard.0942
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '156'
@@ -2497,7 +2497,7 @@
     human: BS F 156:2006
     urn: urn:bsi:bs:f:156:2006
   style: v3
-- id: bsi.aerospace_standard.0767
+- id: bsi.aerospace_standard.0943
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '157'
@@ -2507,7 +2507,7 @@
     human: BS F 157:2006
     urn: urn:bsi:bs:f:157:2006
   style: v3
-- id: bsi.aerospace_standard.0768
+- id: bsi.aerospace_standard.0944
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '159'
@@ -2517,7 +2517,7 @@
     human: BS F 159:2006
     urn: urn:bsi:bs:f:159:2006
   style: v3
-- id: bsi.aerospace_standard.0769
+- id: bsi.aerospace_standard.0945
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '162'
@@ -2527,7 +2527,7 @@
     human: BS F 162:2006
     urn: urn:bsi:bs:f:162:2006
   style: v3
-- id: bsi.aerospace_standard.0770
+- id: bsi.aerospace_standard.0946
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '164'
@@ -2537,7 +2537,7 @@
     human: BS F 164:2006
     urn: urn:bsi:bs:f:164:2006
   style: v3
-- id: bsi.aerospace_standard.0771
+- id: bsi.aerospace_standard.0947
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '257'
@@ -2548,7 +2548,7 @@
     human: BS G 257-1:1998
     urn: urn:bsi:bs:g:257:-1:1998
   style: v3
-- id: bsi.aerospace_standard.0772
+- id: bsi.aerospace_standard.0948
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '257'
@@ -2559,7 +2559,7 @@
     human: BS G 257-2:1998
     urn: urn:bsi:bs:g:257:-2:1998
   style: v3
-- id: bsi.aerospace_standard.0773
+- id: bsi.aerospace_standard.0949
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '257'
@@ -2570,7 +2570,7 @@
     human: BS G 257-3:2004
     urn: urn:bsi:bs:g:257:-3:2004
   style: v3
-- id: bsi.aerospace_standard.0774
+- id: bsi.aerospace_standard.0950
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '264'
@@ -2580,7 +2580,7 @@
     human: BS G 264:2005
     urn: urn:bsi:bs:g:264:2005
   style: v3
-- id: bsi.aerospace_standard.0775
+- id: bsi.aerospace_standard.0951
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '104'
@@ -2593,7 +2593,7 @@
   non_normalized_aliases:
   - spelling: BS HC 104:1974+A3:2013
     style: v3
-- id: bsi.aerospace_standard.0776
+- id: bsi.aerospace_standard.0952
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '206'
@@ -2603,7 +2603,7 @@
     human: BS HC 206:1975
     urn: urn:bsi:bs:hc:206:1975
   style: v3
-- id: bsi.aerospace_standard.0777
+- id: bsi.aerospace_standard.0953
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '301'
@@ -2613,7 +2613,7 @@
     human: BS HC 301:1973
     urn: urn:bsi:bs:hc:301:1973
   style: v3
-- id: bsi.aerospace_standard.0784
+- id: bsi.aerospace_standard.1006
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '102'
@@ -2623,7 +2623,7 @@
     human: BS L 102:1971
     urn: urn:bsi:bs:l:102:1971
   style: v3
-- id: bsi.aerospace_standard.0785
+- id: bsi.aerospace_standard.1007
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '105'
@@ -2633,7 +2633,7 @@
     human: BS L 105:1971
     urn: urn:bsi:bs:l:105:1971
   style: v3
-- id: bsi.aerospace_standard.0786
+- id: bsi.aerospace_standard.1008
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '111'
@@ -2643,7 +2643,7 @@
     human: BS L 111:1971
     urn: urn:bsi:bs:l:111:1971
   style: v3
-- id: bsi.aerospace_standard.0787
+- id: bsi.aerospace_standard.1009
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '112'
@@ -2653,7 +2653,7 @@
     human: BS L 112:1971
     urn: urn:bsi:bs:l:112:1971
   style: v3
-- id: bsi.aerospace_standard.0788
+- id: bsi.aerospace_standard.1010
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '114'
@@ -2663,7 +2663,7 @@
     human: BS L 114:1971
     urn: urn:bsi:bs:l:114:1971
   style: v3
-- id: bsi.aerospace_standard.0789
+- id: bsi.aerospace_standard.1011
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '117'
@@ -2673,7 +2673,7 @@
     human: BS L 117:1975
     urn: urn:bsi:bs:l:117:1975
   style: v3
-- id: bsi.aerospace_standard.0790
+- id: bsi.aerospace_standard.1012
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '118'
@@ -2683,7 +2683,7 @@
     human: BS L 118:1975
     urn: urn:bsi:bs:l:118:1975
   style: v3
-- id: bsi.aerospace_standard.0791
+- id: bsi.aerospace_standard.1013
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '119'
@@ -2693,7 +2693,7 @@
     human: BS L 119:1975
     urn: urn:bsi:bs:l:119:1975
   style: v3
-- id: bsi.aerospace_standard.0792
+- id: bsi.aerospace_standard.1014
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '154'
@@ -2703,7 +2703,7 @@
     human: BS L 154:1977
     urn: urn:bsi:bs:l:154:1977
   style: v3
-- id: bsi.aerospace_standard.0793
+- id: bsi.aerospace_standard.1015
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '155'
@@ -2713,7 +2713,7 @@
     human: BS L 155:1977
     urn: urn:bsi:bs:l:155:1977
   style: v3
-- id: bsi.aerospace_standard.0794
+- id: bsi.aerospace_standard.1016
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '22'
@@ -2723,7 +2723,7 @@
     human: BS M 22:1949
     urn: urn:bsi:bs:m:22:1949
   style: v3
-- id: bsi.aerospace_standard.0796
+- id: bsi.aerospace_standard.1018
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '32'
@@ -2733,7 +2733,7 @@
     human: BS M 32:1969
     urn: urn:bsi:bs:m:32:1969
   style: v3
-- id: bsi.aerospace_standard.0797
+- id: bsi.aerospace_standard.1019
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '34'
@@ -2743,7 +2743,7 @@
     human: BS M 34:1970
     urn: urn:bsi:bs:m:34:1970
   style: v3
-- id: bsi.aerospace_standard.0798
+- id: bsi.aerospace_standard.1020
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '36'
@@ -2753,7 +2753,7 @@
     human: BS M 36:1970
     urn: urn:bsi:bs:m:36:1970
   style: v3
-- id: bsi.aerospace_standard.0799
+- id: bsi.aerospace_standard.1021
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '37'
@@ -2763,7 +2763,7 @@
     human: BS M 37:1970
     urn: urn:bsi:bs:m:37:1970
   style: v3
-- id: bsi.aerospace_standard.0800
+- id: bsi.aerospace_standard.1022
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '38'
@@ -2773,7 +2773,7 @@
     human: BS M 38:1971
     urn: urn:bsi:bs:m:38:1971
   style: v3
-- id: bsi.aerospace_standard.0801
+- id: bsi.aerospace_standard.1023
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '39'
@@ -2783,7 +2783,7 @@
     human: BS M 39:1972
     urn: urn:bsi:bs:m:39:1972
   style: v3
-- id: bsi.aerospace_standard.0802
+- id: bsi.aerospace_standard.1024
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '40'
@@ -2793,7 +2793,7 @@
     human: BS M 40:1972
     urn: urn:bsi:bs:m:40:1972
   style: v3
-- id: bsi.aerospace_standard.0803
+- id: bsi.aerospace_standard.1025
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '42'
@@ -2803,7 +2803,7 @@
     human: BS M 42:1972
     urn: urn:bsi:bs:m:42:1972
   style: v3
-- id: bsi.aerospace_standard.0804
+- id: bsi.aerospace_standard.1026
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '43'
@@ -2813,7 +2813,7 @@
     human: BS M 43:1973
     urn: urn:bsi:bs:m:43:1973
   style: v3
-- id: bsi.aerospace_standard.0805
+- id: bsi.aerospace_standard.1027
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '44'
@@ -2823,7 +2823,7 @@
     human: BS M 44:1974
     urn: urn:bsi:bs:m:44:1974
   style: v3
-- id: bsi.aerospace_standard.0806
+- id: bsi.aerospace_standard.1028
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '48'
@@ -2833,7 +2833,7 @@
     human: BS M 48:1975
     urn: urn:bsi:bs:m:48:1975
   style: v3
-- id: bsi.aerospace_standard.0807
+- id: bsi.aerospace_standard.1029
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '67'
@@ -2843,7 +2843,7 @@
     human: BS M 67:1988
     urn: urn:bsi:bs:m:67:1988
   style: v3
-- id: bsi.aerospace_standard.0808
+- id: bsi.aerospace_standard.1030
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '68'
@@ -2853,7 +2853,7 @@
     human: BS M 68:1992
     urn: urn:bsi:bs:m:68:1992
   style: v3
-- id: bsi.aerospace_standard.0809
+- id: bsi.aerospace_standard.1031
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '69'
@@ -2863,7 +2863,7 @@
     human: BS M 69:1993
     urn: urn:bsi:bs:m:69:1993
   style: v3
-- id: bsi.aerospace_standard.0810
+- id: bsi.aerospace_standard.1032
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '71'
@@ -2873,7 +2873,7 @@
     human: BS M 71:1994
     urn: urn:bsi:bs:m:71:1994
   style: v3
-- id: bsi.aerospace_standard.0811
+- id: bsi.aerospace_standard.1033
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '73'
@@ -2883,7 +2883,7 @@
     human: BS M 73:1994
     urn: urn:bsi:bs:m:73:1994
   style: v3
-- id: bsi.aerospace_standard.0812
+- id: bsi.aerospace_standard.1034
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '74'
@@ -2893,7 +2893,7 @@
     human: BS M 74:1994
     urn: urn:bsi:bs:m:74:1994
   style: v3
-- id: bsi.aerospace_standard.0813
+- id: bsi.aerospace_standard.1035
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '79'
@@ -2903,7 +2903,7 @@
     human: BS M 79:1995
     urn: urn:bsi:bs:m:79:1995
   style: v3
-- id: bsi.aerospace_standard.0814
+- id: bsi.aerospace_standard.1036
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '82'
@@ -2913,7 +2913,7 @@
     human: BS M 82:1995
     urn: urn:bsi:bs:m:82:1995
   style: v3
-- id: bsi.aerospace_standard.0815
+- id: bsi.aerospace_standard.1037
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '85'
@@ -2923,7 +2923,7 @@
     human: BS M 85:1995
     urn: urn:bsi:bs:m:85:1995
   style: v3
-- id: bsi.aerospace_standard.0816
+- id: bsi.aerospace_standard.1038
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '88'
@@ -2933,7 +2933,7 @@
     human: BS M 88:1996
     urn: urn:bsi:bs:m:88:1996
   style: v3
-- id: bsi.aerospace_standard.0817
+- id: bsi.aerospace_standard.1039
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '91'
@@ -2943,7 +2943,7 @@
     human: BS M 91:1997
     urn: urn:bsi:bs:m:91:1997
   style: v3
-- id: bsi.aerospace_standard.0818
+- id: bsi.aerospace_standard.1040
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '93'
@@ -2953,7 +2953,7 @@
     human: BS M 93:2005
     urn: urn:bsi:bs:m:93:2005
   style: v3
-- id: bsi.aerospace_standard.0819
+- id: bsi.aerospace_standard.1041
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '18'
@@ -2963,7 +2963,7 @@
     human: BS MA 18:1973
     urn: urn:bsi:bs:ma:18:1973
   style: v3
-- id: bsi.aerospace_standard.0820
+- id: bsi.aerospace_standard.1042
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '25'
@@ -2973,7 +2973,7 @@
     human: BS MA 25:1973
     urn: urn:bsi:bs:ma:25:1973
   style: v3
-- id: bsi.aerospace_standard.0821
+- id: bsi.aerospace_standard.1043
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '40'
@@ -2984,7 +2984,7 @@
     human: BS MA 40-1:1975
     urn: urn:bsi:bs:ma:40:-1:1975
   style: v3
-- id: bsi.aerospace_standard.0822
+- id: bsi.aerospace_standard.1044
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '40'
@@ -2995,7 +2995,7 @@
     human: BS MA 40-2:1975
     urn: urn:bsi:bs:ma:40:-2:1975
   style: v3
-- id: bsi.aerospace_standard.0823
+- id: bsi.aerospace_standard.1045
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '78'
@@ -3005,7 +3005,7 @@
     human: BS MA 78:1978
     urn: urn:bsi:bs:ma:78:1978
   style: v3
-- id: bsi.aerospace_standard.0824
+- id: bsi.aerospace_standard.1046
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '81'
@@ -3015,7 +3015,7 @@
     human: BS MA 81:1980
     urn: urn:bsi:bs:ma:81:1980
   style: v3
-- id: bsi.aerospace_standard.0825
+- id: bsi.aerospace_standard.1047
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '4'
@@ -3025,7 +3025,7 @@
     human: BS PL 4:2005
     urn: urn:bsi:bs:pl:4:2005
   style: v3
-- id: bsi.aerospace_standard.0826
+- id: bsi.aerospace_standard.1048
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '5'
@@ -3035,7 +3035,7 @@
     human: BS PL 5:2005
     urn: urn:bsi:bs:pl:5:2005
   style: v3
-- id: bsi.aerospace_standard.0827
+- id: bsi.aerospace_standard.1049
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '6'
@@ -3045,7 +3045,7 @@
     human: BS PL 6:2005
     urn: urn:bsi:bs:pl:6:2005
   style: v3
-- id: bsi.aerospace_standard.0828
+- id: bsi.aerospace_standard.1050
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '7'
@@ -3055,7 +3055,7 @@
     human: BS PL 7:2005
     urn: urn:bsi:bs:pl:7:2005
   style: v3
-- id: bsi.aerospace_standard.0829
+- id: bsi.aerospace_standard.1051
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '8'
@@ -3065,7 +3065,7 @@
     human: BS PL 8:2005
     urn: urn:bsi:bs:pl:8:2005
   style: v3
-- id: bsi.aerospace_standard.0830
+- id: bsi.aerospace_standard.1052
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '9'
@@ -3075,7 +3075,7 @@
     human: BS PL 9:2005
     urn: urn:bsi:bs:pl:9:2005
   style: v3
-- id: bsi.aerospace_standard.0831
+- id: bsi.aerospace_standard.1053
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '960101'
@@ -3085,7 +3085,7 @@
     human: BS QC 960101:1992
     urn: urn:bsi:bs:qc:960101:1992
   style: v3
-- id: bsi.aerospace_standard.0832
+- id: bsi.aerospace_standard.1054
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '960301'
@@ -3095,7 +3095,7 @@
     human: BS QC 960301:1992
     urn: urn:bsi:bs:qc:960301:1992
   style: v3
-- id: bsi.aerospace_standard.0833
+- id: bsi.aerospace_standard.1055
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '960401'
@@ -3105,7 +3105,7 @@
     human: BS QC 960401:1992
     urn: urn:bsi:bs:qc:960401:1992
   style: v3
-- id: bsi.aerospace_standard.0834
+- id: bsi.aerospace_standard.1056
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '960501'
@@ -3115,7 +3115,7 @@
     human: BS QC 960501:1992
     urn: urn:bsi:bs:qc:960501:1992
   style: v3
-- id: bsi.aerospace_standard.0835
+- id: bsi.aerospace_standard.1057
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '134'
@@ -3128,7 +3128,7 @@
   non_normalized_aliases:
   - spelling: BS S 134:1965+A2:2015
     style: v3
-- id: bsi.aerospace_standard.0836
+- id: bsi.aerospace_standard.1058
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '155'
@@ -3141,7 +3141,7 @@
   non_normalized_aliases:
   - spelling: BS S 155:1976+A1:2016
     style: v3
-- id: bsi.aerospace_standard.0837
+- id: bsi.aerospace_standard.1059
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '158'
@@ -3151,7 +3151,7 @@
     human: BS S 158:1977
     urn: urn:bsi:bs:s:158:1977
   style: v3
-- id: bsi.aerospace_standard.0838
+- id: bsi.aerospace_standard.1060
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '159'
@@ -3161,7 +3161,7 @@
     human: BS S 159:1981
     urn: urn:bsi:bs:s:159:1981
   style: v3
-- id: bsi.aerospace_standard.0839
+- id: bsi.aerospace_standard.1061
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '160'
@@ -3171,7 +3171,7 @@
     human: BS S 160:1990
     urn: urn:bsi:bs:s:160:1990
   style: v3
-- id: bsi.aerospace_standard.0840
+- id: bsi.aerospace_standard.1062
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '161'
@@ -3181,7 +3181,7 @@
     human: BS S 161:1990
     urn: urn:bsi:bs:s:161:1990
   style: v3
-- id: bsi.aerospace_standard.0841
+- id: bsi.aerospace_standard.1063
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '163'
@@ -3191,7 +3191,7 @@
     human: BS S 163:1990
     urn: urn:bsi:bs:s:163:1990
   style: v3
-- id: bsi.aerospace_standard.0844
+- id: bsi.aerospace_standard.1066
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '113'
@@ -3201,7 +3201,7 @@
     human: BS SP 113:1954
     urn: urn:bsi:bs:sp:113:1954
   style: v3
-- id: bsi.aerospace_standard.0848
+- id: bsi.aerospace_standard.1070
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '121'
@@ -3211,7 +3211,7 @@
     human: BS SP 121:1958
     urn: urn:bsi:bs:sp:121:1958
   style: v3
-- id: bsi.aerospace_standard.0855
+- id: bsi.aerospace_standard.1077
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '141'
@@ -3221,7 +3221,7 @@
     human: BS SP 141:1970
     urn: urn:bsi:bs:sp:141:1970
   style: v3
-- id: bsi.aerospace_standard.0856
+- id: bsi.aerospace_standard.1078
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '144'
@@ -3232,7 +3232,7 @@
     human: BS SP 144-147:1971
     urn: urn:bsi:bs:sp:144:-147:1971
   style: v3
-- id: bsi.aerospace_standard.0857
+- id: bsi.aerospace_standard.1079
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '164'
@@ -3242,7 +3242,7 @@
     human: BS SP 164:1978
     urn: urn:bsi:bs:sp:164:1978
   style: v3
-- id: bsi.aerospace_standard.0858
+- id: bsi.aerospace_standard.1080
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '166'
@@ -3252,7 +3252,7 @@
     human: BS SP 166:1982
     urn: urn:bsi:bs:sp:166:1982
   style: v3
-- id: bsi.aerospace_standard.0867
+- id: bsi.aerospace_standard.1089
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '65'
@@ -3262,7 +3262,7 @@
     human: BS SP 65:1955
     urn: urn:bsi:bs:sp:65:1955
   style: v3
-- id: bsi.aerospace_standard.0869
+- id: bsi.aerospace_standard.1091
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '76'
@@ -3272,7 +3272,7 @@
     human: BS SP 76:1958
     urn: urn:bsi:bs:sp:76:1958
   style: v3
-- id: bsi.aerospace_standard.0870
+- id: bsi.aerospace_standard.1092
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '86'
@@ -3282,7 +3282,7 @@
     human: BS SP 86:1959
     urn: urn:bsi:bs:sp:86:1959
   style: v3
-- id: bsi.aerospace_standard.0873
+- id: bsi.aerospace_standard.1095
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '40'
@@ -3292,7 +3292,7 @@
     human: BS TA 40:1971
     urn: urn:bsi:bs:ta:40:1971
   style: v3
-- id: bsi.aerospace_standard.0874
+- id: bsi.aerospace_standard.1096
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '41'
@@ -3302,7 +3302,7 @@
     human: BS TA 41:1971
     urn: urn:bsi:bs:ta:41:1971
   style: v3
-- id: bsi.aerospace_standard.0875
+- id: bsi.aerospace_standard.1097
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '42'
@@ -3312,7 +3312,7 @@
     human: BS TA 42:1971
     urn: urn:bsi:bs:ta:42:1971
   style: v3
-- id: bsi.aerospace_standard.0876
+- id: bsi.aerospace_standard.1098
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '43'
@@ -3322,7 +3322,7 @@
     human: BS TA 43:1972
     urn: urn:bsi:bs:ta:43:1972
   style: v3
-- id: bsi.aerospace_standard.0877
+- id: bsi.aerospace_standard.1099
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '44'
@@ -3332,7 +3332,7 @@
     human: BS TA 44:1972
     urn: urn:bsi:bs:ta:44:1972
   style: v3
-- id: bsi.aerospace_standard.0878
+- id: bsi.aerospace_standard.1100
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '45'
@@ -3342,7 +3342,7 @@
     human: BS TA 45:1973
     urn: urn:bsi:bs:ta:45:1973
   style: v3
-- id: bsi.aerospace_standard.0879
+- id: bsi.aerospace_standard.1101
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '46'
@@ -3352,7 +3352,7 @@
     human: BS TA 46:1973
     urn: urn:bsi:bs:ta:46:1973
   style: v3
-- id: bsi.aerospace_standard.0880
+- id: bsi.aerospace_standard.1102
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '47'
@@ -3362,7 +3362,7 @@
     human: BS TA 47:1973
     urn: urn:bsi:bs:ta:47:1973
   style: v3
-- id: bsi.aerospace_standard.0881
+- id: bsi.aerospace_standard.1103
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '48'
@@ -3372,7 +3372,7 @@
     human: BS TA 48:1973
     urn: urn:bsi:bs:ta:48:1973
   style: v3
-- id: bsi.aerospace_standard.0882
+- id: bsi.aerospace_standard.1104
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '49'
@@ -3382,7 +3382,7 @@
     human: BS TA 49:1973
     urn: urn:bsi:bs:ta:49:1973
   style: v3
-- id: bsi.aerospace_standard.0883
+- id: bsi.aerospace_standard.1105
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '50'
@@ -3392,7 +3392,7 @@
     human: BS TA 50:1973
     urn: urn:bsi:bs:ta:50:1973
   style: v3
-- id: bsi.aerospace_standard.0884
+- id: bsi.aerospace_standard.1106
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '51'
@@ -3402,7 +3402,7 @@
     human: BS TA 51:1973
     urn: urn:bsi:bs:ta:51:1973
   style: v3
-- id: bsi.aerospace_standard.0885
+- id: bsi.aerospace_standard.1107
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '52'
@@ -3412,7 +3412,7 @@
     human: BS TA 52:1973
     urn: urn:bsi:bs:ta:52:1973
   style: v3
-- id: bsi.aerospace_standard.0886
+- id: bsi.aerospace_standard.1108
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '53'
@@ -3422,7 +3422,7 @@
     human: BS TA 53:1973
     urn: urn:bsi:bs:ta:53:1973
   style: v3
-- id: bsi.aerospace_standard.0887
+- id: bsi.aerospace_standard.1109
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '54'
@@ -3432,7 +3432,7 @@
     human: BS TA 54:1973
     urn: urn:bsi:bs:ta:54:1973
   style: v3
-- id: bsi.aerospace_standard.0888
+- id: bsi.aerospace_standard.1110
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '55'
@@ -3442,7 +3442,7 @@
     human: BS TA 55:1973
     urn: urn:bsi:bs:ta:55:1973
   style: v3
-- id: bsi.aerospace_standard.0889
+- id: bsi.aerospace_standard.1111
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '56'
@@ -3452,7 +3452,7 @@
     human: BS TA 56:1974
     urn: urn:bsi:bs:ta:56:1974
   style: v3
-- id: bsi.aerospace_standard.0890
+- id: bsi.aerospace_standard.1112
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '57'
@@ -3462,7 +3462,7 @@
     human: BS TA 57:1974
     urn: urn:bsi:bs:ta:57:1974
   style: v3
-- id: bsi.aerospace_standard.0891
+- id: bsi.aerospace_standard.1113
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '58'
@@ -3472,7 +3472,7 @@
     human: BS TA 58:1974
     urn: urn:bsi:bs:ta:58:1974
   style: v3
-- id: bsi.aerospace_standard.0892
+- id: bsi.aerospace_standard.1114
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '59'
@@ -3482,7 +3482,7 @@
     human: BS TA 59:1980
     urn: urn:bsi:bs:ta:59:1980
   style: v3
-- id: bsi.aerospace_standard.0893
+- id: bsi.aerospace_standard.1115
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '36'
@@ -3492,7 +3492,7 @@
     human: BS X 36:1998
     urn: urn:bsi:bs:x:36:1998
   style: v3
-- id: bsi.aerospace_standard.0894
+- id: bsi.aerospace_standard.1116
   identifier:
     _type: pubid:bsi:aerospace-standard
     number: '37'

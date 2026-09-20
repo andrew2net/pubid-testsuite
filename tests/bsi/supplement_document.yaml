@@ -35,7 +35,7 @@
     supplement_year: 1980
   representations:
     human: BS 2011-3A & B:Supplement No. 1:1980
-    urn: urn:bsi:bs:2011
+    urn: urn:bsi:bs:2011:-3A & B
   style: v3
 - id: bsi.supplement_document.0138
   identifier:
@@ -120,7 +120,7 @@
     supplement_year: 1986
   representations:
     human: BS 5415-2.2:Supplement No. 1:1986
-    urn: urn:bsi:bs:5415
+    urn: urn:bsi:bs:5415:-2.2
   style: v3
 - id: bsi.supplement_document.0499
   identifier:
@@ -145,7 +145,7 @@
     supplement_year: 1984
   representations:
     human: BS 5728-2:Supplement No. 1:1984
-    urn: urn:bsi:bs:5728
+    urn: urn:bsi:bs:5728:-2
   style: v3
 - id: bsi.supplement_document.0709
   identifier:
@@ -172,7 +172,7 @@
     human: BS E9111:Supplement No. 1:1976
     urn: urn:bsi:bs:E9111
   style: v3
-- id: bsi.supplement_document.0795
+- id: bsi.supplement_document.1017
   identifier:
     _type: pubid:bsi:supplement-document
     base:
@@ -185,7 +185,7 @@
     human: BS M 31:Supplement No. 1:1974
     urn: urn:bsi:bs:31
   style: v3
-- id: bsi.supplement_document.0937
+- id: bsi.supplement_document.1495
   identifier:
     _type: pubid:bsi:supplement-document
     base:
@@ -197,9 +197,9 @@
     reverse_format: true
   representations:
     human: Supplement No. 1 (1970) to BS 1831:1969
-    urn: urn:bsi:bs:1831
+    urn: urn:bsi:bs:1831:1969
   style: v3
-- id: bsi.supplement_document.0938
+- id: bsi.supplement_document.1496
   identifier:
     _type: pubid:bsi:supplement-document
     base:
@@ -211,9 +211,9 @@
     reverse_format: true
   representations:
     human: Supplement No. 2 (1970) to BS 1831:1969
-    urn: urn:bsi:bs:1831
+    urn: urn:bsi:bs:1831:1969
   style: v3
-- id: bsi.supplement_document.0939
+- id: bsi.supplement_document.1497
   identifier:
     _type: pubid:bsi:supplement-document
     base:
@@ -225,5 +225,5 @@
     reverse_format: true
   representations:
     human: Supplement No. 3 (1974) to BS 1831:1969
-    urn: urn:bsi:bs:1831
+    urn: urn:bsi:bs:1831:1969
   style: v3

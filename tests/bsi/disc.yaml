@@ -1,5 +1,5 @@
 ---
-- id: bsi.disc.0928
+- id: bsi.disc.1251
   identifier:
     _type: pubid:bsi:disc
     number: '0005'
@@ -10,7 +10,7 @@
     human: DISC PD 0005:1995
     urn: urn:bsi:disc:0005:1995
   style: v3
-- id: bsi.disc.0929
+- id: bsi.disc.1252
   identifier:
     _type: pubid:bsi:disc
     number: '0008'
@@ -21,7 +21,7 @@
     human: DISC PD 0008:1996
     urn: urn:bsi:disc:0008:1996
   style: v3
-- id: bsi.disc.0930
+- id: bsi.disc.1253
   identifier:
     _type: pubid:bsi:disc
     number: '1999'
@@ -33,7 +33,7 @@
     human: DISC PD 1999-1:1998
     urn: urn:bsi:disc:1999:-1:1998
   style: v3
-- id: bsi.disc.0931
+- id: bsi.disc.1254
   identifier:
     _type: pubid:bsi:disc
     number: '1999'
@@ -45,7 +45,7 @@
     human: DISC PD 1999-1:2001
     urn: urn:bsi:disc:1999:-1:2001
   style: v3
-- id: bsi.disc.0932
+- id: bsi.disc.1255
   identifier:
     _type: pubid:bsi:disc
     number: '1999'
@@ -57,7 +57,7 @@
     human: DISC PD 1999-2:2001
     urn: urn:bsi:disc:1999:-2:2001
   style: v3
-- id: bsi.disc.0933
+- id: bsi.disc.1256
   identifier:
     _type: pubid:bsi:disc
     number: '1999'
@@ -69,7 +69,7 @@
     human: DISC PD 1999-3:1999
     urn: urn:bsi:disc:1999:-3:1999
   style: v3
-- id: bsi.disc.0934
+- id: bsi.disc.1257
   identifier:
     _type: pubid:bsi:disc
     number: '1999'
@@ -81,7 +81,7 @@
     human: DISC PD 1999-3:2001
     urn: urn:bsi:disc:1999:-3:2001
   style: v3
-- id: bsi.disc.0935
+- id: bsi.disc.1258
   identifier:
     _type: pubid:bsi:disc
     number: '2000'
@@ -93,7 +93,7 @@
     human: DISC PD 2000-2:1997
     urn: urn:bsi:disc:2000:-2:1997
   style: v3
-- id: bsi.disc.0936
+- id: bsi.disc.1259
   identifier:
     _type: pubid:bsi:disc
     number: '3004'

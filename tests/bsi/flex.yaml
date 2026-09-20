@@ -1,5 +1,5 @@
 ---
-- id: bsi.flex.0895
+- id: bsi.flex.1117
   identifier:
     _type: pubid:bsi:flex
     number: '1886'
@@ -10,7 +10,7 @@
     human: BSI Flex 1886 v2.0:2024-09
     urn: urn:bsi:bs:1886:2024:09:v2.0
   style: v3
-- id: bsi.flex.0896
+- id: bsi.flex.1118
   identifier:
     _type: pubid:bsi:flex
     number: '1887'
@@ -21,7 +21,7 @@
     human: BSI Flex 1887 v2.0:2025-01
     urn: urn:bsi:bs:1887:2025:01:v2.0
   style: v3
-- id: bsi.flex.0897
+- id: bsi.flex.1119
   identifier:
     _type: pubid:bsi:flex
     number: '1888'
@@ -32,7 +32,7 @@
     human: BSI Flex 1888 v2.0:2025-03
     urn: urn:bsi:bs:1888:2025:03:v2.0
   style: v3
-- id: bsi.flex.0898
+- id: bsi.flex.1120
   identifier:
     _type: pubid:bsi:flex
     number: '1889'
@@ -43,7 +43,7 @@
     human: BSI Flex 1889 v2.0:2023-09
     urn: urn:bsi:bs:1889:2023:09:v2.0
   style: v3
-- id: bsi.flex.0899
+- id: bsi.flex.1121
   identifier:
     _type: pubid:bsi:flex
     number: '1890'
@@ -54,7 +54,7 @@
     human: BSI Flex 1890 v6.0:2025-03
     urn: urn:bsi:bs:1890:2025:03:v6.0
   style: v3
-- id: bsi.flex.0900
+- id: bsi.flex.1122
   identifier:
     _type: pubid:bsi:flex
     number: '1891'
@@ -65,7 +65,7 @@
     human: BSI Flex 1891 v1.0:2025-01
     urn: urn:bsi:bs:1891:2025:01:v1.0
   style: v3
-- id: bsi.flex.0901
+- id: bsi.flex.1123
   identifier:
     _type: pubid:bsi:flex
     number: '1904'
@@ -76,7 +76,7 @@
     human: BSI Flex 1904 v2.0:2025-03
     urn: urn:bsi:bs:1904:2025:03:v2.0
   style: v3
-- id: bsi.flex.0902
+- id: bsi.flex.1124
   identifier:
     _type: pubid:bsi:flex
     number: '1906'
@@ -87,7 +87,7 @@
     human: BSI Flex 1906 v1.0:2025-03
     urn: urn:bsi:bs:1906:2025:03:v1.0
   style: v3
-- id: bsi.flex.0903
+- id: bsi.flex.1125
   identifier:
     _type: pubid:bsi:flex
     number: '1965'
@@ -98,7 +98,7 @@
     human: BSI Flex 1965 v2.0:2023-04
     urn: urn:bsi:bs:1965:2023:04:v2.0
   style: v3
-- id: bsi.flex.0904
+- id: bsi.flex.1126
   identifier:
     _type: pubid:bsi:flex
     number: '1969'
@@ -109,7 +109,7 @@
     human: BSI Flex 1969 v1.0:2025-03
     urn: urn:bsi:bs:1969:2025:03:v1.0
   style: v3
-- id: bsi.flex.0905
+- id: bsi.flex.1127
   identifier:
     _type: pubid:bsi:flex
     number: '1971'
@@ -120,7 +120,7 @@
     human: BSI Flex 1971 v1.0:2025-04
     urn: urn:bsi:bs:1971:2025:04:v1.0
   style: v3
-- id: bsi.flex.0906
+- id: bsi.flex.1128
   identifier:
     _type: pubid:bsi:flex
     number: '2071'
@@ -131,7 +131,7 @@
     human: BSI Flex 2071 v2.0:2025-01
     urn: urn:bsi:bs:2071:2025:01:v2.0
   style: v3
-- id: bsi.flex.0907
+- id: bsi.flex.1129
   identifier:
     _type: pubid:bsi:flex
     number: '2072'
@@ -142,7 +142,7 @@
     human: BSI Flex 2072 v2.0:2025-03
     urn: urn:bsi:bs:2072:2025:03:v2.0
   style: v3
-- id: bsi.flex.0908
+- id: bsi.flex.1130
   identifier:
     _type: pubid:bsi:flex
     number: '2073'
@@ -153,7 +153,7 @@
     human: BSI Flex 2073 v2.0:2025-03
     urn: urn:bsi:bs:2073:2025:03:v2.0
   style: v3
-- id: bsi.flex.0909
+- id: bsi.flex.1131
   identifier:
     _type: pubid:bsi:flex
     number: '236'
@@ -164,7 +164,7 @@
     human: BSI Flex 236 v3.0:2024-08
     urn: urn:bsi:bs:236:2024:08:v3.0
   style: v3
-- id: bsi.flex.0910
+- id: bsi.flex.1132
   identifier:
     _type: pubid:bsi:flex
     number: '3030'
@@ -175,7 +175,7 @@
     human: BSI Flex 3030 v2.0:2024-12
     urn: urn:bsi:bs:3030:2024:12:v2.0
   style: v3
-- id: bsi.flex.0911
+- id: bsi.flex.1133
   identifier:
     _type: pubid:bsi:flex
     number: '335'
@@ -185,7 +185,7 @@
     human: BSI Flex 335 v2.0:2024
     urn: urn:bsi:bs:335:2024:v2.0
   style: v3
-- id: bsi.flex.0912
+- id: bsi.flex.1134
   identifier:
     _type: pubid:bsi:flex
     number: '335'
@@ -196,7 +196,7 @@
     human: BSI Flex 335 v2.0:2024-03
     urn: urn:bsi:bs:335:2024:03:v2.0
   style: v3
-- id: bsi.flex.0913
+- id: bsi.flex.1135
   identifier:
     _type: pubid:bsi:flex
     number: '350'
@@ -207,7 +207,7 @@
     human: BSI Flex 350 v2.0:2024-09
     urn: urn:bsi:bs:350:2024:09:v2.0
   style: v3
-- id: bsi.flex.0914
+- id: bsi.flex.1136
   identifier:
     _type: pubid:bsi:flex
     number: '701'
@@ -218,7 +218,7 @@
     human: BSI Flex 701 v2.0:2025-03
     urn: urn:bsi:bs:701:2025:03:v2.0
   style: v3
-- id: bsi.flex.0915
+- id: bsi.flex.1137
   identifier:
     _type: pubid:bsi:flex
     number: '702'
@@ -229,7 +229,7 @@
     human: BSI Flex 702 v1.0:2024-10
     urn: urn:bsi:bs:702:2024:10:v1.0
   style: v3
-- id: bsi.flex.0916
+- id: bsi.flex.1138
   identifier:
     _type: pubid:bsi:flex
     number: '703'
@@ -240,7 +240,7 @@
     human: BSI Flex 703 v1.0:2025-03
     urn: urn:bsi:bs:703:2025:03:v1.0
   style: v3
-- id: bsi.flex.0917
+- id: bsi.flex.1139
   identifier:
     _type: pubid:bsi:flex
     number: '704'
