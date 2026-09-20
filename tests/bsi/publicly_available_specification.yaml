@@ -1,0 +1,1692 @@
+---
+- id: bsi.publicly_available_specification.1278
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '003'
+    year: '1994'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 003:1994
+    urn: urn:bsi:bs:003:1994:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1279
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '015'
+    year: '1994'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 015:1994
+    urn: urn:bsi:bs:015:1994:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1280
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '015'
+    year: '1998'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 015:1998
+    urn: urn:bsi:bs:015:1998:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1281
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '016'
+    year: '1995'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 016:1995
+    urn: urn:bsi:bs:016:1995:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1282
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '019'
+    year: '1997'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 019:1997
+    urn: urn:bsi:bs:019:1997:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1283
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '020'
+    year: '1997'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 020:1997
+    urn: urn:bsi:bs:020:1997:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1284
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '021'
+    year: '1997'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 021:1997
+    urn: urn:bsi:bs:021:1997:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1285
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '022'
+    year: '1997'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 022:1997
+    urn: urn:bsi:bs:022:1997:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1286
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '1401'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 1401:2025
+    urn: urn:bsi:bs:1401:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1287
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '185'
+    year: '2023'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 185:2023
+    urn: urn:bsi:bs:185:2023:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1288
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '1883'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 1883:2025
+    urn: urn:bsi:bs:1883:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1289
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '1892'
+    year: '2023'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 1892:2023
+    urn: urn:bsi:bs:1892:2023:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1290
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '1905'
+    year: '2024'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 1905:2024
+    urn: urn:bsi:bs:1905:2024:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1291
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '190'
+    year: '2023'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 190:2023
+    urn: urn:bsi:bs:190:2023:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1292
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '1948'
+    year: '2023'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 1948:2023
+    urn: urn:bsi:bs:1948:2023:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1293
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '2009'
+    year: '2024'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 2009:2024
+    urn: urn:bsi:bs:2009:2024:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1294
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '2012'
+    part: '1'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 2012-1:2025
+    urn: urn:bsi:bs:2012:-1:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1295
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '2012'
+    part: '2'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 2012-2:2025
+    urn: urn:bsi:bs:2012:-2:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1296
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '2013'
+    part: '1'
+    year: '2013'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 2013-1:2013
+    urn: urn:bsi:bs:2013:-1:2013:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1297
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '2030'
+    year: '2023'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 2030:2023
+    urn: urn:bsi:bs:2030:2023:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1298
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '2035'
+    year: '2023'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 2035:2023
+    urn: urn:bsi:bs:2035:2023:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1299
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '2090'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 2090:2025
+    urn: urn:bsi:bs:2090:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1300
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '2161'
+    year: '2024'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 2161:2024
+    urn: urn:bsi:bs:2161:2024:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1301
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '23'
+    part: '1'
+    year: '1999'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 23-1:1999
+    urn: urn:bsi:bs:23:-1:1999:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1302
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '24'
+    part: '1'
+    year: '1999'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 24-1:1999
+    urn: urn:bsi:bs:24:-1:1999:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1303
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '247'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 247:2025
+    urn: urn:bsi:bs:247:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1305
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '25'
+    year: '1999'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 25:1999
+    urn: urn:bsi:bs:25:1999:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1306
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '2600'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 2600:2025
+    urn: urn:bsi:bs:2600:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1307
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '26'
+    year: '1998'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 26:1998
+    urn: urn:bsi:bs:26:1998:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1308
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '27'
+    year: '1999'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 27:1999
+    urn: urn:bsi:bs:27:1999:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1309
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '29'
+    year: '1999'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 29:1999
+    urn: urn:bsi:bs:29:1999:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1310
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '30'
+    year: '1998'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 30:1998
+    urn: urn:bsi:bs:30:1998:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1311
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '32'
+    part: '1'
+    year: '1999'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 32-1:1999
+    urn: urn:bsi:bs:32:-1:1999:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1312
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '32'
+    part: '2'
+    year: '1999'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 32-2:1999
+    urn: urn:bsi:bs:32:-2:1999:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1313
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '33'
+    year: '1999'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 33:1999
+    urn: urn:bsi:bs:33:1999:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1314
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '36'
+    part: '1'
+    year: '2000'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 36-1:2000
+    urn: urn:bsi:bs:36:-1:2000:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1315
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '36'
+    part: '2'
+    year: '2000'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 36-2:2000
+    urn: urn:bsi:bs:36:-2:2000:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1316
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '360'
+    year: '2023'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 360:2023
+    urn: urn:bsi:bs:360:2023:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1317
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '4023'
+    year: '2023'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 4023:2023
+    urn: urn:bsi:bs:4023:2023:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1318
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '402'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 402:2025
+    urn: urn:bsi:bs:402:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1319
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '43'
+    year: '2015'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 43:2015
+    urn: urn:bsi:bs:43:2015:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1320
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '4441'
+    year: '2024'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 4441:2024
+    urn: urn:bsi:bs:4441:2024:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1321
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '4442'
+    year: '2024'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 4442:2024
+    urn: urn:bsi:bs:4442:2024:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1322
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '4443'
+    year: '2024'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 4443:2024
+    urn: urn:bsi:bs:4443:2024:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1323
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '4445'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 4445:2025
+    urn: urn:bsi:bs:4445:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1324
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '51215'
+    part: '1'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 51215-1:2025
+    urn: urn:bsi:bs:51215:-1:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1325
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '51215'
+    part: '2'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 51215-2:2025
+    urn: urn:bsi:bs:51215:-2:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1326
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '5222'
+    year: '2024'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 5222:2024
+    urn: urn:bsi:bs:5222:2024:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1327
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '5420'
+    year: '2023'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 5420:2023
+    urn: urn:bsi:bs:5420:2023:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1328
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '63100'
+    year: '2024'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 63100:2024
+    urn: urn:bsi:bs:63100:2024:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1329
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '7055'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 7055:2025
+    urn: urn:bsi:bs:7055:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1330
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '7342'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 7342:2025
+    urn: urn:bsi:bs:7342:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1331
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '7770'
+    year: '2024'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 7770:2024
+    urn: urn:bsi:bs:7770:2024:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1332
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '8700'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 8700:2025
+    urn: urn:bsi:bs:8700:2025:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1333
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '8855'
+    year: '2024'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 8855:2024
+    urn: urn:bsi:bs:8855:2024:pas:stage.published
+  style: v3
+- id: bsi.publicly_available_specification.1334
+  identifier:
+    _type: pubid:bsi:publicly-available-specification
+    number: '901'
+    year: '2025'
+    type:
+      name: Publicly Available Specification
+      abbr: PAS
+      type_code: pas
+    stage:
+      name: Publicly Available Specification
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PAS
+    typed_stage:
+      name: Publicly Available Specification
+      code: pubpas
+      type_code: pas
+      stage_code: published
+      abbr:
+      - PAS
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PAS 901:2025
+    urn: urn:bsi:bs:901:2025:pas:stage.published
+  style: v3

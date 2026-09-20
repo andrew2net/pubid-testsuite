@@ -8,6 +8,9 @@
     human: BS 10005:1995
     urn: urn:bsi:bs:10005:1995
   style: v3
+  non_normalized_aliases:
+  - spelling: HB 10005:1995
+    style: v3
 - id: bsi.british_standard.0012
   identifier:
     _type: pubid:bsi:british-standard
@@ -35,6 +38,9 @@
     human: BS 10051:1994
     urn: urn:bsi:bs:10051:1994
   style: v3
+  non_normalized_aliases:
+  - spelling: HB 10051:1994
+    style: v3
 - id: bsi.british_standard.0022
   identifier:
     _type: pubid:bsi:british-standard
@@ -44,6 +50,9 @@
     human: BS 10105:1996
     urn: urn:bsi:bs:10105:1996
   style: v3
+  non_normalized_aliases:
+  - spelling: HB 10105:1996
+    style: v3
 - id: bsi.british_standard.0024
   identifier:
     _type: pubid:bsi:british-standard
@@ -53,6 +62,9 @@
     human: BS 10140:1997
     urn: urn:bsi:bs:10140:1997
   style: v3
+  non_normalized_aliases:
+  - spelling: HB 10140:1997
+    style: v3
 - id: bsi.british_standard.0025
   identifier:
     _type: pubid:bsi:british-standard
@@ -62,6 +74,9 @@
     human: BS 10146:1998
     urn: urn:bsi:bs:10146:1998
   style: v3
+  non_normalized_aliases:
+  - spelling: HB 10146:1998
+    style: v3
 - id: bsi.british_standard.0026
   identifier:
     _type: pubid:bsi:british-standard
@@ -101,6 +116,9 @@
     human: BS 10168:1999
     urn: urn:bsi:bs:10168:1999
   style: v3
+  non_normalized_aliases:
+  - spelling: HB 10168:1999
+    style: v3
 - id: bsi.british_standard.0030
   identifier:
     _type: pubid:bsi:british-standard
@@ -110,6 +128,9 @@
     human: BS 10170:1999
     urn: urn:bsi:bs:10170:1999
   style: v3
+  non_normalized_aliases:
+  - spelling: HB 10170:1999
+    style: v3
 - id: bsi.british_standard.0031
   identifier:
     _type: pubid:bsi:british-standard
@@ -119,6 +140,9 @@
     human: BS 10204:2002
     urn: urn:bsi:bs:10204:2002
   style: v3
+  non_normalized_aliases:
+  - spelling: HB 10204:2002
+    style: v3
 - id: bsi.british_standard.0032
   identifier:
     _type: pubid:bsi:british-standard
@@ -128,6 +152,9 @@
     human: BS 10213:2001
     urn: urn:bsi:bs:10213:2001
   style: v3
+  non_normalized_aliases:
+  - spelling: HB 10213:2001
+    style: v3
 - id: bsi.british_standard.0033
   identifier:
     _type: pubid:bsi:british-standard
@@ -624,6 +651,9 @@
     human: BS 17:1963
     urn: urn:bsi:bs:17:1963
   style: v3
+  non_normalized_aliases:
+  - spelling: Handbook 17:1963
+    style: v3
 - id: bsi.british_standard.0094
   identifier:
     _type: pubid:bsi:british-standard
@@ -700,6 +730,9 @@
     human: BS 200
     urn: urn:bsi:bs:200
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 200
+    style: v3
 - id: bsi.british_standard.0106
   identifier:
     _type: pubid:bsi:british-standard
@@ -738,6 +771,9 @@
     human: BS 2001
     urn: urn:bsi:bs:2001
   style: v3
+  non_normalized_aliases:
+  - spelling: ep 2001
+    style: v3
 - id: bsi.british_standard.0110
   identifier:
     _type: pubid:bsi:british-standard
@@ -746,6 +782,9 @@
     human: BS 201
     urn: urn:bsi:bs:201
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 201
+    style: v3
 - id: bsi.british_standard.0111
   identifier:
     _type: pubid:bsi:british-standard
@@ -764,6 +803,9 @@
     human: BS 201:1995
     urn: urn:bsi:bs:201:1995
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 201:1995
+    style: v3
 - id: bsi.british_standard.0114
   identifier:
     _type: pubid:bsi:british-standard
@@ -773,6 +815,9 @@
     human: BS 201:1998
     urn: urn:bsi:bs:201:1998
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 201:1998
+    style: v3
 - id: bsi.british_standard.0115
   identifier:
     _type: pubid:bsi:british-standard
@@ -782,6 +827,9 @@
     human: BS 202:1995
     urn: urn:bsi:bs:202:1995
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 202:1995
+    style: v3
 - id: bsi.british_standard.0116
   identifier:
     _type: pubid:bsi:british-standard
@@ -791,6 +839,9 @@
     human: BS 202:1996
     urn: urn:bsi:bs:202:1996
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 202:1996
+    style: v3
 - id: bsi.british_standard.0117
   identifier:
     _type: pubid:bsi:british-standard
@@ -800,6 +851,9 @@
     human: BS 202:1997
     urn: urn:bsi:bs:202:1997
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 202:1997
+    style: v3
 - id: bsi.british_standard.0118
   identifier:
     _type: pubid:bsi:british-standard
@@ -808,6 +862,9 @@
     human: BS 203
     urn: urn:bsi:bs:203
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 203
+    style: v3
 - id: bsi.british_standard.0119
   identifier:
     _type: pubid:bsi:british-standard
@@ -817,6 +874,9 @@
     human: BS 203:1997
     urn: urn:bsi:bs:203:1997
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 203:1997
+    style: v3
 - id: bsi.british_standard.0120
   identifier:
     _type: pubid:bsi:british-standard
@@ -826,6 +886,9 @@
     human: BS 203:2000
     urn: urn:bsi:bs:203:2000
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 203:2000
+    style: v3
 - id: bsi.british_standard.0121
   identifier:
     _type: pubid:bsi:british-standard
@@ -834,6 +897,9 @@
     human: BS 206
     urn: urn:bsi:bs:206
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 206
+    style: v3
 - id: bsi.british_standard.0122
   identifier:
     _type: pubid:bsi:british-standard
@@ -852,6 +918,9 @@
     human: BS 207
     urn: urn:bsi:bs:207
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 207
+    style: v3
 - id: bsi.british_standard.0124
   identifier:
     _type: pubid:bsi:british-standard
@@ -878,6 +947,9 @@
     human: BS 210
     urn: urn:bsi:bs:210
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 210
+    style: v3
 - id: bsi.british_standard.0127
   identifier:
     _type: pubid:bsi:british-standard
@@ -897,6 +969,9 @@
     human: BS 22-2:1992
     urn: urn:bsi:bs:22:-2:1992
   style: v3
+  non_normalized_aliases:
+  - spelling: Handbook 22-2:1992
+    style: v3
 - id: bsi.british_standard.0129
   identifier:
     _type: pubid:bsi:british-standard
@@ -905,6 +980,9 @@
     human: BS 220
     urn: urn:bsi:bs:220
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 220
+    style: v3
 - id: bsi.british_standard.0130
   identifier:
     _type: pubid:bsi:british-standard
@@ -913,6 +991,9 @@
     human: BS 230
     urn: urn:bsi:bs:230
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 230
+    style: v3
 - id: bsi.british_standard.0131
   identifier:
     _type: pubid:bsi:british-standard
@@ -969,6 +1050,9 @@
     human: BS 26:1996
     urn: urn:bsi:bs:26:1996
   style: v3
+  non_normalized_aliases:
+  - spelling: Handbook 26:1996
+    style: v3
 - id: bsi.british_standard.0142
   identifier:
     _type: pubid:bsi:british-standard
@@ -1594,6 +1678,9 @@
     human: BS 3:1985
     urn: urn:bsi:bs:3:1985
   style: v3
+  non_normalized_aliases:
+  - spelling: Handbook 3:1985
+    style: v3
 - id: bsi.british_standard.0370
   identifier:
     _type: pubid:bsi:british-standard
@@ -2179,6 +2266,9 @@
     human: BS 511
     urn: urn:bsi:bs:511
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 511
+    style: v3
 - id: bsi.british_standard.0449
   identifier:
     _type: pubid:bsi:british-standard
@@ -2387,6 +2477,9 @@
     human: BS 526
     urn: urn:bsi:bs:526
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 526
+    style: v3
 - id: bsi.british_standard.0471
   identifier:
     _type: pubid:bsi:british-standard
@@ -2396,6 +2489,9 @@
     human: BS 526:2001
     urn: urn:bsi:bs:526:2001
   style: v3
+  non_normalized_aliases:
+  - spelling: EP 526:2001
+    style: v3
 - id: bsi.british_standard.0472
   identifier:
     _type: pubid:bsi:british-standard
@@ -3074,6 +3170,9 @@
     human: BS 7307:1986
     urn: urn:bsi:bs:7307:1986
   style: v3
+  non_normalized_aliases:
+  - spelling: PP 7307:1986
+    style: v3
 - id: bsi.british_standard.0558
   identifier:
     _type: pubid:bsi:british-standard
@@ -3083,6 +3182,9 @@
     human: BS 7722:2006
     urn: urn:bsi:bs:7722:2006
   style: v3
+  non_normalized_aliases:
+  - spelling: PP 7722:2006
+    style: v3
 - id: bsi.british_standard.0561
   identifier:
     _type: pubid:bsi:british-standard
@@ -3168,6 +3270,9 @@
     human: BS 888:1982
     urn: urn:bsi:bs:888:1982
   style: v3
+  non_normalized_aliases:
+  - spelling: PP 888:1982
+    style: v3
 - id: bsi.british_standard.0575
   identifier:
     _type: pubid:bsi:british-standard

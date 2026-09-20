@@ -13,6 +13,9 @@
     human: BS 7722:2006 BOOK
     urn: urn:bsi:bs:7722:2006
   style: v3
+  non_normalized_aliases:
+  - spelling: PP 7722:2006 BOOK
+    style: v3
 - id: bsi.value_added_publication.0562
   identifier:
     _type: pubid:bsi:value-added-publication
@@ -26,7 +29,7 @@
     format: TC
   representations:
     human: BS 7870-2:2022 - TC
-    urn: urn:bsi:bs:7870:2022
+    urn: urn:bsi:bs:7870:-2:2022
   style: v3
 - id: bsi.value_added_publication.0568
   identifier:

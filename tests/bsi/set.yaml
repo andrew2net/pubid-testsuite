@@ -1,21 +1,18 @@
 ---
-- id: bsi.set.0783
+- id: bsi.set.0985
   identifier:
     _type: pubid:bsi:set
     identifiers:
     - _type: pubid:bsi:adopted-international-standard
-      number: '20400'
-      adopted:
+      base:
         _type: pubid:iso:international-standard
         number: '20400'
     - _type: pubid:bsi:adopted-international-standard
-      number: '44001'
-      adopted:
+      base:
         _type: pubid:iso:international-standard
         number: '44001'
     - _type: pubid:bsi:adopted-international-standard
-      number: '44002'
-      adopted:
+      base:
         _type: pubid:iso:international-standard
         number: '44002'
     separators:

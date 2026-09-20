@@ -10,7 +10,7 @@
     addendum_year: 1976
   representations:
     human: BS 1902-2.3:Addendum No.  1:1976
-    urn: urn:bsi:bs:1902
+    urn: urn:bsi:bs:1902:-2.3
   style: v3
   non_normalized_aliases:
   - spelling: BS 1902-2.3:Addendum No. 1:1976
@@ -26,7 +26,7 @@
     addendum_year: 1983
   representations:
     human: BS 2000-0:Addendum  1:1983
-    urn: urn:bsi:bs:2000
+    urn: urn:bsi:bs:2000:-0
   style: v3
   non_normalized_aliases:
   - spelling: BS 2000-0:Addendum 1:1983
@@ -42,7 +42,7 @@
     addendum_year: 1987
   representations:
     human: BS 2000-0:Addendum No.  1:1987
-    urn: urn:bsi:bs:2000
+    urn: urn:bsi:bs:2000:-0
   style: v3
   non_normalized_aliases:
   - spelling: BS 2000-0:Addendum No. 1:1987
@@ -58,7 +58,7 @@
     addendum_year: 1982
   representations:
     human: BS 2000-0:Addendum No.  2:1982
-    urn: urn:bsi:bs:2000
+    urn: urn:bsi:bs:2000:-0
   style: v3
   non_normalized_aliases:
   - spelling: BS 2000-0:Addendum No. 2:1982
@@ -256,7 +256,7 @@
     separator: " "
   representations:
     human: BS 449-2:1969 Addendum No.  1:1975
-    urn: urn:bsi:bs:449
+    urn: urn:bsi:bs:449:-2:1969
   style: v3
   non_normalized_aliases:
   - spelling: BS 449-2:1969 Addendum No. 1:1975
@@ -287,7 +287,7 @@
     addendum_year: 1986
   representations:
     human: BS 6034:1981:Addendum No.  1:1986
-    urn: urn:bsi:bs:6034
+    urn: urn:bsi:bs:6034:1981
   style: v3
   non_normalized_aliases:
   - spelling: BS 6034:1981:Addendum No. 1:1986
@@ -303,7 +303,7 @@
     addendum_year: 1993
   representations:
     human: BS 6186-1:Addendum No.  1:1993
-    urn: urn:bsi:bs:6186
+    urn: urn:bsi:bs:6186:-1
   style: v3
   non_normalized_aliases:
   - spelling: BS 6186-1:Addendum No. 1:1993
@@ -319,7 +319,7 @@
     addendum_year: 1959
   representations:
     human: BS 978-2:Addendum No.  1:1959
-    urn: urn:bsi:bs:978
+    urn: urn:bsi:bs:978:-2
   style: v3
   non_normalized_aliases:
   - spelling: BS 978-2:Addendum No. 1:1959

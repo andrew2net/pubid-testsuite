@@ -1,0 +1,2289 @@
+---
+- id: bsi.published_document.1335
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '0017'
+    year: '2001'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 0017:2001
+    urn: urn:bsi:bs:0017:2001:pd:stage.published
+  style: v3
+- id: bsi.published_document.1336
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '2777'
+    year: '1977'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 2777:1977
+    urn: urn:bsi:bs:2777:1977:pd:stage.published
+  style: v3
+- id: bsi.published_document.1337
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '4845'
+    year: '1977'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 4845:1977
+    urn: urn:bsi:bs:4845:1977:pd:stage.published
+  style: v3
+- id: bsi.published_document.1340
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '5686'
+    year: '1978'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 5686:1978
+    urn: urn:bsi:bs:5686:1978:pd:stage.published
+  style: v3
+- id: bsi.published_document.1341
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '572'
+    year: '1946'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 572:1946
+    urn: urn:bsi:bs:572:1946:pd:stage.published
+  style: v3
+- id: bsi.published_document.1342
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '5730'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 5730
+    urn: urn:bsi:bs:5730:pd:stage.published
+  style: v3
+- id: bsi.published_document.1343
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '5952'
+    year: '1966'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 5952:1966
+    urn: urn:bsi:bs:5952:1966:pd:stage.published
+  style: v3
+- id: bsi.published_document.1344
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6007'
+    year: '1967'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6007:1967
+    urn: urn:bsi:bs:6007:1967:pd:stage.published
+  style: v3
+- id: bsi.published_document.1345
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6079'
+    part: '4'
+    year: '2006'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+    translation_lang: Book
+  representations:
+    human: PD 6079-4:2006 (Book)
+    urn: urn:bsi:bs:6079:-4:2006:book:pd:stage.published
+  style: v3
+- id: bsi.published_document.1346
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6112'
+    year: '1967'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6112:1967
+    urn: urn:bsi:bs:6112:1967:pd:stage.published
+  style: v3
+- id: bsi.published_document.1347
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6166'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6166
+    urn: urn:bsi:bs:6166:pd:stage.published
+  style: v3
+- id: bsi.published_document.1348
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6290'
+    year: '1967'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6290:1967
+    urn: urn:bsi:bs:6290:1967:pd:stage.published
+  style: v3
+- id: bsi.published_document.1349
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6423'
+    year: '1968'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6423:1968
+    urn: urn:bsi:bs:6423:1968:pd:stage.published
+  style: v3
+- id: bsi.published_document.1350
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6430'
+    year: '1970'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+    second_number:
+      value: '1'
+  representations:
+    human: PD 6430/1:1970
+    urn: urn:bsi:bs:6430:/1:1970:pd:stage.published
+  style: v3
+- id: bsi.published_document.1351
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6430'
+    year: '1969'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6430:1969
+    urn: urn:bsi:bs:6430:1969:pd:stage.published
+  style: v3
+- id: bsi.published_document.1352
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6431'
+    year: '1969'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6431:1969
+    urn: urn:bsi:bs:6431:1969:pd:stage.published
+  style: v3
+- id: bsi.published_document.1353
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6432'
+    part: '2'
+    year: '1969'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6432-2:1969
+    urn: urn:bsi:bs:6432:-2:1969:pd:stage.published
+  style: v3
+- id: bsi.published_document.1354
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6433'
+    year: '1969'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6433:1969
+    urn: urn:bsi:bs:6433:1969:pd:stage.published
+  style: v3
+- id: bsi.published_document.1355
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6434'
+    year: '1969'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6434:1969
+    urn: urn:bsi:bs:6434:1969:pd:stage.published
+  style: v3
+- id: bsi.published_document.1356
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6437'
+    year: '1969'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6437:1969
+    urn: urn:bsi:bs:6437:1969:pd:stage.published
+  style: v3
+- id: bsi.published_document.1357
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6438'
+    year: '1969'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6438:1969
+    urn: urn:bsi:bs:6438:1969:pd:stage.published
+  style: v3
+- id: bsi.published_document.1358
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6439'
+    year: '1969'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6439:1969
+    urn: urn:bsi:bs:6439:1969:pd:stage.published
+  style: v3
+- id: bsi.published_document.1359
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6446'
+    year: '1970'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6446:1970
+    urn: urn:bsi:bs:6446:1970:pd:stage.published
+  style: v3
+- id: bsi.published_document.1360
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6451'
+    year: '1970'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6451:1970
+    urn: urn:bsi:bs:6451:1970:pd:stage.published
+  style: v3
+- id: bsi.published_document.1361
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6453'
+    year: '1970'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6453:1970
+    urn: urn:bsi:bs:6453:1970:pd:stage.published
+  style: v3
+- id: bsi.published_document.1362
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6455'
+    year: '1970'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6455:1970
+    urn: urn:bsi:bs:6455:1970:pd:stage.published
+  style: v3
+- id: bsi.published_document.1363
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6457'
+    year: '1970'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6457:1970
+    urn: urn:bsi:bs:6457:1970:pd:stage.published
+  style: v3
+- id: bsi.published_document.1364
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6459'
+    year: '1971'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6459:1971
+    urn: urn:bsi:bs:6459:1971:pd:stage.published
+  style: v3
+- id: bsi.published_document.1365
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6461'
+    part: '2'
+    year: '1980'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6461-2:1980
+    urn: urn:bsi:bs:6461:-2:1980:pd:stage.published
+  style: v3
+- id: bsi.published_document.1366
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6462'
+    year: '1972'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6462:1972
+    urn: urn:bsi:bs:6462:1972:pd:stage.published
+  style: v3
+- id: bsi.published_document.1367
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6467'
+    year: '1972'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6467:1972
+    urn: urn:bsi:bs:6467:1972:pd:stage.published
+  style: v3
+- id: bsi.published_document.1368
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6470'
+    year: '1981'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6470:1981
+    urn: urn:bsi:bs:6470:1981:pd:stage.published
+  style: v3
+- id: bsi.published_document.1369
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6472'
+    year: '1974'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6472:1974
+    urn: urn:bsi:bs:6472:1974:pd:stage.published
+  style: v3
+- id: bsi.published_document.1370
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6474'
+    year: '1976'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6474:1976
+    urn: urn:bsi:bs:6474:1976:pd:stage.published
+  style: v3
+- id: bsi.published_document.1371
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6476'
+    year: '1976'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6476:1976
+    urn: urn:bsi:bs:6476:1976:pd:stage.published
+  style: v3
+- id: bsi.published_document.1372
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6481'
+    year: '1977'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6481:1977
+    urn: urn:bsi:bs:6481:1977:pd:stage.published
+  style: v3
+- id: bsi.published_document.1373
+  identifier:
+    _type: pubid:bsi:published-document
+    number: 6481C
+    year: '1977'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6481C:1977
+    urn: urn:bsi:bs:6481C:1977:pd:stage.published
+  style: v3
+- id: bsi.published_document.1374
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6482'
+    year: '1983'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6482:1983
+    urn: urn:bsi:bs:6482:1983:pd:stage.published
+  style: v3
+- id: bsi.published_document.1375
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6483'
+    year: '1978'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6483:1978
+    urn: urn:bsi:bs:6483:1978:pd:stage.published
+  style: v3
+- id: bsi.published_document.1376
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6484'
+    year: '1979'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6484:1979
+    urn: urn:bsi:bs:6484:1979:pd:stage.published
+  style: v3
+- id: bsi.published_document.1377
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6487'
+    year: '1979'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6487:1979
+    urn: urn:bsi:bs:6487:1979:pd:stage.published
+  style: v3
+- id: bsi.published_document.1378
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6488'
+    year: '1979'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6488:1979
+    urn: urn:bsi:bs:6488:1979:pd:stage.published
+  style: v3
+- id: bsi.published_document.1379
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6489'
+    year: '1980'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6489:1980
+    urn: urn:bsi:bs:6489:1980:pd:stage.published
+  style: v3
+- id: bsi.published_document.1380
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6490'
+    year: '1980'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6490:1980
+    urn: urn:bsi:bs:6490:1980:pd:stage.published
+  style: v3
+- id: bsi.published_document.1381
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6494'
+    year: '1980'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6494:1980
+    urn: urn:bsi:bs:6494:1980:pd:stage.published
+  style: v3
+- id: bsi.published_document.1382
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6495'
+    year: '1983'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6495:1983
+    urn: urn:bsi:bs:6495:1983:pd:stage.published
+  style: v3
+- id: bsi.published_document.1383
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6496'
+    year: '1981'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6496:1981
+    urn: urn:bsi:bs:6496:1981:pd:stage.published
+  style: v3
+- id: bsi.published_document.1384
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6497'
+    year: '1982'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6497:1982
+    urn: urn:bsi:bs:6497:1982:pd:stage.published
+  style: v3
+- id: bsi.published_document.1385
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6498'
+    year: '1981'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6498:1981
+    urn: urn:bsi:bs:6498:1981:pd:stage.published
+  style: v3
+- id: bsi.published_document.1386
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6499'
+    year: '1981'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6499:1981
+    urn: urn:bsi:bs:6499:1981:pd:stage.published
+  style: v3
+- id: bsi.published_document.1387
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6500'
+    year: '1984'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6500:1984
+    urn: urn:bsi:bs:6500:1984:pd:stage.published
+  style: v3
+- id: bsi.published_document.1388
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6500'
+    year: '1986'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6500:1986
+    urn: urn:bsi:bs:6500:1986:pd:stage.published
+  style: v3
+- id: bsi.published_document.1389
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6501'
+    part: '1'
+    year: '1982'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6501-1:1982
+    urn: urn:bsi:bs:6501:-1:1982:pd:stage.published
+  style: v3
+- id: bsi.published_document.1390
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6501'
+    part: '2'
+    year: '1984'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6501-2:1984
+    urn: urn:bsi:bs:6501:-2:1984:pd:stage.published
+  style: v3
+- id: bsi.published_document.1391
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6502'
+    year: '1982'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6502:1982
+    urn: urn:bsi:bs:6502:1982:pd:stage.published
+  style: v3
+- id: bsi.published_document.1392
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6503'
+    year: '1982'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6503:1982
+    urn: urn:bsi:bs:6503:1982:pd:stage.published
+  style: v3
+- id: bsi.published_document.1393
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6504'
+    year: '1983'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6504:1983
+    urn: urn:bsi:bs:6504:1983:pd:stage.published
+  style: v3
+- id: bsi.published_document.1394
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6505'
+    year: '1982'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6505:1982
+    urn: urn:bsi:bs:6505:1982:pd:stage.published
+  style: v3
+- id: bsi.published_document.1395
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6506'
+    year: '1982'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6506:1982
+    urn: urn:bsi:bs:6506:1982:pd:stage.published
+  style: v3
+- id: bsi.published_document.1396
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6507'
+    year: '1982'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6507:1982
+    urn: urn:bsi:bs:6507:1982:pd:stage.published
+  style: v3
+- id: bsi.published_document.1397
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6510'
+    year: '1983'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6510:1983
+    urn: urn:bsi:bs:6510:1983:pd:stage.published
+  style: v3
+- id: bsi.published_document.1398
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6534'
+    year: '1993'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6534:1993
+    urn: urn:bsi:bs:6534:1993:pd:stage.published
+  style: v3
+- id: bsi.published_document.1399
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6539'
+    year: '1994'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6539:1994
+    urn: urn:bsi:bs:6539:1994:pd:stage.published
+  style: v3
+- id: bsi.published_document.1400
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6560'
+    year: '1992'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6560:1992
+    urn: urn:bsi:bs:6560:1992:pd:stage.published
+  style: v3
+- id: bsi.published_document.1401
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6561'
+    year: '1992'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6561:1992
+    urn: urn:bsi:bs:6561:1992:pd:stage.published
+  style: v3
+- id: bsi.published_document.1402
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6566'
+    year: '1992'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6566:1992
+    urn: urn:bsi:bs:6566:1992:pd:stage.published
+  style: v3
+- id: bsi.published_document.1403
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6567'
+    year: '1992'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6567:1992
+    urn: urn:bsi:bs:6567:1992:pd:stage.published
+  style: v3
+- id: bsi.published_document.1404
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6610'
+    year: '1997'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6610:1997
+    urn: urn:bsi:bs:6610:1997:pd:stage.published
+  style: v3
+- id: bsi.published_document.1405
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6634'
+    part: '6'
+    year: '1999'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6634-6:1999
+    urn: urn:bsi:bs:6634:-6:1999:pd:stage.published
+  style: v3
+- id: bsi.published_document.1406
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '6662'
+    year: '2000'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 6662:2000
+    urn: urn:bsi:bs:6662:2000:pd:stage.published
+  style: v3
+- id: bsi.published_document.1407
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '7300'
+    year: '1979'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 7300:1979
+    urn: urn:bsi:bs:7300:1979:pd:stage.published
+  style: v3
+- id: bsi.published_document.1408
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '7304'
+    year: '1982'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 7304:1982
+    urn: urn:bsi:bs:7304:1982:pd:stage.published
+  style: v3
+- id: bsi.published_document.1409
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '7305'
+    year: '1983'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 7305:1983
+    urn: urn:bsi:bs:7305:1983:pd:stage.published
+  style: v3
+- id: bsi.published_document.1410
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '7777'
+    year: '2000'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 7777:2000
+    urn: urn:bsi:bs:7777:2000:pd:stage.published
+  style: v3
+- id: bsi.published_document.1411
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '7974'
+    part: '4'
+    year: '2003'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 7974-4:2003
+    urn: urn:bsi:bs:7974:-4:2003:pd:stage.published
+  style: v3
+- id: bsi.published_document.1414
+  identifier:
+    _type: pubid:bsi:published-document
+    number: '970'
+    year: '2005'
+    type:
+      name: Published Document
+      abbr: PD
+      type_code: pd
+    stage:
+      name: Published Document
+      stage_code: published
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+      abbr: PD
+    typed_stage:
+      name: Published Document
+      code: pubpd
+      type_code: pd
+      stage_code: published
+      abbr:
+      - PD
+      harmonized_stages:
+      - '60.00'
+      - '60.60'
+  representations:
+    human: PD 970:2005
+    urn: urn:bsi:bs:970:2005:pd:stage.published
+  style: v3

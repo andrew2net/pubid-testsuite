@@ -2,7 +2,6 @@
 - id: bsi.expert_commentary.0248
   identifier:
     _type: pubid:bsi:expert-commentary
-    number: '31100'
     base:
       _type: pubid:bsi:british-standard
       number: '31100'
@@ -15,7 +14,6 @@
 - id: bsi.expert_commentary.0468
   identifier:
     _type: pubid:bsi:expert-commentary
-    number: '5250'
     base:
       _type: pubid:bsi:british-standard
       number: '5250'
@@ -28,7 +26,6 @@
 - id: bsi.expert_commentary.0497
   identifier:
     _type: pubid:bsi:expert-commentary
-    number: '5422'
     base:
       _type: pubid:bsi:british-standard
       number: '5422'
@@ -41,7 +38,6 @@
 - id: bsi.expert_commentary.0538
   identifier:
     _type: pubid:bsi:expert-commentary
-    number: '5839'
     base:
       _type: pubid:bsi:british-standard
       number: '5839'
@@ -50,12 +46,11 @@
     format: abbr
   representations:
     human: BS 5839-8:2023 ExComm
-    urn: urn:bsi:bs:5839:2023
+    urn: urn:bsi:bs:5839:-8:2023
   style: v3
 - id: bsi.expert_commentary.0551
   identifier:
     _type: pubid:bsi:expert-commentary
-    number: '7273'
     base:
       _type: pubid:bsi:british-standard
       number: '7273'
@@ -65,12 +60,11 @@
     topic: Fire
   representations:
     human: BS 7273-4:2015 ExComm (Fire)
-    urn: urn:bsi:bs:7273:2015
+    urn: urn:bsi:bs:7273:-4:2015
   style: v3
 - id: bsi.expert_commentary.0555
   identifier:
     _type: pubid:bsi:expert-commentary
-    number: '7499'
     base:
       _type: pubid:bsi:british-standard
       number: '7499'
@@ -84,7 +78,6 @@
 - id: bsi.expert_commentary.0566
   identifier:
     _type: pubid:bsi:expert-commentary
-    number: '8500'
     base:
       _type: pubid:bsi:british-standard
       number: '8500'
@@ -93,12 +86,11 @@
     format: abbr
   representations:
     human: BS 8500-1:2023 ExComm
-    urn: urn:bsi:bs:8500:2023
+    urn: urn:bsi:bs:8500:-1:2023
   style: v3
 - id: bsi.expert_commentary.0567
   identifier:
     _type: pubid:bsi:expert-commentary
-    number: '8500'
     base:
       _type: pubid:bsi:british-standard
       number: '8500'
@@ -107,16 +99,169 @@
     format: abbr
   representations:
     human: BS 8500-2:2023 ExComm
-    urn: urn:bsi:bs:8500:2023
+    urn: urn:bsi:bs:8500:-2:2023
   style: v3
-- id: bsi.expert_commentary.0759
+- id: bsi.expert_commentary.0729
   identifier:
     _type: pubid:bsi:expert-commentary
-    number: '13485'
     base:
       _type: pubid:bsi:adopted-european-norm
-      number: '13485'
-      adopted:
+      base:
+        _type: pubid:cencenelec:european-norm
+        number: '1147'
+        year: '2010'
+    format: abbr_with_topic
+    topic: Fire
+  representations:
+    human: BS EN 1147:2010 ExComm (Fire)
+    urn: urn:bsi:bs:1147:2010
+  style: v3
+- id: bsi.expert_commentary.0792
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:european-norm
+        number: '1846'
+        part: '3'
+        year: '2013'
+    format: abbr_with_topic
+    topic: Fire
+  representations:
+    human: BS EN 1846-3:2013 ExComm (Fire)
+    urn: urn:bsi:bs:1846:-3:2013
+  style: v3
+- id: bsi.expert_commentary.0819
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:european-norm
+        number: '50849'
+        year: '2017'
+    format: abbr_with_topic
+    topic: Fire
+  representations:
+    human: BS EN 50849:2017 ExComm (Fire)
+    urn: urn:bsi:bs:50849:2017
+  style: v3
+- id: bsi.expert_commentary.0821
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:consolidated-identifier
+      identifiers:
+      - _type: pubid:bsi:adopted-european-norm
+        base:
+          _type: pubid:cencenelec:european-norm
+          number: '55011'
+          year: '2016'
+      - _type: pubid:bsi:amendment
+        number: '2'
+        base:
+          _type: pubid:bsi:adopted-european-norm
+          base:
+            _type: pubid:cencenelec:european-norm
+            number: '55011'
+            year: '2016'
+        year: '2021'
+    format: abbr
+  representations:
+    human: BS EN 55011:2016+A2:2021 ExComm
+    urn: urn:bsi:bs:55011:2016
+  style: v3
+- id: bsi.expert_commentary.0859
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:european-norm
+        number: '60695'
+        part: 8-2
+        year: '2017'
+    format: abbr_with_topic
+    topic: Fire
+  representations:
+    human: BS EN 60695-8-2:2017 ExComm (Fire)
+    urn: urn:bsi:bs:60695:-8-2:2017
+  style: v3
+- id: bsi.expert_commentary.0874
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:european-norm
+        number: '671'
+        part: '1'
+        year: '2012'
+    format: abbr_with_topic
+    topic: Fire
+  representations:
+    human: BS EN 671-1:2012 ExComm (Fire)
+    urn: urn:bsi:bs:671:-1:2012
+  style: v3
+- id: bsi.expert_commentary.0882
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:adopted-european-norm
+        adopted:
+          _type: pubid:iec:international-standard
+          year: '2019'
+          number: '60079'
+          part: '19'
+    format: abbr
+  representations:
+    human: BS EN IEC 60079-19:2019 ExComm
+    urn: urn:bsi:bs:60079:-19:2019
+  style: v3
+- id: bsi.expert_commentary.0893
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:adopted-european-norm
+        adopted:
+          _type: pubid:iec:international-standard
+          year: '2021'
+          number: '61000'
+          part: '6'
+          subpart: '3'
+    format: abbr
+  representations:
+    human: BS EN IEC 61000-6-3:2021 ExComm
+    urn: urn:bsi:bs:61000:-6:-3:2021
+  style: v3
+- id: bsi.expert_commentary.0896
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:adopted-european-norm
+        adopted:
+          _type: pubid:iec:international-standard
+          year: '2021'
+          number: '61439'
+          part: '2'
+    format: abbr
+  representations:
+    human: BS EN IEC 61439-2:2021 ExComm
+    urn: urn:bsi:bs:61439:-2:2021
+  style: v3
+- id: bsi.expert_commentary.0915
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
         _type: pubid:cencenelec:adopted-european-norm
         adopted:
           _type: pubid:iso:international-standard
@@ -125,4 +270,127 @@
   representations:
     human: BS EN ISO 13485 Expert Commentary
     urn: urn:bsi:bs:13485
+  style: v3
+- id: bsi.expert_commentary.0920
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:adopted-european-norm
+        adopted:
+          _type: pubid:iso:international-standard
+          number: '17665'
+          year: '2024'
+    format: abbr
+  representations:
+    human: BS EN ISO 17665:2024 ExComm
+    urn: urn:bsi:bs:17665:2024
+  style: v3
+- id: bsi.expert_commentary.0927
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:adopted-european-norm
+        adopted:
+          _type: pubid:iso:international-standard
+          number: '2692'
+          year: '2021'
+    format: abbr
+  representations:
+    human: BS EN ISO 2692:2021 ExComm
+    urn: urn:bsi:bs:2692:2021
+  style: v3
+- id: bsi.expert_commentary.0933
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:adopted-european-norm
+        adopted:
+          _type: pubid:iso:international-standard
+          number: '6892'
+          part: '1'
+          year: '2019'
+    format: abbr
+  representations:
+    human: BS EN ISO 6892-1:2019 ExComm
+    urn: urn:bsi:bs:6892:-1:2019
+  style: v3
+- id: bsi.expert_commentary.0935
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:adopted-european-norm
+        adopted:
+          _type: pubid:iso:international-standard
+          number: '27001'
+          year: '2023'
+          copublishers:
+          - IEC
+    format: abbr
+  representations:
+    human: BS EN ISO/IEC 27001:2023 ExComm
+    urn: urn:bsi:bs:27001:2023
+  style: v3
+- id: bsi.expert_commentary.0936
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:adopted-european-norm
+        adopted:
+          _type: pubid:iso:international-standard
+          number: '27002'
+          year: '2022'
+          copublishers:
+          - IEC
+    format: abbr
+  representations:
+    human: BS EN ISO/IEC 27002:2022 ExComm
+    urn: urn:bsi:bs:27002:2022
+  style: v3
+- id: bsi.expert_commentary.0937
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-european-norm
+      base:
+        _type: pubid:cencenelec:adopted-european-norm
+        adopted:
+          _type: pubid:iso:international-standard
+          number: '80079'
+          part: '34'
+          year: '2020'
+          copublishers:
+          - IEC
+    format: abbr
+  representations:
+    human: BS EN ISO/IEC 80079-34:2020 ExComm
+    urn: urn:bsi:bs:80079:-34:2020
+  style: v3
+  non_normalized_aliases:
+  - spelling: BS EN ISO/IEC 80079‑34:2020 ExComm
+    style: v3
+- id: bsi.expert_commentary.0988
+  identifier:
+    _type: pubid:bsi:expert-commentary
+    base:
+      _type: pubid:bsi:adopted-international-standard
+      base:
+        _type: pubid:iso:international-standard
+        number: '7240'
+        part: '8'
+        year: '2014'
+    format: abbr_with_topic
+    topic: Fire
+  representations:
+    human: BS ISO 7240-8:2014 ExComm (Fire)
+    urn: urn:bsi:bs:7240:-8:2014
   style: v3
