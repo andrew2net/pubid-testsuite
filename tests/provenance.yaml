@@ -8,40 +8,29 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: 49d6e971c03c2d261767d26b01c79d6e61f4bb68
+  commit: 8dbb0fb57106717432fb27d6123786e300d64c42
   clean: true
   dirty_paths: []
 repository:
-  commit: 12587169f2271c176180cfe9bd957d7e06c91aa4
+  commit: c55e0bd9767bf0fa9fe6d40a85ed1e4c99657142
   clean: false
   dirty_paths:
-  - tests/bsi/_debt.yaml
-  - tests/bsi/_status.yaml
-  - tests/bsi/addendum_document.yaml
-  - tests/bsi/adopted_european_norm.yaml
-  - tests/bsi/aerospace_standard.yaml
-  - tests/bsi/british_standard.yaml
-  - tests/bsi/bundled_identifier.yaml
-  - tests/bsi/consolidated_identifier.yaml
-  - tests/bsi/disc.yaml
-  - tests/bsi/expert_commentary.yaml
-  - tests/bsi/flex.yaml
-  - tests/bsi/section.yaml
-  - tests/bsi/set.yaml
-  - tests/bsi/supplement_document.yaml
-  - tests/bsi/value_added_publication.yaml
-  - tests/bsi/adopted_international_standard.yaml
-  - tests/bsi/draft_document.yaml
-  - tests/bsi/national_annex.yaml
-  - tests/bsi/publicly_available_specification.yaml
-  - tests/bsi/published_document.yaml
+  - tests/ashrae/_debt.yaml
+  - tests/ashrae/_status.yaml
+  - tests/ashrae/addenda_package.yaml
+  - tests/ashrae/addendum.yaml
+  - tests/ashrae/combined_addenda.yaml
+  - tests/ashrae/errata.yaml
+  - tests/ashrae/guideline.yaml
+  - tests/ashrae/standard.yaml
+  - tests/ashrae/interpretation.yaml
 ruby:
   version: 3.4.8
 counts:
   flavors: 42
-  payloads: 337
-  cases: 99435
-  aliases: 11306
+  payloads: 338
+  cases: 99646
+  aliases: 11255
   negatives: 1237
 payloads:
 - path: amca/_debt.yaml
@@ -99,29 +88,32 @@ payloads:
   sha256: b6961f679b1df0de66846cd3bc1c67d832313ef722ca6d99fb6927bafca64c6a
   bytes: 1472
 - path: ashrae/_debt.yaml
-  sha256: 2d41fc3af4a97e3aa5db69365df8c90c370bf97c575dba733bbd1d92fefea93c
-  bytes: 33215
+  sha256: adc95a5c419259431b3e3fc9924906dd2f1d24bc7636c68bd16aad50699d2f83
+  bytes: 423
 - path: ashrae/_normalization.yaml
   sha256: 81f982b827610563e3471a0e5770244491105af49091dda454f5b17ea60cc72b
   bytes: 165220
 - path: ashrae/addenda_package.yaml
-  sha256: '067905f4f4570b98c731a3156d377717099db6de8096046ac55e1eaf696684e3'
-  bytes: 10716
+  sha256: c0371dae870620a7d198cf733c95f435ad674124fc5e6a1390880d8fdd05ff4e
+  bytes: 11440
 - path: ashrae/addendum.yaml
-  sha256: f487d0801f36618e4bc0e4707df361d389f1427897520a21cd6de08fc313cd36
-  bytes: 498684
+  sha256: 5a8d899542238932639520b6ae4782e23449fa972a6542208b2346947bdad342
+  bytes: 525296
 - path: ashrae/combined_addenda.yaml
-  sha256: 41349f548df0d703b99a506764850a0f2b7340997474e5175235db1ef9f00a88
-  bytes: 38628
+  sha256: 2a6375edd82c6ad713313e14f6e2aec962b130f6b1d4aa7987fce89f79123c92
+  bytes: 41331
 - path: ashrae/errata.yaml
-  sha256: 063ed43f6d842db09490917ebaccc21917d338b7138bacbed6ae14a9ab62fab2
-  bytes: 58893
+  sha256: a55be4cd8bbdc874016b640ecdd1e1f4cce323b3438c2d3623bb6ff4657924c7
+  bytes: 121295
 - path: ashrae/guideline.yaml
-  sha256: 72805d9fdab701dd9d2823fd00c6414bf7314c842392f9b1cebf1a8e5a3ab27f
+  sha256: 415eeef1d5f6a30026462d1eda2e294e4c14c90e1f70a68f6661b04fa7322050
   bytes: 11047
+- path: ashrae/interpretation.yaml
+  sha256: 88b1baf42b7513b293e8785d6f51190c65e81863d48fec3da73653558725138c
+  bytes: 15127
 - path: ashrae/standard.yaml
-  sha256: 6999f4eea3935046b14935ee79b05e6c6f40d3bacadcda36616f2d5779975c7a
-  bytes: 91998
+  sha256: e03c5fcc65deeacf570454ec96820c9524a87c824f4ec2ce18504c89fccbbc2e
+  bytes: 87436
 - path: asme/_normalization.yaml
   sha256: f95283d03abfe4744d6603c8cf9341a27619bd6b2d915796b7e4cbef2f8139be
   bytes: 10593
@@ -940,8 +932,8 @@ curated:
   sha256: 79e2d1600ebd9999276ed01f583af310fcc47b403c76fd0a89e9b3185dff92dd
   bytes: 62
 - path: ashrae/_status.yaml
-  sha256: 27a051d7d1c5c0fdc31a9f9713517619e163fcb9818e48ee15d5d247a7976dfe
-  bytes: 61
+  sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
+  bytes: 59
 - path: asme/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59

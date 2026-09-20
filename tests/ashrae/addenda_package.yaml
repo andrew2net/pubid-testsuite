@@ -1,5 +1,5 @@
 ---
-- id: ashrae.addenda_package.1555
+- id: ashrae.addenda_package.1604
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -9,12 +9,12 @@
     package_description: Supplement
   representations:
     human: 'ASHRAE Standard 140-2007: Addenda Supplement'
-    urn: urn:ashrae:140
+    urn: urn:ashrae:140:2007:standard:pkg.supplement
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 140-2007 Addenda Supplement (Addendum a)
     style: v3
-- id: ashrae.addenda_package.1577
+- id: ashrae.addenda_package.1632
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -24,13 +24,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 15-2007: Addenda Supplement Package'
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:2007:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 15-2007 Addenda Supplement Package (Contains Addenda
       a, b, c, d, and e)
     style: v3
-- id: ashrae.addenda_package.1579
+- id: ashrae.addenda_package.1634
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -40,13 +40,13 @@
     package_description: Supplement
   representations:
     human: 'ASHRAE Standard 15-2010: Addenda Supplement'
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:2010:standard:pkg.supplement
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 15-2010 2012 Addenda Supplement (Contains Addenda b,
       c, d, e, and f)
     style: v3
-- id: ashrae.addenda_package.1766
+- id: ashrae.addenda_package.1869
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -56,13 +56,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 34-2004: Addenda Supplement Package'
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2004:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2004: Addenda Supplement Package (Contains Addenda
       a, b, c, e, f, k, n, o, p, q, r, s, and u) (PDF)'
     style: v3
-- id: ashrae.addenda_package.1773
+- id: ashrae.addenda_package.1879
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -72,13 +72,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 34-2013: Addenda Supplement Package'
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2013:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 34-2013 Addenda Supplement Package (includes addenda
       a, b, c, d, e, f, g, h, i, j, k, l, m, n) (February 10, 2015)
     style: v3
-- id: ashrae.addenda_package.1832
+- id: ashrae.addenda_package.1956
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -88,13 +88,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 52.2-1999: Addenda Supplement Package'
-    urn: urn:ashrae:52.2
+    urn: urn:ashrae:52.2:1999:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 52.2-1999: Addenda Supplement Package (Contains Addendum
       a)'
     style: v3
-- id: ashrae.addenda_package.1835
+- id: ashrae.addenda_package.1960
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -104,13 +104,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 52.2-2007: Addenda Supplement Package'
-    urn: urn:ashrae:52.2
+    urn: urn:ashrae:52.2:2007:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 52.2-2007 Addenda Supplement Package (Contains Addendum
       b)
     style: v3
-- id: ashrae.addenda_package.1838
+- id: ashrae.addenda_package.1964
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -120,13 +120,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 52.2-2012: Addenda Supplement Package'
-    urn: urn:ashrae:52.2
+    urn: urn:ashrae:52.2:2012:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 52.2-2012 2015 Addenda Supplement Package (Contains
       Addenda a, b, and d) (February 26, 2015)
     style: v3
-- id: ashrae.addenda_package.1865
+- id: ashrae.addenda_package.2001
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -136,13 +136,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 62.1-2004: Addenda Supplement Package'
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2004:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 62.1-2004: Addenda Supplement Package (This Addenda
       Package contains Addenda a, b, c, d, and g.)'
     style: v3
-- id: ashrae.addenda_package.1867
+- id: ashrae.addenda_package.2004
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -152,13 +152,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 62.1-2007: Addenda Supplement Package'
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2007:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.1-2007 Addenda Supplement Package (Contains Addenda
       a, b, e, f, and h)
     style: v3
-- id: ashrae.addenda_package.1870
+- id: ashrae.addenda_package.2008
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -168,13 +168,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 62.1-2010: Addenda Supplement Package'
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2010:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.1-2010 Addenda Supplement Package (Contains Addenda
       a, c, d, and e)
     style: v3
-- id: ashrae.addenda_package.1873
+- id: ashrae.addenda_package.2012
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -184,13 +184,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 62.1-2013: Addenda Supplement Package'
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2013:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.1-2013 Addenda Supplement Package for 2015 (Contains
       Addenda a, c, j, k, q, r, and s)
     style: v3
-- id: ashrae.addenda_package.1882
+- id: ashrae.addenda_package.2024
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -200,13 +200,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 62.2-2004: Addenda Supplement Package'
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2004:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 62.2-2004: Addenda Supplement Package (Contains Addendum
       g) (PDF)'
     style: v3
-- id: ashrae.addenda_package.1884
+- id: ashrae.addenda_package.2026
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -216,13 +216,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 62.2-2007: Addenda Supplement Package'
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2007:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.2-2007 Addenda Supplement Package (Contains Addenda
       a, b, c, and k)
     style: v3
-- id: ashrae.addenda_package.1887
+- id: ashrae.addenda_package.2030
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -232,13 +232,13 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 62.2-2010: Addenda Supplement Package'
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2010:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.2-2010 Addenda Supplement Package (Contains Addenda
       b, c, e, g, h, i, and l)
     style: v3
-- id: ashrae.addenda_package.1928
+- id: ashrae.addenda_package.2080
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -248,14 +248,14 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 90.1-2004: Addenda Supplement Package'
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2004:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2004: Addenda Supplement Package (Addenda Package
       includes a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, x, and
       ak)'
     style: v3
-- id: ashrae.addenda_package.1930
+- id: ashrae.addenda_package.2082
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -265,14 +265,14 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 90.1-2007: Addenda Supplement Package'
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda Supplement Package (Addenda Package
       includes Addenda a, b, c, g, h, i, j, k, l, m, n, p, q, s, t, u, w, y, ad, and
       aw )'
     style: v3
-- id: ashrae.addenda_package.1932
+- id: ashrae.addenda_package.2084
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -282,7 +282,7 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 90.1-2010: Addenda Supplement Package'
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2010:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2010, Addenda 2012 Supplement: Addenda Supplement
@@ -297,7 +297,7 @@
       cp, cr, ct, cv, cy, cz, da, db, dc, dd, de, dg, di, dj, dk, dl, dm, dn, do,
       dp, dq, dr, dt, dv, and dw'
     style: v3
-- id: ashrae.addenda_package.1934
+- id: ashrae.addenda_package.2086
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -307,14 +307,14 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 90.1-2013: Addenda Supplement Package'
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2013:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2013, Addenda 2015 Supplement: Addenda Supplement
       Package (Addenda package includes Addenda a, c, d, e, g, h, j, k, m, n, o, p,
       q, r, s, z, aa, ac, ad, ae, ag, ak, bm, and dx) (March 30, 2016)'
     style: v3
-- id: ashrae.addenda_package.1939
+- id: ashrae.addenda_package.2092
   identifier:
     _type: pubid:ashrae:addenda-package
     base:
@@ -324,7 +324,7 @@
     package_description: Supplement Package
   representations:
     human: 'ASHRAE Standard 90.2-2004: Addenda Supplement Package'
-    urn: urn:ashrae:90.2
+    urn: urn:ashrae:90.2:2004:standard:pkg.supplement-package
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.2-2004: Addenda Supplement Package (Contains addenda

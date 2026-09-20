@@ -8,12 +8,27 @@
       year: '2005'
   representations:
     human: ASHRAE Guideline 0-2005 Errata
-    urn: urn:ashrae:0
+    urn: urn:ashrae:0:2005:guideline:errata
+  style: v3
+- id: ashrae.errata.1406
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2011'
+      month: '09'
+      day: '28'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '0'
+      year: '2005'
+  representations:
+    human: ASHRAE Guideline 0-2005 Errata (September 28, 2011)
+    urn: urn:ashrae:0:2005:guideline:errata.2011-09-28
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 0-2005 Errata (September 28, 2011) (PDF)
     style: v3
-- id: ashrae.errata.1409
+- id: ashrae.errata.1410
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -22,12 +37,27 @@
       year: '1996'
   representations:
     human: ASHRAE Guideline 1-1996 Errata
-    urn: urn:ashrae:1
+    urn: urn:ashrae:1:1996:guideline:errata
+  style: v3
+- id: ashrae.errata.1411
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '1998'
+      month: '07'
+      day: '21'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '1'
+      year: '1996'
+  representations:
+    human: ASHRAE Guideline 1-1996 Errata (July 21, 1998)
+    urn: urn:ashrae:1:1996:guideline:errata.1998-07-21
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 1-1996 Errata (July 21, 1998) (PDF)
     style: v3
-- id: ashrae.errata.1410
+- id: ashrae.errata.1412
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -36,12 +66,27 @@
       year: '2007'
   representations:
     human: ASHRAE Guideline 1.1-2007 Errata
-    urn: urn:ashrae:1.1
+    urn: urn:ashrae:1.1:2007:guideline:errata
+  style: v3
+- id: ashrae.errata.1413
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2012'
+      month: '07'
+      day: '02'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '1.1'
+      year: '2007'
+  representations:
+    human: ASHRAE Guideline 1.1-2007 Errata (July 2, 2012)
+    urn: urn:ashrae:1.1:2007:guideline:errata.2012-07-02
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 1.1-2007 Errata (July 2, 2012) (PDF)
     style: v3
-- id: ashrae.errata.1413
+- id: ashrae.errata.1416
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -50,12 +95,27 @@
       year: '2019'
   representations:
     human: ASHRAE Guideline 1.2-2019 Errata
-    urn: urn:ashrae:1.2
+    urn: urn:ashrae:1.2:2019:guideline:errata
+  style: v3
+- id: ashrae.errata.1417
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2019'
+      month: '10'
+      day: '21'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '1.2'
+      year: '2019'
+  representations:
+    human: ASHRAE Guideline 1.2-2019 Errata (October 21, 2019)
+    urn: urn:ashrae:1.2:2019:guideline:errata.2019-10-21
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 1.2-2019 Errata (October 21, 2019) (PDF)
     style: v3
-- id: ashrae.errata.1415
+- id: ashrae.errata.1419
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -64,12 +124,27 @@
       year: '2014'
   representations:
     human: ASHRAE Guideline 1.4-2014 Errata
-    urn: urn:ashrae:1.4
+    urn: urn:ashrae:1.4:2014:guideline:errata
+  style: v3
+- id: ashrae.errata.1420
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2015'
+      month: '10'
+      day: '21'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '1.4'
+      year: '2014'
+  representations:
+    human: ASHRAE Guideline 1.4-2014 Errata (October 21, 2015)
+    urn: urn:ashrae:1.4:2014:guideline:errata.2015-10-21
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 1.4-2014 Errata (October 21, 2015) (PDF)
     style: v3
-- id: ashrae.errata.1423
+- id: ashrae.errata.1428
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -78,12 +153,27 @@
       year: '2000'
   representations:
     human: ASHRAE Guideline 12-2000 Errata
-    urn: urn:ashrae:12
+    urn: urn:ashrae:12:2000:guideline:errata
+  style: v3
+- id: ashrae.errata.1429
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2010'
+      month: '12'
+      day: '20'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '12'
+      year: '2000'
+  representations:
+    human: ASHRAE Guideline 12-2000 Errata (December 20, 2010)
+    urn: urn:ashrae:12:2000:guideline:errata.2010-12-20
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 12-2000 Errata (December 20, 2010) (PDF)
     style: v3
-- id: ashrae.errata.1425
+- id: ashrae.errata.1431
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -92,12 +182,27 @@
       year: '2020'
   representations:
     human: ASHRAE Guideline 12-2020 Errata
-    urn: urn:ashrae:12
+    urn: urn:ashrae:12:2020:guideline:errata
+  style: v3
+- id: ashrae.errata.1432
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2020'
+      month: '08'
+      day: '21'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '12'
+      year: '2020'
+  representations:
+    human: ASHRAE Guideline 12-2020 Errata (August 21, 2020)
+    urn: urn:ashrae:12:2020:guideline:errata.2020-08-21
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 12-2020 Errata (August 21, 2020) (PDF)
     style: v3
-- id: ashrae.errata.1428
+- id: ashrae.errata.1435
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -106,14 +211,45 @@
       year: '2002'
   representations:
     human: ASHRAE Guideline 14-2002 Errata
-    urn: urn:ashrae:14
+    urn: urn:ashrae:14:2002:guideline:errata
+  style: v3
+- id: ashrae.errata.1436
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2008'
+      month: '10'
+      day: '10'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '14'
+      year: '2002'
+  representations:
+    human: ASHRAE Guideline 14-2002 Errata (October 10, 2008)
+    urn: urn:ashrae:14:2002:guideline:errata.2008-10-10
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 14-2002 Errata (October 10, 2008) (PDF)
     style: v3
+- id: ashrae.errata.1437
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2008'
+      month: '10'
+      day: '20'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '14'
+      year: '2002'
+  representations:
+    human: ASHRAE Guideline 14-2002 Errata (October 20, 2008)
+    urn: urn:ashrae:14:2002:guideline:errata.2008-10-20
+  style: v3
+  non_normalized_aliases:
   - spelling: ASHRAE Guideline 14-2002 Errata (October 20, 2008) (PDF)
     style: v3
-- id: ashrae.errata.1429
+- id: ashrae.errata.1438
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -122,12 +258,27 @@
       year: '2014'
   representations:
     human: ASHRAE Guideline 14-2014 Errata
-    urn: urn:ashrae:14
+    urn: urn:ashrae:14:2014:guideline:errata
+  style: v3
+- id: ashrae.errata.1439
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2014'
+      month: '04'
+      day: '08'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '14'
+      year: '2014'
+  representations:
+    human: ASHRAE Guideline 14-2014 Errata (April 8, 2014)
+    urn: urn:ashrae:14:2014:guideline:errata.2014-04-08
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 14-2014 Errata (April 8, 2014) (PDF)
     style: v3
-- id: ashrae.errata.1431
+- id: ashrae.errata.1441
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -136,12 +287,27 @@
       year: '2018'
   representations:
     human: ASHRAE Guideline 16-2018 Errata
-    urn: urn:ashrae:16
+    urn: urn:ashrae:16:2018:guideline:errata
+  style: v3
+- id: ashrae.errata.1442
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2020'
+      month: '08'
+      day: '14'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '16'
+      year: '2018'
+  representations:
+    human: ASHRAE Guideline 16-2018 Errata (August 14, 2020)
+    urn: urn:ashrae:16:2018:guideline:errata.2020-08-14
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 16-2018 Errata (August 14, 2020) (PDF)
     style: v3
-- id: ashrae.errata.1439
+- id: ashrae.errata.1450
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -150,12 +316,27 @@
       year: '2008'
   representations:
     human: ASHRAE Guideline 26-2008 Errata
-    urn: urn:ashrae:26
+    urn: urn:ashrae:26:2008:guideline:errata
+  style: v3
+- id: ashrae.errata.1451
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2012'
+      month: '04'
+      day: '26'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '26'
+      year: '2008'
+  representations:
+    human: ASHRAE Guideline 26-2008 Errata (April 26, 2012)
+    urn: urn:ashrae:26:2008:guideline:errata.2012-04-26
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 26-2008 Errata (April 26, 2012) (PDF)
     style: v3
-- id: ashrae.errata.1442
+- id: ashrae.errata.1454
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -164,12 +345,27 @@
       year: '2019'
   representations:
     human: ASHRAE Guideline 27-2019 Errata
-    urn: urn:ashrae:27
+    urn: urn:ashrae:27:2019:guideline:errata
+  style: v3
+- id: ashrae.errata.1455
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2019'
+      month: '12'
+      day: '10'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '27'
+      year: '2019'
+  representations:
+    human: ASHRAE Guideline 27-2019 Errata (December 10, 2019)
+    urn: urn:ashrae:27:2019:guideline:errata.2019-12-10
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 27-2019 Errata (December 10, 2019) (PDF)
     style: v3
-- id: ashrae.errata.1445
+- id: ashrae.errata.1458
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -178,12 +374,27 @@
       year: '2016'
   representations:
     human: ASHRAE Guideline 28-2016 Errata
-    urn: urn:ashrae:28
+    urn: urn:ashrae:28:2016:guideline:errata
+  style: v3
+- id: ashrae.errata.1459
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2021'
+      month: '06'
+      day: '29'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '28'
+      year: '2016'
+  representations:
+    human: ASHRAE Guideline 28-2016 Errata (June 29, 2021)
+    urn: urn:ashrae:28:2016:guideline:errata.2021-06-29
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 28-2016 Errata (June 29, 2021) (PDF)
     style: v3
-- id: ashrae.errata.1447
+- id: ashrae.errata.1461
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -192,12 +403,27 @@
       year: '2009'
   representations:
     human: ASHRAE Guideline 29-2009 Errata
-    urn: urn:ashrae:29
+    urn: urn:ashrae:29:2009:guideline:errata
+  style: v3
+- id: ashrae.errata.1462
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2009'
+      month: '07'
+      day: '17'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '29'
+      year: '2009'
+  representations:
+    human: ASHRAE Guideline 29-2009 Errata (July 17, 2009)
+    urn: urn:ashrae:29:2009:guideline:errata.2009-07-17
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 29-2009 Errata (July 17, 2009) (PDF)
     style: v3
-- id: ashrae.errata.1456
+- id: ashrae.errata.1471
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -206,12 +432,27 @@
       year: '2021'
   representations:
     human: ASHRAE Guideline 36-2021 Errata
-    urn: urn:ashrae:36
+    urn: urn:ashrae:36:2021:guideline:errata
+  style: v3
+- id: ashrae.errata.1472
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2023'
+      month: '11'
+      day: '09'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '36'
+      year: '2021'
+  representations:
+    human: ASHRAE Guideline 36-2021 Errata (November 9, 2023)
+    urn: urn:ashrae:36:2021:guideline:errata.2023-11-09
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 36-2021 Errata (November 9, 2023) (PDF)
     style: v3
-- id: ashrae.errata.1463
+- id: ashrae.errata.1479
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -220,12 +461,27 @@
       year: '2023'
   representations:
     human: ASHRAE Guideline 41-2023 Errata
-    urn: urn:ashrae:41
+    urn: urn:ashrae:41:2023:guideline:errata
+  style: v3
+- id: ashrae.errata.1480
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2025'
+      month: '05'
+      day: '05'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '41'
+      year: '2023'
+  representations:
+    human: ASHRAE Guideline 41-2023 Errata (May 5, 2025)
+    urn: urn:ashrae:41:2023:guideline:errata.2025-05-05
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 41-2023 Errata (May 5, 2025) (PDF)
     style: v3
-- id: ashrae.errata.1467
+- id: ashrae.errata.1484
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -234,12 +490,27 @@
       year: '2024'
   representations:
     human: ASHRAE Guideline 44-2024 Errata
-    urn: urn:ashrae:44
+    urn: urn:ashrae:44:2024:guideline:errata
+  style: v3
+- id: ashrae.errata.1485
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2025'
+      month: '02'
+      day: '14'
+    base:
+      _type: pubid:ashrae:guideline
+      number: '44'
+      year: '2024'
+  representations:
+    human: ASHRAE Guideline 44-2024 Errata (February 14, 2025)
+    urn: urn:ashrae:44:2024:guideline:errata.2025-02-14
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 44-2024 Errata (February 14, 2025) (PDF)
     style: v3
-- id: ashrae.errata.1473
+- id: ashrae.errata.1491
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -248,12 +519,27 @@
       year: '2015'
   representations:
     human: ASHRAE Standard 100-2015 Errata
-    urn: urn:ashrae:100
+    urn: urn:ashrae:100:2015:standard:errata
+  style: v3
+- id: ashrae.errata.1492
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2018'
+      month: '02'
+      day: '12'
+    base:
+      _type: pubid:ashrae:standard
+      number: '100'
+      year: '2015'
+  representations:
+    human: ASHRAE Standard 100-2015 Errata (February 12, 2018)
+    urn: urn:ashrae:100:2015:standard:errata.2018-02-12
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/IES Standard 100-2015 Errata (February 12, 2018) (PDF)
     style: v3
-- id: ashrae.errata.1475
+- id: ashrae.errata.1494
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -262,12 +548,27 @@
       year: '2018'
   representations:
     human: ASHRAE Standard 100-2018 Errata
-    urn: urn:ashrae:100
+    urn: urn:ashrae:100:2018:standard:errata
+  style: v3
+- id: ashrae.errata.1495
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '06'
+      day: '26'
+    base:
+      _type: pubid:ashrae:standard
+      number: '100'
+      year: '2018'
+  representations:
+    human: ASHRAE Standard 100-2018 Errata (June 26, 2024)
+    urn: urn:ashrae:100:2018:standard:errata.2024-06-26
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/IES Standard 100-2018 Errata (June 26, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1477
+- id: ashrae.errata.1497
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -276,12 +577,27 @@
       year: '2024'
   representations:
     human: ASHRAE Standard 100-2024 Errata
-    urn: urn:ashrae:100
+    urn: urn:ashrae:100:2024:standard:errata
+  style: v3
+- id: ashrae.errata.1498
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '10'
+      day: '31'
+    base:
+      _type: pubid:ashrae:standard
+      number: '100'
+      year: '2024'
+  representations:
+    human: ASHRAE Standard 100-2024 Errata (October 31, 2024)
+    urn: urn:ashrae:100:2024:standard:errata.2024-10-31
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/IES Standard 100-2024 Errata (October 31, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1481
+- id: ashrae.errata.1502
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -290,12 +606,27 @@
       year: '1993'
   representations:
     human: ASHRAE Standard 103-1993 Errata
-    urn: urn:ashrae:103
+    urn: urn:ashrae:103:1993:standard:errata
+  style: v3
+- id: ashrae.errata.1503
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '1996'
+      month: '10'
+      day: '26'
+    base:
+      _type: pubid:ashrae:standard
+      number: '103'
+      year: '1993'
+  representations:
+    human: ASHRAE Standard 103-1993 Errata (October 26, 1996)
+    urn: urn:ashrae:103:1993:standard:errata.1996-10-26
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 103-1993 Errata (October 26, 1996) (PDF)
     style: v3
-- id: ashrae.errata.1485
+- id: ashrae.errata.1507
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -304,12 +635,27 @@
       year: '2014'
   representations:
     human: ASHRAE Standard 105-2014 Errata
-    urn: urn:ashrae:105
+    urn: urn:ashrae:105:2014:standard:errata
+  style: v3
+- id: ashrae.errata.1508
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2014'
+      month: '05'
+      day: '23'
+    base:
+      _type: pubid:ashrae:standard
+      number: '105'
+      year: '2014'
+  representations:
+    human: ASHRAE Standard 105-2014 Errata (May 23, 2014)
+    urn: urn:ashrae:105:2014:standard:errata.2014-05-23
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 105-2014 Errata (May 23, 2014) (PDF)
     style: v3
-- id: ashrae.errata.1491
+- id: ashrae.errata.1514
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -318,12 +664,27 @@
       year: '2016'
   representations:
     human: ASHRAE Standard 110-2016 Errata
-    urn: urn:ashrae:110
+    urn: urn:ashrae:110:2016:standard:errata
+  style: v3
+- id: ashrae.errata.1515
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2016'
+      month: '06'
+      day: '22'
+    base:
+      _type: pubid:ashrae:standard
+      number: '110'
+      year: '2016'
+  representations:
+    human: ASHRAE Standard 110-2016 Errata (June 22, 2016)
+    urn: urn:ashrae:110:2016:standard:errata.2016-06-22
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 110-2016 Errata (June 22, 2016) (PDF)
     style: v3
-- id: ashrae.errata.1492
+- id: ashrae.errata.1516
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -332,12 +693,27 @@
       year: '1988'
   representations:
     human: ASHRAE Standard 111-1988 Errata
-    urn: urn:ashrae:111
+    urn: urn:ashrae:111:1988:standard:errata
+  style: v3
+- id: ashrae.errata.1517
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '1997'
+      month: '01'
+      day: '09'
+    base:
+      _type: pubid:ashrae:standard
+      number: '111'
+      year: '1988'
+  representations:
+    human: ASHRAE Standard 111-1988 Errata (January 9, 1997)
+    urn: urn:ashrae:111:1988:standard:errata.1997-01-09
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 111-1988 Errata (January 9, 1997) (PDF)
     style: v3
-- id: ashrae.errata.1494
+- id: ashrae.errata.1519
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -346,12 +722,27 @@
       year: '2008'
   representations:
     human: ASHRAE Standard 111-2008 Errata
-    urn: urn:ashrae:111
+    urn: urn:ashrae:111:2008:standard:errata
+  style: v3
+- id: ashrae.errata.1520
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2008'
+      month: '06'
+      day: '17'
+    base:
+      _type: pubid:ashrae:standard
+      number: '111'
+      year: '2008'
+  representations:
+    human: ASHRAE Standard 111-2008 Errata (June 17, 2008)
+    urn: urn:ashrae:111:2008:standard:errata.2008-06-17
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 111-2008 Errata (June 17, 2008) (PDF)
     style: v3
-- id: ashrae.errata.1499
+- id: ashrae.errata.1525
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -360,12 +751,27 @@
       year: '1995'
   representations:
     human: ASHRAE Standard 116-1995 Errata
-    urn: urn:ashrae:116
+    urn: urn:ashrae:116:1995:standard:errata
+  style: v3
+- id: ashrae.errata.1526
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '1996'
+      month: '12'
+      day: '13'
+    base:
+      _type: pubid:ashrae:standard
+      number: '116'
+      year: '1995'
+  representations:
+    human: ASHRAE Standard 116-1995 Errata (December 13, 1996)
+    urn: urn:ashrae:116:1995:standard:errata.1996-12-13
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 116-1995 Errata (December 13, 1996) (PDF)
     style: v3
-- id: ashrae.errata.1501
+- id: ashrae.errata.1528
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -374,12 +780,27 @@
       year: '2010'
   representations:
     human: ASHRAE Standard 116-2010 Errata
-    urn: urn:ashrae:116
+    urn: urn:ashrae:116:2010:standard:errata
+  style: v3
+- id: ashrae.errata.1529
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2012'
+      month: '02'
+      day: '15'
+    base:
+      _type: pubid:ashrae:standard
+      number: '116'
+      year: '2010'
+  representations:
+    human: ASHRAE Standard 116-2010 Errata (February 15, 2012)
+    urn: urn:ashrae:116:2010:standard:errata.2012-02-15
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 116-2010 Errata (February 15, 2012) (PDF)
     style: v3
-- id: ashrae.errata.1504
+- id: ashrae.errata.1532
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -388,12 +809,27 @@
       year: '1993'
   representations:
     human: ASHRAE Standard 118.2-1993 Errata
-    urn: urn:ashrae:118.2
+    urn: urn:ashrae:118.2:1993:standard:errata
+  style: v3
+- id: ashrae.errata.1533
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2001'
+      month: '06'
+      day: '12'
+    base:
+      _type: pubid:ashrae:standard
+      number: '118.2'
+      year: '1993'
+  representations:
+    human: ASHRAE Standard 118.2-1993 Errata (June 12, 2001)
+    urn: urn:ashrae:118.2:1993:standard:errata.2001-06-12
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 118.2-1993 Errata (June 12, 2001) (PDF)
     style: v3
-- id: ashrae.errata.1507
+- id: ashrae.errata.1536
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -402,12 +838,27 @@
       year: '1988'
   representations:
     human: ASHRAE Standard 119-1988 Errata
-    urn: urn:ashrae:119
+    urn: urn:ashrae:119:1988:standard:errata
+  style: v3
+- id: ashrae.errata.1537
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '1994'
+      month: '07'
+      day: '01'
+    base:
+      _type: pubid:ashrae:standard
+      number: '119'
+      year: '1988'
+  representations:
+    human: ASHRAE Standard 119-1988 Errata (July 1, 1994)
+    urn: urn:ashrae:119:1988:standard:errata.1994-07-01
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 119-1988 Errata (July 1, 1994) (PDF)
     style: v3
-- id: ashrae.errata.1512
+- id: ashrae.errata.1542
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -416,12 +867,27 @@
       year: '2007'
   representations:
     human: ASHRAE Standard 124-2007 Errata
-    urn: urn:ashrae:124
+    urn: urn:ashrae:124:2007:standard:errata
+  style: v3
+- id: ashrae.errata.1543
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2016'
+      month: '11'
+      day: '21'
+    base:
+      _type: pubid:ashrae:standard
+      number: '124'
+      year: '2007'
+  representations:
+    human: ASHRAE Standard 124-2007 Errata (November 21, 2016)
+    urn: urn:ashrae:124:2007:standard:errata.2016-11-21
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 124-2007 Errata (November 21, 2016) (PDF)
     style: v3
-- id: ashrae.errata.1513
+- id: ashrae.errata.1544
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -431,12 +897,28 @@
       reaffirmed: '2006'
   representations:
     human: ASHRAE Standard 125-1992 (RA2006) Errata
-    urn: urn:ashrae:125
+    urn: urn:ashrae:125:1992:standard:reaff.2006:errata
+  style: v3
+- id: ashrae.errata.1545
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2006'
+      month: '05'
+      day: '01'
+    base:
+      _type: pubid:ashrae:standard
+      number: '125'
+      year: '1992'
+      reaffirmed: '2006'
+  representations:
+    human: ASHRAE Standard 125-1992 (RA2006) Errata (May 1, 2006)
+    urn: urn:ashrae:125:1992:standard:reaff.2006:errata.2006-05-01
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 125-1992 (RA 2006) Errata (May 1, 2006) (PDF)
     style: v3
-- id: ashrae.errata.1517
+- id: ashrae.errata.1549
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -445,12 +927,27 @@
       year: '2001'
   representations:
     human: ASHRAE Standard 128-2001 Errata
-    urn: urn:ashrae:128
+    urn: urn:ashrae:128:2001:standard:errata
+  style: v3
+- id: ashrae.errata.1550
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2004'
+      month: '03'
+      day: '23'
+    base:
+      _type: pubid:ashrae:standard
+      number: '128'
+      year: '2001'
+  representations:
+    human: ASHRAE Standard 128-2001 Errata (March 23, 2004)
+    urn: urn:ashrae:128:2001:standard:errata.2004-03-23
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 128-2001 Errata (March 23, 2004) (PDF)
     style: v3
-- id: ashrae.errata.1524
+- id: ashrae.errata.1557
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -459,12 +956,27 @@
       year: '1995'
   representations:
     human: ASHRAE Standard 135-1995 Errata
-    urn: urn:ashrae:135
+    urn: urn:ashrae:135:1995:standard:errata
+  style: v3
+- id: ashrae.errata.1558
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '1999'
+      month: '09'
+      day: '07'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135'
+      year: '1995'
+  representations:
+    human: ASHRAE Standard 135-1995 Errata (September 7, 1999)
+    urn: urn:ashrae:135:1995:standard:errata.1999-09-07
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135-1995 Errata (September 7, 1999) (PDF)
     style: v3
-- id: ashrae.errata.1526
+- id: ashrae.errata.1560
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -473,12 +985,27 @@
       year: '2001'
   representations:
     human: ASHRAE Standard 135-2001 Errata
-    urn: urn:ashrae:135
+    urn: urn:ashrae:135:2001:standard:errata
+  style: v3
+- id: ashrae.errata.1561
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2004'
+      month: '01'
+      day: '24'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135'
+      year: '2001'
+  representations:
+    human: ASHRAE Standard 135-2001 Errata (January 24, 2004)
+    urn: urn:ashrae:135:2001:standard:errata.2004-01-24
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135-2001 Errata (January 24, 2004) (PDF)
     style: v3
-- id: ashrae.errata.1528
+- id: ashrae.errata.1563
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -487,12 +1014,27 @@
       year: '2004'
   representations:
     human: ASHRAE Standard 135-2004 Errata
-    urn: urn:ashrae:135
+    urn: urn:ashrae:135:2004:standard:errata
+  style: v3
+- id: ashrae.errata.1564
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2009'
+      month: '01'
+      day: '24'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135'
+      year: '2004'
+  representations:
+    human: ASHRAE Standard 135-2004 Errata (January 24, 2009)
+    urn: urn:ashrae:135:2004:standard:errata.2009-01-24
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135-2004 Errata (January 24, 2009) (PDF)
     style: v3
-- id: ashrae.errata.1530
+- id: ashrae.errata.1566
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -501,12 +1043,27 @@
       year: '2008'
   representations:
     human: ASHRAE Standard 135-2008 Errata
-    urn: urn:ashrae:135
+    urn: urn:ashrae:135:2008:standard:errata
+  style: v3
+- id: ashrae.errata.1567
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2010'
+      month: '10'
+      day: '25'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135'
+      year: '2008'
+  representations:
+    human: ASHRAE Standard 135-2008 Errata (October 25, 2010)
+    urn: urn:ashrae:135:2008:standard:errata.2010-10-25
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135-2008 Errata (October 25, 2010) (PDF)
     style: v3
-- id: ashrae.errata.1532
+- id: ashrae.errata.1569
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -515,12 +1072,27 @@
       year: '2010'
   representations:
     human: ASHRAE Standard 135-2010 Errata
-    urn: urn:ashrae:135
+    urn: urn:ashrae:135:2010:standard:errata
+  style: v3
+- id: ashrae.errata.1570
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2012'
+      month: '06'
+      day: '26'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135'
+      year: '2010'
+  representations:
+    human: ASHRAE Standard 135-2010 Errata (June 26, 2012)
+    urn: urn:ashrae:135:2010:standard:errata.2012-06-26
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135-2010 Errata (June 26, 2012) (PDF)
     style: v3
-- id: ashrae.errata.1534
+- id: ashrae.errata.1572
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -529,12 +1101,27 @@
       year: '2012'
   representations:
     human: ASHRAE Standard 135-2012 Errata
-    urn: urn:ashrae:135
+    urn: urn:ashrae:135:2012:standard:errata
+  style: v3
+- id: ashrae.errata.1573
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2015'
+      month: '06'
+      day: '29'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135'
+      year: '2012'
+  representations:
+    human: ASHRAE Standard 135-2012 Errata (June 29, 2015)
+    urn: urn:ashrae:135:2012:standard:errata.2015-06-29
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135-2012 Errata (June 29, 2015) (PDF)
     style: v3
-- id: ashrae.errata.1536
+- id: ashrae.errata.1575
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -543,12 +1130,27 @@
       year: '2016'
   representations:
     human: ASHRAE Standard 135-2016 Errata
-    urn: urn:ashrae:135
+    urn: urn:ashrae:135:2016:standard:errata
+  style: v3
+- id: ashrae.errata.1576
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2020'
+      month: '07'
+      day: '06'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135'
+      year: '2016'
+  representations:
+    human: ASHRAE Standard 135-2016 Errata (July 6, 2020)
+    urn: urn:ashrae:135:2016:standard:errata.2020-07-06
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135-2016 Errata (July 6, 2020) (PDF)
     style: v3
-- id: ashrae.errata.1538
+- id: ashrae.errata.1578
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -557,12 +1159,27 @@
       year: '2020'
   representations:
     human: ASHRAE Standard 135-2020 Errata
-    urn: urn:ashrae:135
+    urn: urn:ashrae:135:2020:standard:errata
+  style: v3
+- id: ashrae.errata.1579
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '04'
+      day: '29'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135'
+      year: '2020'
+  representations:
+    human: ASHRAE Standard 135-2020 Errata (April 29, 2024)
+    urn: urn:ashrae:135:2020:standard:errata.2024-04-29
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135-2020 Errata (April 29, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1540
+- id: ashrae.errata.1581
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -571,12 +1188,27 @@
       year: '2024'
   representations:
     human: ASHRAE Standard 135-2024 Errata
-    urn: urn:ashrae:135
+    urn: urn:ashrae:135:2024:standard:errata
+  style: v3
+- id: ashrae.errata.1582
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2025'
+      month: '02'
+      day: '28'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135'
+      year: '2024'
+  representations:
+    human: ASHRAE Standard 135-2024 Errata (February 28, 2025)
+    urn: urn:ashrae:135:2024:standard:errata.2025-02-28
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135-2024 Errata (February 28, 2025) (PDF)
     style: v3
-- id: ashrae.errata.1541
+- id: ashrae.errata.1583
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -585,12 +1217,27 @@
       year: '2003'
   representations:
     human: ASHRAE Standard 135.1-2003 Errata
-    urn: urn:ashrae:135.1
+    urn: urn:ashrae:135.1:2003:standard:errata
+  style: v3
+- id: ashrae.errata.1584
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2004'
+      month: '01'
+      day: '24'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135.1'
+      year: '2003'
+  representations:
+    human: ASHRAE Standard 135.1-2003 Errata (January 24, 2004)
+    urn: urn:ashrae:135.1:2003:standard:errata.2004-01-24
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135.1-2003 Errata (January 24, 2004) (PDF)
     style: v3
-- id: ashrae.errata.1542
+- id: ashrae.errata.1585
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -599,12 +1246,27 @@
       year: '2007'
   representations:
     human: ASHRAE Standard 135.1-2007 Errata
-    urn: urn:ashrae:135.1
+    urn: urn:ashrae:135.1:2007:standard:errata
+  style: v3
+- id: ashrae.errata.1586
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2010'
+      month: '02'
+      day: '10'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135.1'
+      year: '2007'
+  representations:
+    human: ASHRAE Standard 135.1-2007 Errata (February 10, 2010)
+    urn: urn:ashrae:135.1:2007:standard:errata.2010-02-10
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135.1-2007 Errata (February 10, 2010) (PDF)
     style: v3
-- id: ashrae.errata.1544
+- id: ashrae.errata.1588
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -613,12 +1275,27 @@
       year: '2019'
   representations:
     human: ASHRAE Standard 135.1-2019 Errata
-    urn: urn:ashrae:135.1
+    urn: urn:ashrae:135.1:2019:standard:errata
+  style: v3
+- id: ashrae.errata.1589
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2021'
+      month: '06'
+      day: '18'
+    base:
+      _type: pubid:ashrae:standard
+      number: '135.1'
+      year: '2019'
+  representations:
+    human: ASHRAE Standard 135.1-2019 Errata (June 18, 2021)
+    urn: urn:ashrae:135.1:2019:standard:errata.2021-06-18
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 135.1-2019 Errata (June 18, 2021) (PDF)
     style: v3
-- id: ashrae.errata.1547
+- id: ashrae.errata.1592
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -627,12 +1304,27 @@
       year: '1993'
   representations:
     human: ASHRAE Standard 136-1993 Errata
-    urn: urn:ashrae:136
+    urn: urn:ashrae:136:1993:standard:errata
+  style: v3
+- id: ashrae.errata.1593
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2003'
+      month: '03'
+      day: '20'
+    base:
+      _type: pubid:ashrae:standard
+      number: '136'
+      year: '1993'
+  representations:
+    human: ASHRAE Standard 136-1993 Errata (March 20, 2003)
+    urn: urn:ashrae:136:1993:standard:errata.2003-03-20
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 136-1993 Errata (March 20, 2003) (PDF)
     style: v3
-- id: ashrae.errata.1550
+- id: ashrae.errata.1596
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -641,12 +1333,27 @@
       year: '1998'
   representations:
     human: ASHRAE Standard 139-1998 Errata
-    urn: urn:ashrae:139
+    urn: urn:ashrae:139:1998:standard:errata
+  style: v3
+- id: ashrae.errata.1597
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2006'
+      month: '12'
+      day: '05'
+    base:
+      _type: pubid:ashrae:standard
+      number: '139'
+      year: '1998'
+  representations:
+    human: ASHRAE Standard 139-1998 Errata (December 5, 2006)
+    urn: urn:ashrae:139:1998:standard:errata.2006-12-05
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 139-1998 Errata (December 5, 2006) (PDF)
     style: v3
-- id: ashrae.errata.1551
+- id: ashrae.errata.1598
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -655,12 +1362,27 @@
       year: '2007'
   representations:
     human: ASHRAE Standard 139-2007 Errata
-    urn: urn:ashrae:139
+    urn: urn:ashrae:139:2007:standard:errata
+  style: v3
+- id: ashrae.errata.1599
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2007'
+      month: '09'
+      day: '17'
+    base:
+      _type: pubid:ashrae:standard
+      number: '139'
+      year: '2007'
+  representations:
+    human: ASHRAE Standard 139-2007 Errata (September 17, 2007)
+    urn: urn:ashrae:139:2007:standard:errata.2007-09-17
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 139-2007 Errata (September 17, 2007) (PDF)
     style: v3
-- id: ashrae.errata.1554
+- id: ashrae.errata.1602
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -669,12 +1391,27 @@
       year: '2007'
   representations:
     human: ASHRAE Standard 140-2007 Errata
-    urn: urn:ashrae:140
+    urn: urn:ashrae:140:2007:standard:errata
+  style: v3
+- id: ashrae.errata.1603
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2008'
+      month: '12'
+      day: '04'
+    base:
+      _type: pubid:ashrae:standard
+      number: '140'
+      year: '2007'
+  representations:
+    human: ASHRAE Standard 140-2007 Errata (December 4, 2008)
+    urn: urn:ashrae:140:2007:standard:errata.2008-12-04
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 140-2007 Errata (December 4, 2008) (PDF)
     style: v3
-- id: ashrae.errata.1557
+- id: ashrae.errata.1606
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -683,12 +1420,27 @@
       year: '2000'
   representations:
     human: ASHRAE Standard 143-2000 Errata
-    urn: urn:ashrae:143
+    urn: urn:ashrae:143:2000:standard:errata
+  style: v3
+- id: ashrae.errata.1607
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2003'
+      month: '03'
+      day: '14'
+    base:
+      _type: pubid:ashrae:standard
+      number: '143'
+      year: '2000'
+  representations:
+    human: ASHRAE Standard 143-2000 Errata (March 14, 2003)
+    urn: urn:ashrae:143:2000:standard:errata.2003-03-14
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 143-2000 Errata (March 14, 2003) (PDF)
     style: v3
-- id: ashrae.errata.1561
+- id: ashrae.errata.1611
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -697,12 +1449,27 @@
       year: '2011'
   representations:
     human: ASHRAE Standard 145.2-2011 Errata
-    urn: urn:ashrae:145.2
+    urn: urn:ashrae:145.2:2011:standard:errata
+  style: v3
+- id: ashrae.errata.1612
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2016'
+      month: '01'
+      day: '12'
+    base:
+      _type: pubid:ashrae:standard
+      number: '145.2'
+      year: '2011'
+  representations:
+    human: ASHRAE Standard 145.2-2011 Errata (January 12, 2016)
+    urn: urn:ashrae:145.2:2011:standard:errata.2016-01-12
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 145.2-2011 Errata (January 12, 2016) (PDF)
     style: v3
-- id: ashrae.errata.1565
+- id: ashrae.errata.1616
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -711,12 +1478,27 @@
       year: '2002'
   representations:
     human: ASHRAE Standard 147-2002 Errata
-    urn: urn:ashrae:147
+    urn: urn:ashrae:147:2002:standard:errata
+  style: v3
+- id: ashrae.errata.1617
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2003'
+      month: '12'
+      day: '03'
+    base:
+      _type: pubid:ashrae:standard
+      number: '147'
+      year: '2002'
+  representations:
+    human: ASHRAE Standard 147-2002 Errata (December 3, 2003)
+    urn: urn:ashrae:147:2002:standard:errata.2003-12-03
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 147-2002 Errata (December 3, 2003) (PDF)
     style: v3
-- id: ashrae.errata.1572
+- id: ashrae.errata.1624
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -725,12 +1507,27 @@
       year: '2001'
   representations:
     human: ASHRAE Standard 15-2001 Errata
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:2001:standard:errata
+  style: v3
+- id: ashrae.errata.1625
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2009'
+      month: '03'
+      day: '16'
+    base:
+      _type: pubid:ashrae:standard
+      number: '15'
+      year: '2001'
+  representations:
+    human: ASHRAE Standard 15-2001 Errata (March 16, 2009)
+    urn: urn:ashrae:15:2001:standard:errata.2009-03-16
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 15-2001 Errata (March 16, 2009) (PDF)
     style: v3
-- id: ashrae.errata.1574
+- id: ashrae.errata.1627
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -739,12 +1536,27 @@
       year: '2004'
   representations:
     human: ASHRAE Standard 15-2004 Errata
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:2004:standard:errata
+  style: v3
+- id: ashrae.errata.1628
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2007'
+      month: '06'
+      day: '11'
+    base:
+      _type: pubid:ashrae:standard
+      number: '15'
+      year: '2004'
+  representations:
+    human: ASHRAE Standard 15-2004 Errata (June 11, 2007)
+    urn: urn:ashrae:15:2004:standard:errata.2007-06-11
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 15-2004 Errata (June 11, 2007) (PDF)
     style: v3
-- id: ashrae.errata.1576
+- id: ashrae.errata.1630
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -753,12 +1565,27 @@
       year: '2007'
   representations:
     human: ASHRAE Standard 15-2007 Errata
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:2007:standard:errata
+  style: v3
+- id: ashrae.errata.1631
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2009'
+      month: '10'
+      day: '01'
+    base:
+      _type: pubid:ashrae:standard
+      number: '15'
+      year: '2007'
+  representations:
+    human: ASHRAE Standard 15-2007 Errata (October 1, 2009)
+    urn: urn:ashrae:15:2007:standard:errata.2009-10-01
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 15-2007 Errata (October 1, 2009) (PDF)
     style: v3
-- id: ashrae.errata.1581
+- id: ashrae.errata.1636
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -767,12 +1594,27 @@
       year: '2013'
   representations:
     human: ASHRAE Standard 15-2013 Errata
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:2013:standard:errata
+  style: v3
+- id: ashrae.errata.1637
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2015'
+      month: '03'
+      day: '06'
+    base:
+      _type: pubid:ashrae:standard
+      number: '15'
+      year: '2013'
+  representations:
+    human: ASHRAE Standard 15-2013 Errata (March 6, 2015)
+    urn: urn:ashrae:15:2013:standard:errata.2015-03-06
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 15-2013 Errata (March 6, 2015) (PDF)
     style: v3
-- id: ashrae.errata.1584
+- id: ashrae.errata.1640
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -781,12 +1623,27 @@
       year: '2019'
   representations:
     human: ASHRAE Standard 15-2019 Errata
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:2019:standard:errata
+  style: v3
+- id: ashrae.errata.1641
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2022'
+      month: '09'
+      day: '19'
+    base:
+      _type: pubid:ashrae:standard
+      number: '15'
+      year: '2019'
+  representations:
+    human: ASHRAE Standard 15-2019 Errata (September 19, 2022)
+    urn: urn:ashrae:15:2019:standard:errata.2022-09-19
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 15-2019 Errata (September 19, 2022) (PDF)
     style: v3
-- id: ashrae.errata.1586
+- id: ashrae.errata.1643
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -795,12 +1652,27 @@
       year: '2022'
   representations:
     human: ASHRAE Standard 15-2022 Errata
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:2022:standard:errata
+  style: v3
+- id: ashrae.errata.1644
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '06'
+      day: '19'
+    base:
+      _type: pubid:ashrae:standard
+      number: '15'
+      year: '2022'
+  representations:
+    human: ASHRAE Standard 15-2022 Errata (June 19, 2024)
+    urn: urn:ashrae:15:2022:standard:errata.2024-06-19
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 15-2022 Errata (June 19, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1588
+- id: ashrae.errata.1646
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -809,12 +1681,27 @@
       year: '2024'
   representations:
     human: ASHRAE Standard 15-2024 Errata
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:2024:standard:errata
+  style: v3
+- id: ashrae.errata.1647
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2025'
+      month: '01'
+      day: '02'
+    base:
+      _type: pubid:ashrae:standard
+      number: '15'
+      year: '2024'
+  representations:
+    human: ASHRAE Standard 15-2024 Errata (January 2, 2025)
+    urn: urn:ashrae:15:2024:standard:errata.2025-01-02
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 15-2024 Errata (January 2, 2025) (PDF)
     style: v3
-- id: ashrae.errata.1590
+- id: ashrae.errata.1649
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -823,12 +1710,27 @@
       year: '2022'
   representations:
     human: ASHRAE Standard 15.2-2022 Errata
-    urn: urn:ashrae:15.2
+    urn: urn:ashrae:15.2:2022:standard:errata
+  style: v3
+- id: ashrae.errata.1650
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2025'
+      month: '05'
+      day: '13'
+    base:
+      _type: pubid:ashrae:standard
+      number: '15.2'
+      year: '2022'
+  representations:
+    human: ASHRAE Standard 15.2-2022 Errata (May 13, 2025)
+    urn: urn:ashrae:15.2:2022:standard:errata.2025-05-13
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 15.2-2022 Errata (May 13, 2025) (PDF)
     style: v3
-- id: ashrae.errata.1592
+- id: ashrae.errata.1652
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -837,12 +1739,27 @@
       year: '2024'
   representations:
     human: ASHRAE Standard 15.2-2024 Errata
-    urn: urn:ashrae:15.2
+    urn: urn:ashrae:15.2:2024:standard:errata
+  style: v3
+- id: ashrae.errata.1653
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2025'
+      month: '05'
+      day: '13'
+    base:
+      _type: pubid:ashrae:standard
+      number: '15.2'
+      year: '2024'
+  representations:
+    human: ASHRAE Standard 15.2-2024 Errata (May 13, 2025)
+    urn: urn:ashrae:15.2:2024:standard:errata.2025-05-13
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 15.2-2024 Errata (May 13, 2025) (PDF)
     style: v3
-- id: ashrae.errata.1595
+- id: ashrae.errata.1656
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -851,12 +1768,27 @@
       year: '2004'
   representations:
     human: ASHRAE Standard 152-2004 Errata
-    urn: urn:ashrae:152
+    urn: urn:ashrae:152:2004:standard:errata
+  style: v3
+- id: ashrae.errata.1657
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2010'
+      month: '07'
+      day: '22'
+    base:
+      _type: pubid:ashrae:standard
+      number: '152'
+      year: '2004'
+  representations:
+    human: ASHRAE Standard 152-2004 Errata (July 22, 2010)
+    urn: urn:ashrae:152:2004:standard:errata.2010-07-22
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 152-2004 Errata (July 22, 2010) (PDF)
     style: v3
-- id: ashrae.errata.1601
+- id: ashrae.errata.1663
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -865,12 +1797,27 @@
       year: '2012'
   representations:
     human: ASHRAE Standard 158.1-2012 Errata
-    urn: urn:ashrae:158.1
+    urn: urn:ashrae:158.1:2012:standard:errata
+  style: v3
+- id: ashrae.errata.1664
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2013'
+      month: '10'
+      day: '15'
+    base:
+      _type: pubid:ashrae:standard
+      number: '158.1'
+      year: '2012'
+  representations:
+    human: ASHRAE Standard 158.1-2012 Errata (October 15, 2013)
+    urn: urn:ashrae:158.1:2012:standard:errata.2013-10-15
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 158.1-2012 Errata (October 15, 2013) (PDF)
     style: v3
-- id: ashrae.errata.1606
+- id: ashrae.errata.1669
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -880,12 +1827,28 @@
       reaffirmed: '2009'
   representations:
     human: ASHRAE Standard 16-1983 (RA2009) Errata
-    urn: urn:ashrae:16
+    urn: urn:ashrae:16:1983:standard:reaff.2009:errata
+  style: v3
+- id: ashrae.errata.1670
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2012'
+      month: '06'
+      day: '04'
+    base:
+      _type: pubid:ashrae:standard
+      number: '16'
+      year: '1983'
+      reaffirmed: '2009'
+  representations:
+    human: ASHRAE Standard 16-1983 (RA2009) Errata (June 4, 2012)
+    urn: urn:ashrae:16:1983:standard:reaff.2009:errata.2012-06-04
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 16-1983 (RA 2009) Errata (June 4, 2012) (PDF)
     style: v3
-- id: ashrae.errata.1607
+- id: ashrae.errata.1671
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -895,12 +1858,28 @@
       reaffirmed: '2014'
   representations:
     human: ASHRAE Standard 16-1983 (RA2014) Errata
-    urn: urn:ashrae:16
+    urn: urn:ashrae:16:1983:standard:reaff.2014:errata
+  style: v3
+- id: ashrae.errata.1672
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2015'
+      month: '12'
+      day: '10'
+    base:
+      _type: pubid:ashrae:standard
+      number: '16'
+      year: '1983'
+      reaffirmed: '2014'
+  representations:
+    human: ASHRAE Standard 16-1983 (RA2014) Errata (December 10, 2015)
+    urn: urn:ashrae:16:1983:standard:reaff.2014:errata.2015-12-10
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 16-1983 (RA 2014) Errata (December 10, 2015) (PDF)
     style: v3
-- id: ashrae.errata.1608
+- id: ashrae.errata.1673
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -910,12 +1889,28 @@
       reaffirmed: '99'
   representations:
     human: ASHRAE Standard 16-1983 (RA99) Errata
-    urn: urn:ashrae:16
+    urn: urn:ashrae:16:1983:standard:reaff.99:errata
+  style: v3
+- id: ashrae.errata.1674
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2006'
+      month: '07'
+      day: '24'
+    base:
+      _type: pubid:ashrae:standard
+      number: '16'
+      year: '1983'
+      reaffirmed: '99'
+  representations:
+    human: ASHRAE Standard 16-1983 (RA99) Errata (July 24, 2006)
+    urn: urn:ashrae:16:1983:standard:reaff.99:errata.2006-07-24
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 16-1983 (RA 99) Errata (July 24, 2006) (PDF)
     style: v3
-- id: ashrae.errata.1610
+- id: ashrae.errata.1676
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -924,12 +1919,27 @@
       year: '2009'
   representations:
     human: ASHRAE Standard 160-2009 Errata
-    urn: urn:ashrae:160
+    urn: urn:ashrae:160:2009:standard:errata
+  style: v3
+- id: ashrae.errata.1677
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2009'
+      month: '07'
+      day: '15'
+    base:
+      _type: pubid:ashrae:standard
+      number: '160'
+      year: '2009'
+  representations:
+    human: ASHRAE Standard 160-2009 Errata (July 15, 2009)
+    urn: urn:ashrae:160:2009:standard:errata.2009-07-15
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 160-2009 Errata (July 15, 2009) (PDF)
     style: v3
-- id: ashrae.errata.1612
+- id: ashrae.errata.1679
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -938,12 +1948,27 @@
       year: '2021'
   representations:
     human: ASHRAE Standard 160-2021 Errata
-    urn: urn:ashrae:160
+    urn: urn:ashrae:160:2021:standard:errata
+  style: v3
+- id: ashrae.errata.1680
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2023'
+      month: '02'
+      day: '17'
+    base:
+      _type: pubid:ashrae:standard
+      number: '160'
+      year: '2021'
+  representations:
+    human: ASHRAE Standard 160-2021 Errata (February 17, 2023)
+    urn: urn:ashrae:160:2021:standard:errata.2023-02-17
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 160-2021 Errata (February 17, 2023) (PDF)
     style: v3
-- id: ashrae.errata.1613
+- id: ashrae.errata.1681
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -952,12 +1977,27 @@
       year: '2007'
   representations:
     human: ASHRAE Standard 161-2007 Errata
-    urn: urn:ashrae:161
+    urn: urn:ashrae:161:2007:standard:errata
+  style: v3
+- id: ashrae.errata.1682
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2009'
+      month: '11'
+      day: '19'
+    base:
+      _type: pubid:ashrae:standard
+      number: '161'
+      year: '2007'
+  representations:
+    human: ASHRAE Standard 161-2007 Errata (November 19, 2009)
+    urn: urn:ashrae:161:2007:standard:errata.2009-11-19
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 161-2007 Errata (November 19, 2009) (PDF)
     style: v3
-- id: ashrae.errata.1625
+- id: ashrae.errata.1694
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -966,12 +2006,27 @@
       year: '2006'
   representations:
     human: ASHRAE Standard 169-2006 Errata
-    urn: urn:ashrae:169
+    urn: urn:ashrae:169:2006:standard:errata
+  style: v3
+- id: ashrae.errata.1695
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2009'
+      month: '04'
+      day: '13'
+    base:
+      _type: pubid:ashrae:standard
+      number: '169'
+      year: '2006'
+  representations:
+    human: ASHRAE Standard 169-2006 Errata (April 13, 2009)
+    urn: urn:ashrae:169:2006:standard:errata.2009-04-13
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 169-2006 Errata (April 13, 2009) (PDF)
     style: v3
-- id: ashrae.errata.1626
+- id: ashrae.errata.1696
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -980,12 +2035,27 @@
       year: '2013'
   representations:
     human: ASHRAE Standard 169-2013 Errata
-    urn: urn:ashrae:169
+    urn: urn:ashrae:169:2013:standard:errata
+  style: v3
+- id: ashrae.errata.1697
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2020'
+      month: '04'
+      day: '08'
+    base:
+      _type: pubid:ashrae:standard
+      number: '169'
+      year: '2013'
+  representations:
+    human: ASHRAE Standard 169-2013 Errata (April 8, 2020)
+    urn: urn:ashrae:169:2013:standard:errata.2020-04-08
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 169-2013 Errata (April 8, 2020) (PDF)
     style: v3
-- id: ashrae.errata.1630
+- id: ashrae.errata.1701
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -994,12 +2064,27 @@
       year: '2008'
   representations:
     human: ASHRAE Standard 170-2008 Errata
-    urn: urn:ashrae:170
+    urn: urn:ashrae:170:2008:standard:errata
+  style: v3
+- id: ashrae.errata.1702
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2013'
+      month: '11'
+      day: '07'
+    base:
+      _type: pubid:ashrae:standard
+      number: '170'
+      year: '2008'
+  representations:
+    human: ASHRAE Standard 170-2008 Errata (November 7, 2013)
+    urn: urn:ashrae:170:2008:standard:errata.2013-11-07
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/ASHE Standard 170-2008 Errata (November 7, 2013) (PDF)
     style: v3
-- id: ashrae.errata.1632
+- id: ashrae.errata.1704
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1008,12 +2093,27 @@
       year: '2013'
   representations:
     human: ASHRAE Standard 170-2013 Errata
-    urn: urn:ashrae:170
+    urn: urn:ashrae:170:2013:standard:errata
+  style: v3
+- id: ashrae.errata.1705
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2023'
+      month: '10'
+      day: '03'
+    base:
+      _type: pubid:ashrae:standard
+      number: '170'
+      year: '2013'
+  representations:
+    human: ASHRAE Standard 170-2013 Errata (October 3, 2023)
+    urn: urn:ashrae:170:2013:standard:errata.2023-10-03
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/ASHE Standard 170-2013 Errata (October 3, 2023) (PDF)
     style: v3
-- id: ashrae.errata.1634
+- id: ashrae.errata.1707
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1022,12 +2122,27 @@
       year: '2017'
   representations:
     human: ASHRAE Standard 170-2017 Errata
-    urn: urn:ashrae:170
+    urn: urn:ashrae:170:2017:standard:errata
+  style: v3
+- id: ashrae.errata.1708
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2023'
+      month: '10'
+      day: '03'
+    base:
+      _type: pubid:ashrae:standard
+      number: '170'
+      year: '2017'
+  representations:
+    human: ASHRAE Standard 170-2017 Errata (October 3, 2023)
+    urn: urn:ashrae:170:2017:standard:errata.2023-10-03
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/ASHE Standard 170-2017 Errata (October 3, 2023) (PDF)
     style: v3
-- id: ashrae.errata.1636
+- id: ashrae.errata.1710
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1036,12 +2151,27 @@
       year: '2021'
   representations:
     human: ASHRAE Standard 170-2021 Errata
-    urn: urn:ashrae:170
+    urn: urn:ashrae:170:2021:standard:errata
+  style: v3
+- id: ashrae.errata.1711
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '05'
+      day: '10'
+    base:
+      _type: pubid:ashrae:standard
+      number: '170'
+      year: '2021'
+  representations:
+    human: ASHRAE Standard 170-2021 Errata (May 10, 2024)
+    urn: urn:ashrae:170:2021:standard:errata.2024-05-10
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/ASHE Standard 170-2021 Errata (May 10, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1646
+- id: ashrae.errata.1721
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1050,12 +2180,27 @@
       year: '2018'
   representations:
     human: ASHRAE Standard 180-2018 Errata
-    urn: urn:ashrae:180
+    urn: urn:ashrae:180:2018:standard:errata
+  style: v3
+- id: ashrae.errata.1722
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2023'
+      month: '10'
+      day: '03'
+    base:
+      _type: pubid:ashrae:standard
+      number: '180'
+      year: '2018'
+  representations:
+    human: ASHRAE Standard 180-2018 Errata (October 3, 2023)
+    urn: urn:ashrae:180:2018:standard:errata.2023-10-03
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/ACCA Standard 180-2018 Errata (October 3, 2023) (PDF)
     style: v3
-- id: ashrae.errata.1652
+- id: ashrae.errata.1728
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1064,12 +2209,27 @@
       year: '2016'
   representations:
     human: ASHRAE Standard 184-2016 Errata
-    urn: urn:ashrae:184
+    urn: urn:ashrae:184:2016:standard:errata
+  style: v3
+- id: ashrae.errata.1729
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2017'
+      month: '10'
+      day: '02'
+    base:
+      _type: pubid:ashrae:standard
+      number: '184'
+      year: '2016'
+  representations:
+    human: ASHRAE Standard 184-2016 Errata (October 2, 2017)
+    urn: urn:ashrae:184:2016:standard:errata.2017-10-02
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 184-2016 Errata (October 2, 2017) (PDF)
     style: v3
-- id: ashrae.errata.1655
+- id: ashrae.errata.1732
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1078,12 +2238,27 @@
       year: '2015'
   representations:
     human: ASHRAE Standard 185.1-2015 Errata
-    urn: urn:ashrae:185.1
+    urn: urn:ashrae:185.1:2015:standard:errata
+  style: v3
+- id: ashrae.errata.1733
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2017'
+      month: '07'
+      day: '19'
+    base:
+      _type: pubid:ashrae:standard
+      number: '185.1'
+      year: '2015'
+  representations:
+    human: ASHRAE Standard 185.1-2015 Errata (July 19, 2017)
+    urn: urn:ashrae:185.1:2015:standard:errata.2017-07-19
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 185.1-2015 Errata (July 19, 2017) (PDF)
     style: v3
-- id: ashrae.errata.1665
+- id: ashrae.errata.1743
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1092,12 +2267,27 @@
       year: '2009'
   representations:
     human: ASHRAE Standard 189.1-2009 Errata
-    urn: urn:ashrae:189.1
+    urn: urn:ashrae:189.1:2009:standard:errata
+  style: v3
+- id: ashrae.errata.1744
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2018'
+      month: '03'
+      day: '08'
+    base:
+      _type: pubid:ashrae:standard
+      number: '189.1'
+      year: '2009'
+  representations:
+    human: ASHRAE Standard 189.1-2009 Errata (March 8, 2018)
+    urn: urn:ashrae:189.1:2009:standard:errata.2018-03-08
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/USGBC/IES Standard 189.1-2009 Errata (March 8, 2018) (PDF)
     style: v3
-- id: ashrae.errata.1667
+- id: ashrae.errata.1746
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1106,12 +2296,27 @@
       year: '2011'
   representations:
     human: ASHRAE Standard 189.1-2011 Errata
-    urn: urn:ashrae:189.1
+    urn: urn:ashrae:189.1:2011:standard:errata
+  style: v3
+- id: ashrae.errata.1747
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2018'
+      month: '03'
+      day: '08'
+    base:
+      _type: pubid:ashrae:standard
+      number: '189.1'
+      year: '2011'
+  representations:
+    human: ASHRAE Standard 189.1-2011 Errata (March 8, 2018)
+    urn: urn:ashrae:189.1:2011:standard:errata.2018-03-08
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/USGBC/IES Standard 189.1-2011 Errata (March 8, 2018) (PDF)
     style: v3
-- id: ashrae.errata.1669
+- id: ashrae.errata.1749
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1120,12 +2325,27 @@
       year: '2014'
   representations:
     human: ASHRAE Standard 189.1-2014 Errata
-    urn: urn:ashrae:189.1
+    urn: urn:ashrae:189.1:2014:standard:errata
+  style: v3
+- id: ashrae.errata.1750
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2019'
+      month: '03'
+      day: '22'
+    base:
+      _type: pubid:ashrae:standard
+      number: '189.1'
+      year: '2014'
+  representations:
+    human: ASHRAE Standard 189.1-2014 Errata (March 22, 2019)
+    urn: urn:ashrae:189.1:2014:standard:errata.2019-03-22
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/USGBC/IES Standard 189.1-2014 Errata (March 22, 2019) (PDF)
     style: v3
-- id: ashrae.errata.1671
+- id: ashrae.errata.1752
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1134,13 +2354,28 @@
       year: '2017'
   representations:
     human: ASHRAE Standard 189.1-2017 Errata
-    urn: urn:ashrae:189.1
+    urn: urn:ashrae:189.1:2017:standard:errata
+  style: v3
+- id: ashrae.errata.1753
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2020'
+      month: '04'
+      day: '23'
+    base:
+      _type: pubid:ashrae:standard
+      number: '189.1'
+      year: '2017'
+  representations:
+    human: ASHRAE Standard 189.1-2017 Errata (April 23, 2020)
+    urn: urn:ashrae:189.1:2017:standard:errata.2020-04-23
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/ICC/USGBC/IES Standard 189.1-2017 Errata (April 23, 2020)
       (PDF)
     style: v3
-- id: ashrae.errata.1673
+- id: ashrae.errata.1755
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1149,13 +2384,28 @@
       year: '2020'
   representations:
     human: ASHRAE Standard 189.1-2020 Errata
-    urn: urn:ashrae:189.1
+    urn: urn:ashrae:189.1:2020:standard:errata
+  style: v3
+- id: ashrae.errata.1756
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2022'
+      month: '07'
+      day: '25'
+    base:
+      _type: pubid:ashrae:standard
+      number: '189.1'
+      year: '2020'
+  representations:
+    human: ASHRAE Standard 189.1-2020 Errata (July 25, 2022)
+    urn: urn:ashrae:189.1:2020:standard:errata.2022-07-25
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/ICC/USGBC/IES Standard 189.1-2020 Errata (July 25, 2022)
       (PDF)
     style: v3
-- id: ashrae.errata.1675
+- id: ashrae.errata.1758
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1164,13 +2414,28 @@
       year: '2023'
   representations:
     human: ASHRAE Standard 189.1-2023 Errata
-    urn: urn:ashrae:189.1
+    urn: urn:ashrae:189.1:2023:standard:errata
+  style: v3
+- id: ashrae.errata.1759
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '07'
+      day: '22'
+    base:
+      _type: pubid:ashrae:standard
+      number: '189.1'
+      year: '2023'
+  representations:
+    human: ASHRAE Standard 189.1-2023 Errata (July 22, 2024)
+    urn: urn:ashrae:189.1:2023:standard:errata.2024-07-22
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE/ICC/USGBC/IES Standard 189.1-2023 Errata  (July 22, 2024)
       (PDF)
     style: v3
-- id: ashrae.errata.1681
+- id: ashrae.errata.1765
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1179,12 +2444,27 @@
       year: '2010'
   representations:
     human: ASHRAE Standard 193-2010 Errata
-    urn: urn:ashrae:193
+    urn: urn:ashrae:193:2010:standard:errata
+  style: v3
+- id: ashrae.errata.1766
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2012'
+      month: '02'
+      day: '16'
+    base:
+      _type: pubid:ashrae:standard
+      number: '193'
+      year: '2010'
+  representations:
+    human: ASHRAE Standard 193-2010 Errata (February 16, 2012)
+    urn: urn:ashrae:193:2010:standard:errata.2012-02-16
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 193-2010 Errata (February 16, 2012) (PDF)
     style: v3
-- id: ashrae.errata.1688
+- id: ashrae.errata.1773
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1193,12 +2473,27 @@
       year: '1997'
   representations:
     human: ASHRAE Standard 20-1997 Errata
-    urn: urn:ashrae:20
+    urn: urn:ashrae:20:1997:standard:errata
+  style: v3
+- id: ashrae.errata.1774
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2006'
+      month: '05'
+      day: '03'
+    base:
+      _type: pubid:ashrae:standard
+      number: '20'
+      year: '1997'
+  representations:
+    human: ASHRAE Standard 20-1997 Errata (May 3, 2006)
+    urn: urn:ashrae:20:1997:standard:errata.2006-05-03
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 20-1997 Errata (May 3, 2006) (PDF)
     style: v3
-- id: ashrae.errata.1692
+- id: ashrae.errata.1778
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1207,12 +2502,27 @@
       year: '2016'
   representations:
     human: ASHRAE Standard 201-2016 Errata
-    urn: urn:ashrae:201
+    urn: urn:ashrae:201:2016:standard:errata
+  style: v3
+- id: ashrae.errata.1779
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2018'
+      month: '01'
+      day: '17'
+    base:
+      _type: pubid:ashrae:standard
+      number: '201'
+      year: '2016'
+  representations:
+    human: ASHRAE Standard 201-2016 Errata (January 17, 2018)
+    urn: urn:ashrae:201:2016:standard:errata.2018-01-17
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 201-2016 Errata (January 17, 2018) (PDF)
     style: v3
-- id: ashrae.errata.1699
+- id: ashrae.errata.1786
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1222,12 +2532,28 @@
       reaffirmed: '2017'
   representations:
     human: ASHRAE Standard 206-2013 (RA2017) Errata
-    urn: urn:ashrae:206
+    urn: urn:ashrae:206:2013:standard:reaff.2017:errata
+  style: v3
+- id: ashrae.errata.1787
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2019'
+      month: '03'
+      day: '27'
+    base:
+      _type: pubid:ashrae:standard
+      number: '206'
+      year: '2013'
+      reaffirmed: '2017'
+  representations:
+    human: ASHRAE Standard 206-2013 (RA2017) Errata (March 27, 2019)
+    urn: urn:ashrae:206:2013:standard:reaff.2017:errata.2019-03-27
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 206-2013 (RA 2017) Errata (March 27, 2019) (PDF)
     style: v3
-- id: ashrae.errata.1700
+- id: ashrae.errata.1788
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1236,12 +2562,27 @@
       year: '2013'
   representations:
     human: ASHRAE Standard 206-2013 Errata
-    urn: urn:ashrae:206
+    urn: urn:ashrae:206:2013:standard:errata
+  style: v3
+- id: ashrae.errata.1789
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2014'
+      month: '09'
+      day: '10'
+    base:
+      _type: pubid:ashrae:standard
+      number: '206'
+      year: '2013'
+  representations:
+    human: ASHRAE Standard 206-2013 Errata (September 10, 2014)
+    urn: urn:ashrae:206:2013:standard:errata.2014-09-10
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 206-2013 Errata (September 10, 2014) (PDF)
     style: v3
-- id: ashrae.errata.1711
+- id: ashrae.errata.1800
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1250,12 +2591,27 @@
       year: '2020'
   representations:
     human: ASHRAE Standard 216-2020 Errata
-    urn: urn:ashrae:216
+    urn: urn:ashrae:216:2020:standard:errata
+  style: v3
+- id: ashrae.errata.1801
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2021'
+      month: '01'
+      day: '07'
+    base:
+      _type: pubid:ashrae:standard
+      number: '216'
+      year: '2020'
+  representations:
+    human: ASHRAE Standard 216-2020 Errata (January 7, 2021)
+    urn: urn:ashrae:216:2020:standard:errata.2021-01-07
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 216-2020 Errata (January 7, 2021) (PDF)
     style: v3
-- id: ashrae.errata.1718
+- id: ashrae.errata.1808
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1264,12 +2620,27 @@
       year: '2020'
   representations:
     human: ASHRAE Standard 221-2020 Errata
-    urn: urn:ashrae:221
+    urn: urn:ashrae:221:2020:standard:errata
+  style: v3
+- id: ashrae.errata.1809
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2021'
+      month: '08'
+      day: '05'
+    base:
+      _type: pubid:ashrae:standard
+      number: '221'
+      year: '2020'
+  representations:
+    human: ASHRAE Standard 221-2020 Errata (August 5, 2021)
+    urn: urn:ashrae:221:2020:standard:errata.2021-08-05
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 221-2020 Errata (August 5, 2021) (PDF)
     style: v3
-- id: ashrae.errata.1723
+- id: ashrae.errata.1814
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1278,12 +2649,27 @@
       year: '2020'
   representations:
     human: ASHRAE Standard 225-2020 Errata
-    urn: urn:ashrae:225
+    urn: urn:ashrae:225:2020:standard:errata
+  style: v3
+- id: ashrae.errata.1815
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2025'
+      month: '04'
+      day: '02'
+    base:
+      _type: pubid:ashrae:standard
+      number: '225'
+      year: '2020'
+  representations:
+    human: ASHRAE Standard 225-2020 Errata (April 2, 2025)
+    urn: urn:ashrae:225:2020:standard:errata.2025-04-02
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 225-2020 Errata (April 2, 2025) (PDF)
     style: v3
-- id: ashrae.errata.1732
+- id: ashrae.errata.1824
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1292,12 +2678,27 @@
       year: '2019'
   representations:
     human: ASHRAE Standard 24-2019 Errata
-    urn: urn:ashrae:24
+    urn: urn:ashrae:24:2019:standard:errata
+  style: v3
+- id: ashrae.errata.1825
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2019'
+      month: '10'
+      day: '21'
+    base:
+      _type: pubid:ashrae:standard
+      number: '24'
+      year: '2019'
+  representations:
+    human: ASHRAE Standard 24-2019 Errata (October 21, 2019)
+    urn: urn:ashrae:24:2019:standard:errata.2019-10-21
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 24-2019 Errata (October 21, 2019) (PDF)
     style: v3
-- id: ashrae.errata.1735
+- id: ashrae.errata.1828
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1306,12 +2707,27 @@
       year: '2023'
   representations:
     human: ASHRAE Standard 241-2023 Errata
-    urn: urn:ashrae:241
+    urn: urn:ashrae:241:2023:standard:errata
+  style: v3
+- id: ashrae.errata.1829
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '09'
+      day: '11'
+    base:
+      _type: pubid:ashrae:standard
+      number: '241'
+      year: '2023'
+  representations:
+    human: ASHRAE Standard 241-2023 Errata (September 11, 2024)
+    urn: urn:ashrae:241:2023:standard:errata.2024-09-11
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 241-2023 Errata (September 11, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1738
+- id: ashrae.errata.1832
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1320,12 +2736,27 @@
       year: '1990'
   representations:
     human: ASHRAE Standard 25-1990 Errata
-    urn: urn:ashrae:25
+    urn: urn:ashrae:25:1990:standard:errata
+  style: v3
+- id: ashrae.errata.1833
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '1996'
+      month: '08'
+      day: '05'
+    base:
+      _type: pubid:ashrae:standard
+      number: '25'
+      year: '1990'
+  representations:
+    human: ASHRAE Standard 25-1990 Errata (August 5, 1996)
+    urn: urn:ashrae:25:1990:standard:errata.1996-08-05
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 25-1990 Errata (August 5, 1996) (PDF)
     style: v3
-- id: ashrae.errata.1740
+- id: ashrae.errata.1835
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1335,12 +2766,28 @@
       reaffirmed: '2006'
   representations:
     human: ASHRAE Standard 25-2001 (RA2006) Errata
-    urn: urn:ashrae:25
+    urn: urn:ashrae:25:2001:standard:reaff.2006:errata
+  style: v3
+- id: ashrae.errata.1836
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2006'
+      month: '04'
+      day: '20'
+    base:
+      _type: pubid:ashrae:standard
+      number: '25'
+      year: '2001'
+      reaffirmed: '2006'
+  representations:
+    human: ASHRAE Standard 25-2001 (RA2006) Errata (April 20, 2006)
+    urn: urn:ashrae:25:2001:standard:reaff.2006:errata.2006-04-20
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 25-2001 (RA 2006) Errata (April 20, 2006) (PDF)
     style: v3
-- id: ashrae.errata.1743
+- id: ashrae.errata.1839
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1349,12 +2796,27 @@
       year: '2010'
   representations:
     human: ASHRAE Standard 26-2010 Errata
-    urn: urn:ashrae:26
+    urn: urn:ashrae:26:2010:standard:errata
+  style: v3
+- id: ashrae.errata.1840
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2019'
+      month: '08'
+      day: '13'
+    base:
+      _type: pubid:ashrae:standard
+      number: '26'
+      year: '2010'
+  representations:
+    human: ASHRAE Standard 26-2010 Errata (August 13, 2019)
+    urn: urn:ashrae:26:2010:standard:errata.2019-08-13
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 26-2010 Errata (August 13, 2019) (PDF)
     style: v3
-- id: ashrae.errata.1746
+- id: ashrae.errata.1843
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1363,12 +2825,27 @@
       year: '2009'
   representations:
     human: ASHRAE Standard 29-2009 Errata
-    urn: urn:ashrae:29
+    urn: urn:ashrae:29:2009:standard:errata
+  style: v3
+- id: ashrae.errata.1844
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2012'
+      month: '03'
+      day: '21'
+    base:
+      _type: pubid:ashrae:standard
+      number: '29'
+      year: '2009'
+  representations:
+    human: ASHRAE Standard 29-2009 Errata (March 21, 2012)
+    urn: urn:ashrae:29:2009:standard:errata.2012-03-21
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 29-2009 Errata (March 21, 2012) (PDF)
     style: v3
-- id: ashrae.errata.1747
+- id: ashrae.errata.1845
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1377,12 +2854,27 @@
       year: '2015'
   representations:
     human: ASHRAE Standard 29-2015 Errata
-    urn: urn:ashrae:29
+    urn: urn:ashrae:29:2015:standard:errata
+  style: v3
+- id: ashrae.errata.1846
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2016'
+      month: '06'
+      day: '30'
+    base:
+      _type: pubid:ashrae:standard
+      number: '29'
+      year: '2015'
+  representations:
+    human: ASHRAE Standard 29-2015 Errata (June 30, 2016)
+    urn: urn:ashrae:29:2015:standard:errata.2016-06-30
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 29-2015 Errata (June 30, 2016) (PDF)
     style: v3
-- id: ashrae.errata.1749
+- id: ashrae.errata.1848
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1391,12 +2883,27 @@
       year: '2017'
   representations:
     human: ASHRAE Standard 30-2017 Errata
-    urn: urn:ashrae:30
+    urn: urn:ashrae:30:2017:standard:errata
+  style: v3
+- id: ashrae.errata.1849
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '04'
+      day: '24'
+    base:
+      _type: pubid:ashrae:standard
+      number: '30'
+      year: '2017'
+  representations:
+    human: ASHRAE Standard 30-2017 Errata (April 24, 2024)
+    urn: urn:ashrae:30:2017:standard:errata.2024-04-24
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 30-2017 Errata (April 24, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1750
+- id: ashrae.errata.1850
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1405,12 +2912,27 @@
       year: '2019'
   representations:
     human: ASHRAE Standard 30-2019 Errata
-    urn: urn:ashrae:30
+    urn: urn:ashrae:30:2019:standard:errata
+  style: v3
+- id: ashrae.errata.1851
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '04'
+      day: '24'
+    base:
+      _type: pubid:ashrae:standard
+      number: '30'
+      year: '2019'
+  representations:
+    human: ASHRAE Standard 30-2019 Errata (April 24, 2024)
+    urn: urn:ashrae:30:2019:standard:errata.2024-04-24
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 30-2019 Errata (April 24, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1757
+- id: ashrae.errata.1858
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1419,12 +2941,27 @@
       year: '2000'
   representations:
     human: ASHRAE Standard 33-2000 Errata
-    urn: urn:ashrae:33
+    urn: urn:ashrae:33:2000:standard:errata
+  style: v3
+- id: ashrae.errata.1859
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2016'
+      month: '02'
+      day: '02'
+    base:
+      _type: pubid:ashrae:standard
+      number: '33'
+      year: '2000'
+  representations:
+    human: ASHRAE Standard 33-2000 Errata (February 2, 2016)
+    urn: urn:ashrae:33:2000:standard:errata.2016-02-02
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 33-2000 Errata (February 2, 2016) (PDF)
     style: v3
-- id: ashrae.errata.1764
+- id: ashrae.errata.1866
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1433,12 +2970,27 @@
       year: '2001'
   representations:
     human: ASHRAE Standard 34-2001 Errata
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2001:standard:errata
+  style: v3
+- id: ashrae.errata.1867
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2004'
+      month: '03'
+      day: '30'
+    base:
+      _type: pubid:ashrae:standard
+      number: '34'
+      year: '2001'
+  representations:
+    human: ASHRAE Standard 34-2001 Errata (March 30, 2004)
+    urn: urn:ashrae:34:2001:standard:errata.2004-03-30
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 34-2001 Errata (March 30, 2004) (PDF)
     style: v3
-- id: ashrae.errata.1768
+- id: ashrae.errata.1871
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1447,12 +2999,27 @@
       year: '2007'
   representations:
     human: ASHRAE Standard 34-2007 Errata
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2007:standard:errata
+  style: v3
+- id: ashrae.errata.1872
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2008'
+      month: '06'
+      day: '30'
+    base:
+      _type: pubid:ashrae:standard
+      number: '34'
+      year: '2007'
+  representations:
+    human: ASHRAE Standard 34-2007 Errata (June 30, 2008)
+    urn: urn:ashrae:34:2007:standard:errata.2008-06-30
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 34-2007 Errata (June 30, 2008) (PDF)
     style: v3
-- id: ashrae.errata.1770
+- id: ashrae.errata.1874
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1461,12 +3028,27 @@
       year: '2010'
   representations:
     human: ASHRAE Standard 34-2010 Errata
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2010:standard:errata
+  style: v3
+- id: ashrae.errata.1875
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '02'
+      day: '08'
+    base:
+      _type: pubid:ashrae:standard
+      number: '34'
+      year: '2010'
+  representations:
+    human: ASHRAE Standard 34-2010 Errata (February 8, 2024)
+    urn: urn:ashrae:34:2010:standard:errata.2024-02-08
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 34-2010 Errata (February 8, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1772
+- id: ashrae.errata.1877
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1475,12 +3057,27 @@
       year: '2013'
   representations:
     human: ASHRAE Standard 34-2013 Errata
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2013:standard:errata
+  style: v3
+- id: ashrae.errata.1878
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '02'
+      day: '08'
+    base:
+      _type: pubid:ashrae:standard
+      number: '34'
+      year: '2013'
+  representations:
+    human: ASHRAE Standard 34-2013 Errata (February 8, 2024)
+    urn: urn:ashrae:34:2013:standard:errata.2024-02-08
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 34-2013 Errata (February 8, 2024)
     style: v3
-- id: ashrae.errata.1775
+- id: ashrae.errata.1881
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1489,12 +3086,27 @@
       year: '2016'
   representations:
     human: ASHRAE Standard 34-2016 Errata
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2016:standard:errata
+  style: v3
+- id: ashrae.errata.1882
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '06'
+      day: '14'
+    base:
+      _type: pubid:ashrae:standard
+      number: '34'
+      year: '2016'
+  representations:
+    human: ASHRAE Standard 34-2016 Errata (June 14, 2024)
+    urn: urn:ashrae:34:2016:standard:errata.2024-06-14
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 34-2016 Errata (June 14, 2024)
     style: v3
-- id: ashrae.errata.1777
+- id: ashrae.errata.1884
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1503,12 +3115,27 @@
       year: '2019'
   representations:
     human: ASHRAE Standard 34-2019 Errata
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2019:standard:errata
+  style: v3
+- id: ashrae.errata.1885
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '02'
+      day: '08'
+    base:
+      _type: pubid:ashrae:standard
+      number: '34'
+      year: '2019'
+  representations:
+    human: ASHRAE Standard 34-2019 Errata (February 8, 2024)
+    urn: urn:ashrae:34:2019:standard:errata.2024-02-08
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 34-2019 Errata (February 8, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1779
+- id: ashrae.errata.1887
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1517,12 +3144,27 @@
       year: '2022'
   representations:
     human: ASHRAE Standard 34-2022 Errata
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2022:standard:errata
+  style: v3
+- id: ashrae.errata.1888
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '07'
+      day: '05'
+    base:
+      _type: pubid:ashrae:standard
+      number: '34'
+      year: '2022'
+  representations:
+    human: ASHRAE Standard 34-2022 Errata (July 5, 2024)
+    urn: urn:ashrae:34:2022:standard:errata.2024-07-05
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 34-2022 Errata (July 5, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1785
+- id: ashrae.errata.1894
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1531,12 +3173,27 @@
       year: '2005'
   representations:
     human: ASHRAE Standard 37-2005 Errata
-    urn: urn:ashrae:37
+    urn: urn:ashrae:37:2005:standard:errata
+  style: v3
+- id: ashrae.errata.1895
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2016'
+      month: '10'
+      day: '07'
+    base:
+      _type: pubid:ashrae:standard
+      number: '37'
+      year: '2005'
+  representations:
+    human: ASHRAE Standard 37-2005 Errata (October 7, 2016)
+    urn: urn:ashrae:37:2005:standard:errata.2016-10-07
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 37-2005 Errata (October 7, 2016) (PDF)
     style: v3
-- id: ashrae.errata.1786
+- id: ashrae.errata.1896
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1545,12 +3202,27 @@
       year: '2009'
   representations:
     human: ASHRAE Standard 37-2009 Errata
-    urn: urn:ashrae:37
+    urn: urn:ashrae:37:2009:standard:errata
+  style: v3
+- id: ashrae.errata.1897
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2019'
+      month: '03'
+      day: '27'
+    base:
+      _type: pubid:ashrae:standard
+      number: '37'
+      year: '2009'
+  representations:
+    human: ASHRAE Standard 37-2009 Errata (March 27, 2019)
+    urn: urn:ashrae:37:2009:standard:errata.2019-03-27
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 37-2009 Errata (March 27, 2019) (PDF)
     style: v3
-- id: ashrae.errata.1790
+- id: ashrae.errata.1901
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1559,12 +3231,27 @@
       year: '2025'
   representations:
     human: ASHRAE Standard 40-2025 Errata
-    urn: urn:ashrae:40
+    urn: urn:ashrae:40:2025:standard:errata
+  style: v3
+- id: ashrae.errata.1902
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2025'
+      month: '07'
+      day: '30'
+    base:
+      _type: pubid:ashrae:standard
+      number: '40'
+      year: '2025'
+  representations:
+    human: ASHRAE Standard 40-2025 Errata (July 30, 2025)
+    urn: urn:ashrae:40:2025:standard:errata.2025-07-30
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 40-2025 Errata (July 30, 2025) (PDF)
     style: v3
-- id: ashrae.errata.1792
+- id: ashrae.errata.1904
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1574,12 +3261,28 @@
       reaffirmed: '2001'
   representations:
     human: ASHRAE Standard 41.1-1986 (RA2001) Errata
-    urn: urn:ashrae:41.1
+    urn: urn:ashrae:41.1:1986:standard:reaff.2001:errata
+  style: v3
+- id: ashrae.errata.1905
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2002'
+      month: '02'
+      day: '07'
+    base:
+      _type: pubid:ashrae:standard
+      number: '41.1'
+      year: '1986'
+      reaffirmed: '2001'
+  representations:
+    human: ASHRAE Standard 41.1-1986 (RA2001) Errata (February 7, 2002)
+    urn: urn:ashrae:41.1:1986:standard:reaff.2001:errata.2002-02-07
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 41.1-1986 (RA 2001) Errata (February 7, 2002) (PDF)
     style: v3
-- id: ashrae.errata.1793
+- id: ashrae.errata.1906
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1588,12 +3291,27 @@
       year: '2020'
   representations:
     human: ASHRAE Standard 41.1-2020 Errata
-    urn: urn:ashrae:41.1
+    urn: urn:ashrae:41.1:2020:standard:errata
+  style: v3
+- id: ashrae.errata.1907
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2022'
+      month: '02'
+      day: '16'
+    base:
+      _type: pubid:ashrae:standard
+      number: '41.1'
+      year: '2020'
+  representations:
+    human: ASHRAE Standard 41.1-2020 Errata (February 16, 2022)
+    urn: urn:ashrae:41.1:2020:standard:errata.2022-02-16
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 41.1-2020 Errata (February 16, 2022) (PDF)
     style: v3
-- id: ashrae.errata.1796
+- id: ashrae.errata.1910
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1602,12 +3320,27 @@
       year: '2020'
   representations:
     human: ASHRAE Standard 41.10-2020 Errata
-    urn: urn:ashrae:41.10
+    urn: urn:ashrae:41.10:2020:standard:errata
+  style: v3
+- id: ashrae.errata.1911
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2022'
+      month: '02'
+      day: '16'
+    base:
+      _type: pubid:ashrae:standard
+      number: '41.10'
+      year: '2020'
+  representations:
+    human: ASHRAE Standard 41.10-2020 Errata (February 16, 2022)
+    urn: urn:ashrae:41.10:2020:standard:errata.2022-02-16
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 41.10-2020 Errata (February 16, 2022) (PDF)
     style: v3
-- id: ashrae.errata.1799
+- id: ashrae.errata.1914
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1616,12 +3349,27 @@
       year: '2024'
   representations:
     human: ASHRAE Standard 41.10-2024 Errata
-    urn: urn:ashrae:41.10
+    urn: urn:ashrae:41.10:2024:standard:errata
+  style: v3
+- id: ashrae.errata.1915
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '06'
+      day: '09'
+    base:
+      _type: pubid:ashrae:standard
+      number: '41.10'
+      year: '2024'
+  representations:
+    human: ASHRAE Standard 41.10-2024 Errata (June 9, 2024)
+    urn: urn:ashrae:41.10:2024:standard:errata.2024-06-09
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 41.10-2024 Errata (June 9, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1800
+- id: ashrae.errata.1916
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1630,12 +3378,27 @@
       year: '2020'
   representations:
     human: ASHRAE Standard 41.11-2020 Errata
-    urn: urn:ashrae:41.11
+    urn: urn:ashrae:41.11:2020:standard:errata
+  style: v3
+- id: ashrae.errata.1917
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2022'
+      month: '01'
+      day: '08'
+    base:
+      _type: pubid:ashrae:standard
+      number: '41.11'
+      year: '2020'
+  representations:
+    human: ASHRAE Standard 41.11-2020 Errata (January 8, 2022)
+    urn: urn:ashrae:41.11:2020:standard:errata.2022-01-08
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 41.11-2020 Errata (January 8, 2022) (PDF)
     style: v3
-- id: ashrae.errata.1807
+- id: ashrae.errata.1924
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1644,12 +3407,27 @@
       year: '2022'
   representations:
     human: ASHRAE Standard 41.2-2022 Errata
-    urn: urn:ashrae:41.2
+    urn: urn:ashrae:41.2:2022:standard:errata
+  style: v3
+- id: ashrae.errata.1925
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '05'
+      day: '17'
+    base:
+      _type: pubid:ashrae:standard
+      number: '41.2'
+      year: '2022'
+  representations:
+    human: ASHRAE Standard 41.2-2022 Errata (May 17, 2024)
+    urn: urn:ashrae:41.2:2022:standard:errata.2024-05-17
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 41.2-2022 Errata (May 17, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1808
+- id: ashrae.errata.1926
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1658,12 +3436,27 @@
       year: '1989'
   representations:
     human: ASHRAE Standard 41.3-1989 Errata
-    urn: urn:ashrae:41.3
+    urn: urn:ashrae:41.3:1989:standard:errata
+  style: v3
+- id: ashrae.errata.1927
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '1998'
+      month: '01'
+      day: '05'
+    base:
+      _type: pubid:ashrae:standard
+      number: '41.3'
+      year: '1989'
+  representations:
+    human: ASHRAE Standard 41.3-1989 Errata (January 5, 1998)
+    urn: urn:ashrae:41.3:1989:standard:errata.1998-01-05
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 41.3-1989 Errata (January 5, 1998) (PDF)
     style: v3
-- id: ashrae.errata.1814
+- id: ashrae.errata.1933
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1673,13 +3466,29 @@
       reaffirmed: '2006'
   representations:
     human: ASHRAE Standard 41.6-1994 (RA2006) Errata
-    urn: urn:ashrae:41.6
+    urn: urn:ashrae:41.6:1994:standard:reaff.2006:errata
+  style: v3
+- id: ashrae.errata.1934
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2011'
+      month: '09'
+      day: '06'
+    base:
+      _type: pubid:ashrae:standard
+      number: '41.6'
+      year: '1994'
+      reaffirmed: '2006'
+  representations:
+    human: ASHRAE Standard 41.6-1994 (RA2006) Errata (September 6, 2011)
+    urn: urn:ashrae:41.6:1994:standard:reaff.2006:errata.2011-09-06
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 41.6-1994 (RA 2006) Errata (September 6, 2011)
       (PDF)
     style: v3
-- id: ashrae.errata.1820
+- id: ashrae.errata.1940
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1688,12 +3497,27 @@
       year: '2011'
   representations:
     human: ASHRAE Standard 41.9-2011 Errata
-    urn: urn:ashrae:41.9
+    urn: urn:ashrae:41.9:2011:standard:errata
+  style: v3
+- id: ashrae.errata.1941
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2017'
+      month: '04'
+      day: '18'
+    base:
+      _type: pubid:ashrae:standard
+      number: '41.9'
+      year: '2011'
+  representations:
+    human: ASHRAE Standard 41.9-2011 Errata (April 18, 2017)
+    urn: urn:ashrae:41.9:2011:standard:errata.2017-04-18
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 41.9-2011 Errata (April 18, 2017) (PDF)
     style: v3
-- id: ashrae.errata.1825
+- id: ashrae.errata.1946
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1702,12 +3526,27 @@
       year: '1999'
   representations:
     human: ASHRAE Standard 51-1999 Errata
-    urn: urn:ashrae:51
+    urn: urn:ashrae:51:1999:standard:errata
+  style: v3
+- id: ashrae.errata.1947
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2006'
+      month: '02'
+      day: '15'
+    base:
+      _type: pubid:ashrae:standard
+      number: '51'
+      year: '1999'
+  representations:
+    human: ASHRAE Standard 51-1999 Errata (February 15, 2006)
+    urn: urn:ashrae:51:1999:standard:errata.2006-02-15
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE 51-1999 (ANSI/AMCA 210-99) Errata (February 15, 2006) (PDF)
     style: v3
-- id: ashrae.errata.1828
+- id: ashrae.errata.1950
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1716,12 +3555,27 @@
       year: '2023'
   representations:
     human: ASHRAE Standard 514-2023 Errata
-    urn: urn:ashrae:514
+    urn: urn:ashrae:514:2023:standard:errata
+  style: v3
+- id: ashrae.errata.1951
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '08'
+      day: '02'
+    base:
+      _type: pubid:ashrae:standard
+      number: '514'
+      year: '2023'
+  representations:
+    human: ASHRAE Standard 514-2023 Errata (August 2, 2024)
+    urn: urn:ashrae:514:2023:standard:errata.2024-08-02
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 514-2023 Errata (August 2, 2024)
     style: v3
-- id: ashrae.errata.1831
+- id: ashrae.errata.1954
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1730,12 +3584,27 @@
       year: '1999'
   representations:
     human: ASHRAE Standard 52.2-1999 Errata
-    urn: urn:ashrae:52.2
+    urn: urn:ashrae:52.2:1999:standard:errata
+  style: v3
+- id: ashrae.errata.1955
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2002'
+      month: '07'
+      day: '11'
+    base:
+      _type: pubid:ashrae:standard
+      number: '52.2'
+      year: '1999'
+  representations:
+    human: ASHRAE Standard 52.2-1999 Errata (July 11, 2002)
+    urn: urn:ashrae:52.2:1999:standard:errata.2002-07-11
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 52.2-1999 Errata (July 11, 2002) (PDF)
     style: v3
-- id: ashrae.errata.1834
+- id: ashrae.errata.1958
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1744,12 +3613,27 @@
       year: '2007'
   representations:
     human: ASHRAE Standard 52.2-2007 Errata
-    urn: urn:ashrae:52.2
+    urn: urn:ashrae:52.2:2007:standard:errata
+  style: v3
+- id: ashrae.errata.1959
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2011'
+      month: '09'
+      day: '15'
+    base:
+      _type: pubid:ashrae:standard
+      number: '52.2'
+      year: '2007'
+  representations:
+    human: ASHRAE Standard 52.2-2007 Errata (September 15, 2011)
+    urn: urn:ashrae:52.2:2007:standard:errata.2011-09-15
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 52.2-2007 Errata (September 15, 2011) (PDF)
     style: v3
-- id: ashrae.errata.1837
+- id: ashrae.errata.1962
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1758,12 +3642,27 @@
       year: '2012'
   representations:
     human: ASHRAE Standard 52.2-2012 Errata
-    urn: urn:ashrae:52.2
+    urn: urn:ashrae:52.2:2012:standard:errata
+  style: v3
+- id: ashrae.errata.1963
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2015'
+      month: '06'
+      day: '29'
+    base:
+      _type: pubid:ashrae:standard
+      number: '52.2'
+      year: '2012'
+  representations:
+    human: ASHRAE Standard 52.2-2012 Errata (June 29, 2015)
+    urn: urn:ashrae:52.2:2012:standard:errata.2015-06-29
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 52.2-2012 Errata (June 29, 2015) (PDF)
     style: v3
-- id: ashrae.errata.1840
+- id: ashrae.errata.1966
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1772,12 +3671,27 @@
       year: '2017'
   representations:
     human: ASHRAE Standard 52.2-2017 Errata
-    urn: urn:ashrae:52.2
+    urn: urn:ashrae:52.2:2017:standard:errata
+  style: v3
+- id: ashrae.errata.1967
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2020'
+      month: '10'
+      day: '15'
+    base:
+      _type: pubid:ashrae:standard
+      number: '52.2'
+      year: '2017'
+  representations:
+    human: ASHRAE Standard 52.2-2017 Errata (October 15, 2020)
+    urn: urn:ashrae:52.2:2017:standard:errata.2020-10-15
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 52.2-2017 Errata (October 15, 2020) (PDF)
     style: v3
-- id: ashrae.errata.1845
+- id: ashrae.errata.1972
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1786,12 +3700,27 @@
       year: '2004'
   representations:
     human: ASHRAE Standard 55-2004 Errata
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2004:standard:errata
+  style: v3
+- id: ashrae.errata.1973
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2010'
+      month: '06'
+      day: '02'
+    base:
+      _type: pubid:ashrae:standard
+      number: '55'
+      year: '2004'
+  representations:
+    human: ASHRAE Standard 55-2004 Errata (June 2, 2010)
+    urn: urn:ashrae:55:2004:standard:errata.2010-06-02
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 55-2004 Errata (June 2, 2010) (PDF)
     style: v3
-- id: ashrae.errata.1847
+- id: ashrae.errata.1975
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1800,12 +3729,27 @@
       year: '2010'
   representations:
     human: ASHRAE Standard 55-2010 Errata
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2010:standard:errata
+  style: v3
+- id: ashrae.errata.1976
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2012'
+      month: '08'
+      day: '28'
+    base:
+      _type: pubid:ashrae:standard
+      number: '55'
+      year: '2010'
+  representations:
+    human: ASHRAE Standard 55-2010 Errata (August 28, 2012)
+    urn: urn:ashrae:55:2010:standard:errata.2012-08-28
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 55-2010 Errata (August 28, 2012) (PDF)
     style: v3
-- id: ashrae.errata.1849
+- id: ashrae.errata.1978
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1814,12 +3758,27 @@
       year: '2013'
   representations:
     human: ASHRAE Standard 55-2013 Errata
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2013:standard:errata
+  style: v3
+- id: ashrae.errata.1979
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2017'
+      month: '07'
+      day: '18'
+    base:
+      _type: pubid:ashrae:standard
+      number: '55'
+      year: '2013'
+  representations:
+    human: ASHRAE Standard 55-2013 Errata (July 18, 2017)
+    urn: urn:ashrae:55:2013:standard:errata.2017-07-18
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 55-2013 Errata (July 18, 2017) (PDF)
     style: v3
-- id: ashrae.errata.1851
+- id: ashrae.errata.1981
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1828,12 +3787,27 @@
       year: '2017'
   representations:
     human: ASHRAE Standard 55-2017 Errata
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2017:standard:errata
+  style: v3
+- id: ashrae.errata.1982
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2020'
+      month: '10'
+      day: '15'
+    base:
+      _type: pubid:ashrae:standard
+      number: '55'
+      year: '2017'
+  representations:
+    human: ASHRAE Standard 55-2017 Errata (October 15, 2020)
+    urn: urn:ashrae:55:2017:standard:errata.2020-10-15
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 55-2017 Errata (October 15, 2020) (PDF)
     style: v3
-- id: ashrae.errata.1853
+- id: ashrae.errata.1984
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1842,12 +3816,27 @@
       year: '2020'
   representations:
     human: ASHRAE Standard 55-2020 Errata
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2020:standard:errata
+  style: v3
+- id: ashrae.errata.1985
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2022'
+      month: '04'
+      day: '21'
+    base:
+      _type: pubid:ashrae:standard
+      number: '55'
+      year: '2020'
+  representations:
+    human: ASHRAE Standard 55-2020 Errata (April 21, 2022)
+    urn: urn:ashrae:55:2020:standard:errata.2022-04-21
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 55-2020 Errata (April 21, 2022) (PDF)
     style: v3
-- id: ashrae.errata.1855
+- id: ashrae.errata.1987
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1856,12 +3845,27 @@
       year: '2023'
   representations:
     human: ASHRAE Standard 55-2023 Errata
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2023:standard:errata
+  style: v3
+- id: ashrae.errata.1988
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '09'
+      day: '16'
+    base:
+      _type: pubid:ashrae:standard
+      number: '55'
+      year: '2023'
+  representations:
+    human: ASHRAE Standard 55-2023 Errata (September 16, 2024)
+    urn: urn:ashrae:55:2023:standard:errata.2024-09-16
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 55-2023 Errata (September 16, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1857
+- id: ashrae.errata.1990
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1871,12 +3875,28 @@
       reaffirmed: '99'
   representations:
     human: ASHRAE Standard 58-1986 (RA99) Errata
-    urn: urn:ashrae:58
+    urn: urn:ashrae:58:1986:standard:reaff.99:errata
+  style: v3
+- id: ashrae.errata.1991
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2006'
+      month: '07'
+      day: '24'
+    base:
+      _type: pubid:ashrae:standard
+      number: '58'
+      year: '1986'
+      reaffirmed: '99'
+  representations:
+    human: ASHRAE Standard 58-1986 (RA99) Errata (July 24, 2006)
+    urn: urn:ashrae:58:1986:standard:reaff.99:errata.2006-07-24
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 58-1986 (RA 99) Errata (July 24, 2006) (PDF)
     style: v3
-- id: ashrae.errata.1862
+- id: ashrae.errata.1996
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1885,12 +3905,27 @@
       year: '2001'
   representations:
     human: ASHRAE Standard 62-2001 Errata
-    urn: urn:ashrae:62
+    urn: urn:ashrae:62:2001:standard:errata
+  style: v3
+- id: ashrae.errata.1997
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2002'
+      month: '10'
+      day: '02'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62'
+      year: '2001'
+  representations:
+    human: ASHRAE Standard 62-2001 Errata (October 2, 2002)
+    urn: urn:ashrae:62:2001:standard:errata.2002-10-02
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62-2001 Errata (October 2, 2002) (PDF)
     style: v3
-- id: ashrae.errata.1864
+- id: ashrae.errata.1999
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1899,12 +3934,27 @@
       year: '2004'
   representations:
     human: ASHRAE Standard 62.1-2004 Errata
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2004:standard:errata
+  style: v3
+- id: ashrae.errata.2000
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2007'
+      month: '05'
+      day: '04'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.1'
+      year: '2004'
+  representations:
+    human: ASHRAE Standard 62.1-2004 Errata (May 4, 2007)
+    urn: urn:ashrae:62.1:2004:standard:errata.2007-05-04
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.1-2004 Errata (May 4, 2007) (PDF)
     style: v3
-- id: ashrae.errata.1866
+- id: ashrae.errata.2002
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1913,12 +3963,27 @@
       year: '2007'
   representations:
     human: ASHRAE Standard 62.1-2007 Errata
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2007:standard:errata
+  style: v3
+- id: ashrae.errata.2003
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2010'
+      month: '07'
+      day: '07'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.1'
+      year: '2007'
+  representations:
+    human: ASHRAE Standard 62.1-2007 Errata (July 7, 2010)
+    urn: urn:ashrae:62.1:2007:standard:errata.2010-07-07
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.1-2007 Errata (July 7, 2010) (PDF)
     style: v3
-- id: ashrae.errata.1869
+- id: ashrae.errata.2006
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1927,12 +3992,27 @@
       year: '2010'
   representations:
     human: ASHRAE Standard 62.1-2010 Errata
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2010:standard:errata
+  style: v3
+- id: ashrae.errata.2007
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2011'
+      month: '07'
+      day: '21'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.1'
+      year: '2010'
+  representations:
+    human: ASHRAE Standard 62.1-2010 Errata (July 21, 2011)
+    urn: urn:ashrae:62.1:2010:standard:errata.2011-07-21
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.1-2010 Errata (July 21, 2011) (PDF)
     style: v3
-- id: ashrae.errata.1872
+- id: ashrae.errata.2010
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1941,12 +4021,27 @@
       year: '2013'
   representations:
     human: ASHRAE Standard 62.1-2013 Errata
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2013:standard:errata
+  style: v3
+- id: ashrae.errata.2011
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2014'
+      month: '10'
+      day: '29'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.1'
+      year: '2013'
+  representations:
+    human: ASHRAE Standard 62.1-2013 Errata (October 29, 2014)
+    urn: urn:ashrae:62.1:2013:standard:errata.2014-10-29
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.1-2013 Errata (October 29, 2014) (PDF)
     style: v3
-- id: ashrae.errata.1875
+- id: ashrae.errata.2014
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1955,12 +4050,27 @@
       year: '2016'
   representations:
     human: ASHRAE Standard 62.1-2016 Errata
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2016:standard:errata
+  style: v3
+- id: ashrae.errata.2015
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2016'
+      month: '10'
+      day: '20'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.1'
+      year: '2016'
+  representations:
+    human: ASHRAE Standard 62.1-2016 Errata (October 20, 2016)
+    urn: urn:ashrae:62.1:2016:standard:errata.2016-10-20
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.1-2016 Errata (October 20, 2016) (PDF)
     style: v3
-- id: ashrae.errata.1877
+- id: ashrae.errata.2017
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1969,12 +4079,27 @@
       year: '2019'
   representations:
     human: ASHRAE Standard 62.1-2019 Errata
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2019:standard:errata
+  style: v3
+- id: ashrae.errata.2018
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2021'
+      month: '06'
+      day: '15'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.1'
+      year: '2019'
+  representations:
+    human: ASHRAE Standard 62.1-2019 Errata (June 15, 2021)
+    urn: urn:ashrae:62.1:2019:standard:errata.2021-06-15
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.1-2019 Errata (June 15, 2021) (PDF)
     style: v3
-- id: ashrae.errata.1879
+- id: ashrae.errata.2020
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1983,12 +4108,27 @@
       year: '2022'
   representations:
     human: ASHRAE Standard 62.1-2022 Errata
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2022:standard:errata
+  style: v3
+- id: ashrae.errata.2021
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '11'
+      day: '05'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.1'
+      year: '2022'
+  representations:
+    human: ASHRAE Standard 62.1-2022 Errata (November 5, 2024)
+    urn: urn:ashrae:62.1:2022:standard:errata.2024-11-05
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.1-2022 Errata (November 5, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1886
+- id: ashrae.errata.2028
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -1997,12 +4137,27 @@
       year: '2010'
   representations:
     human: ASHRAE Standard 62.2-2010 Errata
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2010:standard:errata
+  style: v3
+- id: ashrae.errata.2029
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2010'
+      month: '07'
+      day: '21'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.2'
+      year: '2010'
+  representations:
+    human: ASHRAE Standard 62.2-2010 Errata (July 21, 2010)
+    urn: urn:ashrae:62.2:2010:standard:errata.2010-07-21
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.2 -2010 Errata (July 21, 2010) (PDF)
     style: v3
-- id: ashrae.errata.1889
+- id: ashrae.errata.2032
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2011,12 +4166,27 @@
       year: '2013'
   representations:
     human: ASHRAE Standard 62.2-2013 Errata
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2013:standard:errata
+  style: v3
+- id: ashrae.errata.2033
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2015'
+      month: '02'
+      day: '23'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.2'
+      year: '2013'
+  representations:
+    human: ASHRAE Standard 62.2-2013 Errata (February 23, 2015)
+    urn: urn:ashrae:62.2:2013:standard:errata.2015-02-23
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.2-2013 Errata (February 23, 2015) (PDF)
     style: v3
-- id: ashrae.errata.1891
+- id: ashrae.errata.2035
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2025,12 +4195,27 @@
       year: '2016'
   representations:
     human: ASHRAE Standard 62.2-2016 Errata
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2016:standard:errata
+  style: v3
+- id: ashrae.errata.2036
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2018'
+      month: '09'
+      day: '20'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.2'
+      year: '2016'
+  representations:
+    human: ASHRAE Standard 62.2-2016 Errata (September 20, 2018)
+    urn: urn:ashrae:62.2:2016:standard:errata.2018-09-20
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.2-2016 Errata (September 20, 2018) (PDF)
     style: v3
-- id: ashrae.errata.1893
+- id: ashrae.errata.2038
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2039,12 +4224,27 @@
       year: '2019'
   representations:
     human: ASHRAE Standard 62.2-2019 Errata
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2019:standard:errata
+  style: v3
+- id: ashrae.errata.2039
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2020'
+      month: '02'
+      day: '27'
+    base:
+      _type: pubid:ashrae:standard
+      number: '62.2'
+      year: '2019'
+  representations:
+    human: ASHRAE Standard 62.2-2019 Errata (February 27, 2020)
+    urn: urn:ashrae:62.2:2019:standard:errata.2020-02-27
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 62.2-2019 Errata (February 27, 2020) (PDF)
     style: v3
-- id: ashrae.errata.1904
+- id: ashrae.errata.2050
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2053,12 +4253,27 @@
       year: '2005'
   representations:
     human: ASHRAE Standard 72-2005 Errata
-    urn: urn:ashrae:72
+    urn: urn:ashrae:72:2005:standard:errata
+  style: v3
+- id: ashrae.errata.2051
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2009'
+      month: '09'
+      day: '10'
+    base:
+      _type: pubid:ashrae:standard
+      number: '72'
+      year: '2005'
+  representations:
+    human: ASHRAE Standard 72-2005 Errata (September 10, 2009)
+    urn: urn:ashrae:72:2005:standard:errata.2009-09-10
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 72-2005 Errata (September 10, 2009) (PDF)
     style: v3
-- id: ashrae.errata.1905
+- id: ashrae.errata.2052
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2067,12 +4282,27 @@
       year: '2022'
   representations:
     human: ASHRAE Standard 72-2022 Errata
-    urn: urn:ashrae:72
+    urn: urn:ashrae:72:2022:standard:errata
+  style: v3
+- id: ashrae.errata.2053
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2022'
+      month: '09'
+      day: '23'
+    base:
+      _type: pubid:ashrae:standard
+      number: '72'
+      year: '2022'
+  representations:
+    human: ASHRAE Standard 72-2022 Errata (September 23, 2022)
+    urn: urn:ashrae:72:2022:standard:errata.2022-09-23
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 72-2022 Errata (September 23, 2022) (PDF)
     style: v3
-- id: ashrae.errata.1909
+- id: ashrae.errata.2057
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2082,12 +4312,28 @@
       reaffirmed: '2006'
   representations:
     human: ASHRAE Standard 79-2002 (RA2006) Errata
-    urn: urn:ashrae:79
+    urn: urn:ashrae:79:2002:standard:reaff.2006:errata
+  style: v3
+- id: ashrae.errata.2058
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2014'
+      month: '02'
+      day: '11'
+    base:
+      _type: pubid:ashrae:standard
+      number: '79'
+      year: '2002'
+      reaffirmed: '2006'
+  representations:
+    human: ASHRAE Standard 79-2002 (RA2006) Errata (February 11, 2014)
+    urn: urn:ashrae:79:2002:standard:reaff.2006:errata.2014-02-11
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 79-2002 (RA 2006) Errata (February 11, 2014) (PDF)
     style: v3
-- id: ashrae.errata.1910
+- id: ashrae.errata.2059
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2096,12 +4342,27 @@
       year: '2015'
   representations:
     human: ASHRAE Standard 79-2015 Errata
-    urn: urn:ashrae:79
+    urn: urn:ashrae:79:2015:standard:errata
+  style: v3
+- id: ashrae.errata.2060
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2016'
+      month: '02'
+      day: '29'
+    base:
+      _type: pubid:ashrae:standard
+      number: '79'
+      year: '2015'
+  representations:
+    human: ASHRAE Standard 79-2015 Errata (February 29, 2016)
+    urn: urn:ashrae:79:2015:standard:errata.2016-02-29
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 79-2015 Errata (February 29, 2016) (PDF)
     style: v3
-- id: ashrae.errata.1914
+- id: ashrae.errata.2064
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2110,12 +4371,27 @@
       year: '2020'
   representations:
     human: ASHRAE Standard 84-2020 Errata
-    urn: urn:ashrae:84
+    urn: urn:ashrae:84:2020:standard:errata
+  style: v3
+- id: ashrae.errata.2065
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2021'
+      month: '07'
+      day: '01'
+    base:
+      _type: pubid:ashrae:standard
+      number: '84'
+      year: '2020'
+  representations:
+    human: ASHRAE Standard 84-2020 Errata (July 1, 2021)
+    urn: urn:ashrae:84:2020:standard:errata.2021-07-01
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 84-2020 Errata (July 1, 2021) (PDF)
     style: v3
-- id: ashrae.errata.1917
+- id: ashrae.errata.2068
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2125,12 +4401,28 @@
       reaffirmed: '2006'
   representations:
     human: ASHRAE Standard 86-1994 (RA2006) Errata
-    urn: urn:ashrae:86
+    urn: urn:ashrae:86:1994:standard:reaff.2006:errata
+  style: v3
+- id: ashrae.errata.2069
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2009'
+      month: '11'
+      day: '17'
+    base:
+      _type: pubid:ashrae:standard
+      number: '86'
+      year: '1994'
+      reaffirmed: '2006'
+  representations:
+    human: ASHRAE Standard 86-1994 (RA2006) Errata (November 17, 2009)
+    urn: urn:ashrae:86:1994:standard:reaff.2006:errata.2009-11-17
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 86-1994 (RA 2006) Errata (November 17, 2009) (PDF)
     style: v3
-- id: ashrae.errata.1938
+- id: ashrae.errata.2090
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2139,12 +4431,27 @@
       year: '2001'
   representations:
     human: ASHRAE Standard 90.2-2001 Errata
-    urn: urn:ashrae:90.2
+    urn: urn:ashrae:90.2:2001:standard:errata
+  style: v3
+- id: ashrae.errata.2091
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2006'
+      month: '01'
+      day: '17'
+    base:
+      _type: pubid:ashrae:standard
+      number: '90.2'
+      year: '2001'
+  representations:
+    human: ASHRAE Standard 90.2-2001 Errata (January 17, 2006)
+    urn: urn:ashrae:90.2:2001:standard:errata.2006-01-17
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 90.2-2001 Errata (January 17, 2006) (PDF)
     style: v3
-- id: ashrae.errata.1941
+- id: ashrae.errata.2094
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2153,13 +4460,28 @@
       year: '2007'
   representations:
     human: ASHRAE Standard 90.2-2007 Errata
-    urn: urn:ashrae:90.2
+    urn: urn:ashrae:90.2:2007:standard:errata
+  style: v3
+- id: ashrae.errata.2095
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2013'
+      month: '02'
+      day: '06'
+    base:
+      _type: pubid:ashrae:standard
+      number: '90.2'
+      year: '2007'
+  representations:
+    human: ASHRAE Standard 90.2-2007 Errata (February 6, 2013)
+    urn: urn:ashrae:90.2:2007:standard:errata.2013-02-06
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 90.2-2007 Errata – Spanish Edition (February 6,
       2013) (PDF)
     style: v3
-- id: ashrae.errata.1943
+- id: ashrae.errata.2097
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2168,12 +4490,27 @@
       year: '2018'
   representations:
     human: ASHRAE Standard 90.2-2018 Errata
-    urn: urn:ashrae:90.2
+    urn: urn:ashrae:90.2:2018:standard:errata
+  style: v3
+- id: ashrae.errata.2098
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2024'
+      month: '12'
+      day: '09'
+    base:
+      _type: pubid:ashrae:standard
+      number: '90.2'
+      year: '2018'
+  representations:
+    human: ASHRAE Standard 90.2-2018 Errata (December 9, 2024)
+    urn: urn:ashrae:90.2:2018:standard:errata.2024-12-09
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 90.2-2018 Errata (December 9, 2024) (PDF)
     style: v3
-- id: ashrae.errata.1945
+- id: ashrae.errata.2100
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2182,12 +4519,27 @@
       year: '2024'
   representations:
     human: ASHRAE Standard 90.2-2024 Errata
-    urn: urn:ashrae:90.2
+    urn: urn:ashrae:90.2:2024:standard:errata
+  style: v3
+- id: ashrae.errata.2101
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2025'
+      month: '09'
+      day: '23'
+    base:
+      _type: pubid:ashrae:standard
+      number: '90.2'
+      year: '2024'
+  representations:
+    human: ASHRAE Standard 90.2-2024 Errata (September 23, 2025)
+    urn: urn:ashrae:90.2:2024:standard:errata.2025-09-23
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 90.2-2024 Errata (September 23, 2025) (PDF)
     style: v3
-- id: ashrae.errata.1947
+- id: ashrae.errata.2103
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2196,12 +4548,27 @@
       year: '2016'
   representations:
     human: ASHRAE Standard 90.4-2016 Errata
-    urn: urn:ashrae:90.4
+    urn: urn:ashrae:90.4:2016:standard:errata
+  style: v3
+- id: ashrae.errata.2104
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2018'
+      month: '05'
+      day: '31'
+    base:
+      _type: pubid:ashrae:standard
+      number: '90.4'
+      year: '2016'
+  representations:
+    human: ASHRAE Standard 90.4-2016 Errata (May 31, 2018)
+    urn: urn:ashrae:90.4:2016:standard:errata.2018-05-31
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 90.4-2016 Errata (May 31, 2018) (PDF)
     style: v3
-- id: ashrae.errata.1949
+- id: ashrae.errata.2106
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2210,12 +4577,27 @@
       year: '2019'
   representations:
     human: ASHRAE Standard 90.4-2019 Errata
-    urn: urn:ashrae:90.4
+    urn: urn:ashrae:90.4:2019:standard:errata
+  style: v3
+- id: ashrae.errata.2107
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2021'
+      month: '03'
+      day: '23'
+    base:
+      _type: pubid:ashrae:standard
+      number: '90.4'
+      year: '2019'
+  representations:
+    human: ASHRAE Standard 90.4-2019 Errata (March 23, 2021)
+    urn: urn:ashrae:90.4:2019:standard:errata.2021-03-23
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 90.4-2019 Errata (March 23, 2021) (PDF)
     style: v3
-- id: ashrae.errata.1951
+- id: ashrae.errata.2109
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2224,12 +4606,27 @@
       year: '2022'
   representations:
     human: ASHRAE Standard 90.4-2022 Errata
-    urn: urn:ashrae:90.4
+    urn: urn:ashrae:90.4:2022:standard:errata
+  style: v3
+- id: ashrae.errata.2110
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2023'
+      month: '12'
+      day: '11'
+    base:
+      _type: pubid:ashrae:standard
+      number: '90.4'
+      year: '2022'
+  representations:
+    human: ASHRAE Standard 90.4-2022 Errata (December 11, 2023)
+    urn: urn:ashrae:90.4:2022:standard:errata.2023-12-11
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 90.4-2022 Errata (December 11, 2023) (PDF)
     style: v3
-- id: ashrae.errata.1962
+- id: ashrae.errata.2121
   identifier:
     _type: pubid:ashrae:errata
     base:
@@ -2238,7 +4635,22 @@
       year: '2010'
   representations:
     human: ASHRAE Standard 94.3-2010 Errata
-    urn: urn:ashrae:94.3
+    urn: urn:ashrae:94.3:2010:standard:errata
+  style: v3
+- id: ashrae.errata.2122
+  identifier:
+    _type: pubid:ashrae:errata
+    date:
+      year: '2010'
+      month: '09'
+      day: '15'
+    base:
+      _type: pubid:ashrae:standard
+      number: '94.3'
+      year: '2010'
+  representations:
+    human: ASHRAE Standard 94.3-2010 Errata (September 15, 2010)
+    urn: urn:ashrae:94.3:2010:standard:errata.2010-09-15
   style: v3
   non_normalized_aliases:
   - spelling: ANSI/ASHRAE Standard 94.3-2010 Errata (September 15, 2010) (PDF)

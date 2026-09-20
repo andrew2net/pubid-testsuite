@@ -8,7 +8,7 @@
     addendum_codes: a
   representations:
     human: ASHRAE Addenda a to Guideline 0
-    urn: urn:ashrae:0
+    urn: urn:ashrae:0:guideline:adds.a
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Guideline 0: Addenda a'
@@ -23,7 +23,7 @@
     addendum_codes: a
   representations:
     human: ASHRAE Addenda a to Guideline 13-2007
-    urn: urn:ashrae:13
+    urn: urn:ashrae:13:2007:guideline:adds.a
   style: v3
 - id: ashrae.combined_addenda.0078
   identifier:
@@ -35,7 +35,7 @@
     addendum_codes: a
   representations:
     human: ASHRAE Addenda a to Guideline 14-2023
-    urn: urn:ashrae:14
+    urn: urn:ashrae:14:2023:guideline:adds.a
   style: v3
 - id: ashrae.combined_addenda.0079
   identifier:
@@ -47,7 +47,7 @@
     addendum_codes: a
   representations:
     human: ASHRAE Addenda a to Standard 127-2020
-    urn: urn:ashrae:127
+    urn: urn:ashrae:127:2020:standard:adds.a
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda a to 127-2020
@@ -62,7 +62,7 @@
     addendum_codes: a
   representations:
     human: ASHRAE Addenda a to Standard 140-2023
-    urn: urn:ashrae:140
+    urn: urn:ashrae:140:2023:standard:adds.a
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda a for Standard 140-2023 (August 29, 2025)
@@ -77,7 +77,7 @@
     addendum_codes: a, b
   representations:
     human: ASHRAE Addenda a, b to Standard 105-2007
-    urn: urn:ashrae:105
+    urn: urn:ashrae:105:2007:standard:adds.a-b
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda a and b to 105-2007
@@ -92,7 +92,7 @@
     addendum_codes: a, b
   representations:
     human: ASHRAE Addenda a, b to Standard 161-2007
-    urn: urn:ashrae:161
+    urn: urn:ashrae:161:2007:standard:adds.a-b
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda a and b to Standard 161-2007
@@ -106,7 +106,7 @@
     addendum_codes: a, b
   representations:
     human: ASHRAE Addenda a, b to Standard 189.1
-    urn: urn:ashrae:189.1
+    urn: urn:ashrae:189.1:standard:adds.a-b
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda a and b to Standard 189.1
@@ -121,7 +121,7 @@
     addendum_codes: a, b
   representations:
     human: ASHRAE Addenda a, b to Standard 55-2004
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2004:standard:adds.a-b
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda a and b to Standard 55-2004
@@ -136,7 +136,7 @@
     addendum_codes: a, b, c
   representations:
     human: ASHRAE Addenda a, b, c to Standard 145.2-2011
-    urn: urn:ashrae:145.2
+    urn: urn:ashrae:145.2:2011:standard:adds.a-b-c
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 145.2-2011 Addenda a, b, c
@@ -151,7 +151,7 @@
     addendum_codes: a, b, c
   representations:
     human: ASHRAE Addenda a, b, c to Standard 90.2-1993
-    urn: urn:ashrae:90.2
+    urn: urn:ashrae:90.2:1993:standard:adds.a-b-c
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addendum a, b, and c to Standard 90.2-1993
@@ -165,7 +165,7 @@
     addendum_codes: a, b, c, d
   representations:
     human: ASHRAE Addenda a, b, c, d to Guideline 0
-    urn: urn:ashrae:0
+    urn: urn:ashrae:0:guideline:adds.a-b-c-d
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Guideline 0: Addenda a, b, c, d'
@@ -180,7 +180,7 @@
     addendum_codes: a, b, c, d
   representations:
     human: ASHRAE Addenda a, b, c, d to Guideline 10-2011
-    urn: urn:ashrae:10
+    urn: urn:ashrae:10:2011:guideline:adds.a-b-c-d
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 10-2011 Addenda a, b, c, d
@@ -195,7 +195,7 @@
     addendum_codes: a, b, c, d, e, f, g, h
   representations:
     human: ASHRAE Addenda a, b, c, d, e, f, g, h to Standard 34-2007
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2007:standard:adds.a-b-c-d-e-f-g-h
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2007: Addenda a,b,c,d,e,f,g,h'
@@ -210,7 +210,7 @@
     addendum_codes: a, b, c, d, e, f, j, k, l, o, p
   representations:
     human: ASHRAE Addenda a, b, c, d, e, f, j, k, l, o, p to Standard 34-1997
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:1997:standard:adds.a-b-c-d-e-f-j-k-l-o-p
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 34-1997 Addenda a, b, c, d, e, f, j, k, l, o, p
@@ -225,7 +225,7 @@
     addendum_codes: a, b, d
   representations:
     human: ASHRAE Addenda a, b, d to Standard 34-2010
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2010:standard:adds.a-b-d
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2010: Addenda a, b, d'
@@ -240,7 +240,7 @@
     addendum_codes: a, g, h, l, n, p, r
   representations:
     human: ASHRAE Addenda a, g, h, l, n, p, r to Standard 90.1-2016
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2016:standard:adds.a-g-h-l-n-p-r
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2016: Addenda a, g, h, l, n, p, r'
@@ -255,7 +255,7 @@
     addendum_codes: aa, ab, ag, ah, aj, al, am
   representations:
     human: ASHRAE Addenda aa, ab, ag, ah, aj, al, am to Standard 90.1-2004
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2004:standard:adds.aa-ab-ag-ah-aj-al-am
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2004: Addenda aa, ab, ag, ah, aj, al, and am'
@@ -270,7 +270,7 @@
     addendum_codes: ac
   representations:
     human: ASHRAE Addenda ac to Standard 170-2008
-    urn: urn:ashrae:170
+    urn: urn:ashrae:170:2008:standard:adds.ac
   style: v3
 - id: ashrae.combined_addenda.0095
   identifier:
@@ -282,7 +282,7 @@
     addendum_codes: ac, ad, ae, af
   representations:
     human: ASHRAE Addenda ac, ad, ae, af to Standard 34-2010
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2010:standard:adds.ac-ad-ae-af
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2010: Addenda ac, ad, ae, and af'
@@ -297,7 +297,7 @@
     addendum_codes: ac, an, ao
   representations:
     human: ASHRAE Addenda ac, an, ao to Standard 90.1-2004
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2004:standard:adds.ac-an-ao
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2004: Addenda ac, an, and ao'
@@ -312,7 +312,7 @@
     addendum_codes: ae, ai
   representations:
     human: ASHRAE Addenda ae, ai to Standard 90.1-2004
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2004:standard:adds.ae-ai
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2004: Addenda ae and ai'
@@ -327,7 +327,7 @@
     addendum_codes: af, ag
   representations:
     human: ASHRAE Addenda af, ag to Standard 34-2007
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2007:standard:adds.af-ag
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2007: Addenda af and ag'
@@ -342,7 +342,7 @@
     addendum_codes: af, bc, cd, db
   representations:
     human: ASHRAE Addenda af, bc, cd, db to Standard 90.1-2019
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2019:standard:adds.af-bc-cd-db
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda af, bc, cd, and db to Standard 90.1-2019 (November 16,
@@ -358,7 +358,7 @@
     addendum_codes: ag, ai, aj, ak, ay, bc, bd
   representations:
     human: ASHRAE Addenda ag, ai, aj, ak, ay, bc, bd to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.ag-ai-aj-ak-ay-bc-bd
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda ag, ai, aj, ak, ay, bc, bd'
@@ -373,7 +373,7 @@
     addendum_codes: am, aq, ax
   representations:
     human: ASHRAE Addenda am, aq, ax to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.am-aq-ax
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda am, aq, ax'
@@ -388,7 +388,7 @@
     addendum_codes: ap, aq, ar, av
   representations:
     human: ASHRAE Addenda ap, aq, ar, av to Standard 90.1-2004
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2004:standard:adds.ap-aq-ar-av
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2004: Addenda ap, aq, ar, and av'
@@ -403,7 +403,7 @@
     addendum_codes: ar, av, bp
   representations:
     human: ASHRAE Addenda ar, av, bp to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.ar-av-bp
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda ar, av, bp'
@@ -418,7 +418,7 @@
     addendum_codes: as, at
   representations:
     human: ASHRAE Addenda as, at to Standard 90.1-2004
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2004:standard:adds.as-at
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2004: Addenda as and at'
@@ -433,7 +433,7 @@
     addendum_codes: b, c
   representations:
     human: ASHRAE Addenda b, c to Standard 206-2013
-    urn: urn:ashrae:206
+    urn: urn:ashrae:206:2013:standard:adds.b-c
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 206-2013 Addenda b, c
@@ -448,7 +448,7 @@
     addendum_codes: b, c, d
   representations:
     human: ASHRAE Addenda b, c, d to Guideline 13-2007
-    urn: urn:ashrae:13
+    urn: urn:ashrae:13:2007:guideline:adds.b-c-d
   style: v3
 - id: ashrae.combined_addenda.0107
   identifier:
@@ -460,7 +460,7 @@
     addendum_codes: b, c, d, e, f, j
   representations:
     human: ASHRAE Addenda b, c, d, e, f, j to Standard 90.1-2016
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2016:standard:adds.b-c-d-e-f-j
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2016: Addenda b, c, d, e, f, j'
@@ -475,7 +475,7 @@
     addendum_codes: b, d, l, m, n, p, q
   representations:
     human: ASHRAE Addenda b, d, l, m, n, p, q to Guideline 13-2000
-    urn: urn:ashrae:13
+    urn: urn:ashrae:13:2000:guideline:adds.b-d-l-m-n-p-q
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Guideline 13-2000: Addenda b, d, l, m, n, p, q'
@@ -490,7 +490,7 @@
     addendum_codes: b, m
   representations:
     human: ASHRAE Addenda b, m to Standard 62.1-2010
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2010:standard:adds.b-m
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.1-2010 Addenda b and m
@@ -507,7 +507,7 @@
   representations:
     human: ASHRAE Addenda be, bm, bn, bo, bp, br, bs, bu, bv, cf, cl, cm, cq, ct,
       cu, cv, cw, cy to Standard 90.1-2016
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2016:standard:adds.be-bm-bn-bo-bp-br-bs-bu-bv-cf-cl-cm-cq-ct-cu-cv-cw-cy
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2016: Addenda be, bm, bn, bo, bp, br, bs, bu,
@@ -523,7 +523,7 @@
     addendum_codes: bf, bn, bs
   representations:
     human: ASHRAE Addenda bf, bn, bs to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.bf-bn-bs
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda bf, bn, bs'
@@ -538,7 +538,7 @@
     addendum_codes: bi, bt
   representations:
     human: ASHRAE Addenda bi, bt to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.bi-bt
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda bi, bt'
@@ -553,7 +553,7 @@
     addendum_codes: bx, by, ca, cb, cc
   representations:
     human: ASHRAE Addenda bx, by, ca, cb, cc to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.bx-by-ca-cb-cc
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda bx, by, ca, cb, cc'
@@ -568,7 +568,7 @@
     addendum_codes: by, ck, cp
   representations:
     human: ASHRAE Addenda by, ck, cp to Standard 90.1-2019
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2019:standard:adds.by-ck-cp
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda by, ck, and cp to Standard 90.1-2019 (August 3, 2020)
@@ -583,7 +583,7 @@
     addendum_codes: c
   representations:
     human: ASHRAE Addenda c to Standard 170-2021
-    urn: urn:ashrae:170
+    urn: urn:ashrae:170:2021:standard:adds.c
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda c to Standard 170-2021 (July 30, 2021)
@@ -598,7 +598,7 @@
     addendum_codes: c, d
   representations:
     human: ASHRAE Addenda c, d to Standard 15-1994
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:1994:standard:adds.c-d
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda c and d to Standard 15-1994
@@ -612,7 +612,7 @@
     addendum_codes: c, d, e, h, j, k, o
   representations:
     human: ASHRAE Addenda c, d, e, h, j, k, o to Standard 189.1
-    urn: urn:ashrae:189.1
+    urn: urn:ashrae:189.1:standard:adds.c-d-e-h-j-k-o
   style: v3
 - id: ashrae.combined_addenda.0118
   identifier:
@@ -624,7 +624,7 @@
     addendum_codes: c, d, e, k
   representations:
     human: ASHRAE Addenda c, d, e, k to Standard 90.2-2004
-    urn: urn:ashrae:90.2
+    urn: urn:ashrae:90.2:2004:standard:adds.c-d-e-k
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.2-2004: Addenda c, d, e, k'
@@ -639,7 +639,7 @@
     addendum_codes: c, d, f
   representations:
     human: ASHRAE Addenda c, d, f to Standard 161-2007
-    urn: urn:ashrae:161
+    urn: urn:ashrae:161:2007:standard:adds.c-d-f
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda c, d, and f to Standard 161-2007
@@ -654,7 +654,7 @@
     addendum_codes: c, d, i, p
   representations:
     human: ASHRAE Addenda c, d, i, p to Standard 62.1-2007
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2007:standard:adds.c-d-i-p
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.1-2007 Addenda c, d, i, and p
@@ -669,7 +669,7 @@
     addendum_codes: cd, ck, cn, cq, ct, cv
   representations:
     human: ASHRAE Addenda cd, ck, cn, cq, ct, cv to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.cd-ck-cn-cq-ct-cv
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda cd, ck, cn, cq, ct, cv'
@@ -684,7 +684,7 @@
     addendum_codes: ce, cp
   representations:
     human: ASHRAE Addenda ce, cp to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.ce-cp
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda ce, cp'
@@ -699,7 +699,7 @@
     addendum_codes: ch, cl, db
   representations:
     human: ASHRAE Addenda ch, cl, db to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.ch-cl-db
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda ch, cl, db'
@@ -714,7 +714,7 @@
     addendum_codes: cr, cs, cw, cz, da, dc
   representations:
     human: ASHRAE Addenda cr, cs, cw, cz, da, dc to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.cr-cs-cw-cz-da-dc
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda cr, cs, cw, cz, da, dc'
@@ -729,7 +729,7 @@
     addendum_codes: cy, co, dd, de, df
   representations:
     human: ASHRAE Addenda cy, co, dd, de, df to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.cy-co-dd-de-df
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda cy, co, dd, de, df'
@@ -744,7 +744,7 @@
     addendum_codes: d
   representations:
     human: ASHRAE Addenda d to Standard 145.2-2011
-    urn: urn:ashrae:145.2
+    urn: urn:ashrae:145.2:2011:standard:adds.d
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 145.2-2011 Addenda d
@@ -759,7 +759,7 @@
     addendum_codes: d, e, f, g
   representations:
     human: ASHRAE Addenda d, e, f, g to Standard 55-2004
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2004:standard:adds.d-e-f-g
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda d, e, f, and g to ANSI/ASHRAE Standard 55-2004
@@ -774,7 +774,7 @@
     addendum_codes: d, j, l, m, t
   representations:
     human: ASHRAE Addenda d, j, l, m, t to Standard 34-2004
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2004:standard:adds.d-j-l-m-t
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2004: Addenda d, j, l, m, t (PDF)'
@@ -789,7 +789,7 @@
     addendum_codes: d, o, x, aa, ab, ae, at, au, ba
   representations:
     human: ASHRAE Addenda d, o, x, aa, ab, ae, at, au, ba to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.d-o-x-aa-ab-ae-at-au-ba
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda d, o, x, aa, ab, ae, at, au, ba'
@@ -804,7 +804,7 @@
     addendum_codes: dg, di, dj, dk, dl
   representations:
     human: ASHRAE Addenda dg, di, dj, dk, dl to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.dg-di-dj-dk-dl
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda dg, di, dj, dk, dl'
@@ -819,7 +819,7 @@
     addendum_codes: dn, do, dp, dq, dr
   representations:
     human: ASHRAE Addenda dn, do, dp, dq, dr to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.dn-do-dp-dq-dr
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda dn, do, dp, dq, dr'
@@ -835,7 +835,7 @@
   representations:
     human: ASHRAE Addenda e, as, az, bg, bh, bj, bk, bl, bm, bo, bq, br, bv, bw to
       Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.e-as-az-bg-bh-bj-bk-bl-bm-bo-bq-br-bv-bw
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda e, as, az, bg, bh, bj, bk, bl, bm,
@@ -851,7 +851,7 @@
     addendum_codes: e, f
   representations:
     human: ASHRAE Addenda e, f to Standard 62.1-2004
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2004:standard:adds.e-f
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 62.1-2004: Addendum e and f (Contains Addenda e and
@@ -867,7 +867,7 @@
     addendum_codes: e, f, g, h
   representations:
     human: ASHRAE Addenda e, f, g, h to Standard 34-2010
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2010:standard:adds.e-f-g-h
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2010: Addenda e, f, g, h'
@@ -882,7 +882,7 @@
     addendum_codes: f
   representations:
     human: ASHRAE Addenda f to Guideline 13-2007
-    urn: urn:ashrae:13
+    urn: urn:ashrae:13:2007:guideline:adds.f
   style: v3
 - id: ashrae.combined_addenda.0136
   identifier:
@@ -894,7 +894,7 @@
     addendum_codes: f, g, h, i
   representations:
     human: ASHRAE Addenda f, g, h, i to Standard 62.2-2007
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2007:standard:adds.f-g-h-i
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.2-2007 Addenda f, g, h, and i
@@ -909,7 +909,7 @@
     addendum_codes: f, h
   representations:
     human: ASHRAE Addenda f, h to Standard 15-2007
-    urn: urn:ashrae:15
+    urn: urn:ashrae:15:2007:standard:adds.f-h
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda f and h for Standard 15-2007
@@ -923,7 +923,7 @@
     addendum_codes: f, l
   representations:
     human: ASHRAE Addenda f, l to Standard 189.1
-    urn: urn:ashrae:189.1
+    urn: urn:ashrae:189.1:standard:adds.f-l
   style: v3
 - id: ashrae.combined_addenda.0139
   identifier:
@@ -935,7 +935,7 @@
     addendum_codes: g, h, i
   representations:
     human: ASHRAE Addenda g, h, i to Guideline 13-2007
-    urn: urn:ashrae:13
+    urn: urn:ashrae:13:2007:guideline:adds.g-h-i
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda g, h, and i to Guideline 13-2007
@@ -949,7 +949,7 @@
     addendum_codes: g, i, m, p, q, r, u, v, w
   representations:
     human: ASHRAE Addenda g, i, m, p, q, r, u, v, w to Standard 189.1
-    urn: urn:ashrae:189.1
+    urn: urn:ashrae:189.1:standard:adds.g-i-m-p-q-r-u-v-w
   style: v3
 - id: ashrae.combined_addenda.0141
   identifier:
@@ -961,7 +961,7 @@
     addendum_codes: g, r, t
   representations:
     human: ASHRAE Addenda g, r, t to Standard 62.1-2007
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2007:standard:adds.g-r-t
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.1-2007 Addenda g, r, and t
@@ -976,7 +976,7 @@
     addendum_codes: h, l
   representations:
     human: ASHRAE Addenda h, l to Standard 62.1-2010
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2010:standard:adds.h-l
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.1-2010 Addenda h and l
@@ -991,7 +991,7 @@
     addendum_codes: i, j, k
   representations:
     human: ASHRAE Addenda i, j, k to Standard 34-2007
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2007:standard:adds.i-j-k
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2007: Addenda i, j, k'
@@ -1006,7 +1006,7 @@
     addendum_codes: i, j, k, l, n, o
   representations:
     human: ASHRAE Addenda i, j, k, l, n, o to Standard 34-2010
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2010:standard:adds.i-j-k-l-n-o
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2010: Addenda i, j, k, l, n, o'
@@ -1021,7 +1021,7 @@
     addendum_codes: i, k
   representations:
     human: ASHRAE Addenda i, k to Standard 55-2004
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2004:standard:adds.i-k
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda i and k to ANSI/ASHRAE Standard 55-2004
@@ -1036,7 +1036,7 @@
     addendum_codes: i, k, l, m, n, r
   representations:
     human: ASHRAE Addenda i, k, l, m, n, r to Standard 55-2010
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2010:standard:adds.i-k-l-m-n-r
   style: v3
 - id: ashrae.combined_addenda.0147
   identifier:
@@ -1048,7 +1048,7 @@
     addendum_codes: j, q, t
   representations:
     human: ASHRAE Addenda j, q, t to Standard 170-2008
-    urn: urn:ashrae:170
+    urn: urn:ashrae:170:2008:standard:adds.j-q-t
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda j, q, and t to Standard 170-2008
@@ -1063,7 +1063,7 @@
     addendum_codes: k, m
   representations:
     human: ASHRAE Addenda k, m to Standard 62.2-2010
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2010:standard:adds.k-m
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.2-2010 Addenda k and m
@@ -1078,7 +1078,7 @@
     addendum_codes: k, n, v
   representations:
     human: ASHRAE Addenda k, n, v to Standard 170-2008
-    urn: urn:ashrae:170
+    urn: urn:ashrae:170:2008:standard:adds.k-n-v
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Addenda k, n, and v to Standard 170-2008
@@ -1093,7 +1093,7 @@
     addendum_codes: k, o, x, ab, ac, ad, ae, ag, ah, ak, am
   representations:
     human: ASHRAE Addenda k, o, x, ab, ac, ad, ae, ag, ah, ak, am to Standard 90.1-2016
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2016:standard:adds.k-o-x-ab-ac-ad-ae-ag-ah-ak-am
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2016: Addenda k, o, x, ab, ac, ad, ae, ag, ah,
@@ -1109,7 +1109,7 @@
     addendum_codes: l, m, n, o, s
   representations:
     human: ASHRAE Addenda l, m, n, o, s to Standard 62.1-2007
-    urn: urn:ashrae:62.1
+    urn: urn:ashrae:62.1:2007:standard:adds.l-m-n-o-s
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.1-2007 Addenda l, m, n, o, and s
@@ -1119,32 +1119,17 @@
     _type: pubid:ashrae:combined-addenda
     base:
       _type: pubid:ashrae:standard
-      number: '34'
-      year: '2007'
-    addendum_codes: m, addendum_codev
-  representations:
-    human: ASHRAE Addenda m, addendum_codev to Standard 34-2007
-    urn: urn:ashrae:34
-  style: v3
-  non_normalized_aliases:
-  - spelling: 'ASHRAE Standard 34-2007: Addenda m through v'
-    style: v3
-- id: ashrae.combined_addenda.0153
-  identifier:
-    _type: pubid:ashrae:combined-addenda
-    base:
-      _type: pubid:ashrae:standard
       number: '90.1'
       year: '2016'
     addendum_codes: m, ai, aj, au, az, bg, dn
   representations:
     human: ASHRAE Addenda m, ai, aj, au, az, bg, dn to Standard 90.1-2016
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2016:standard:adds.m-ai-aj-au-az-bg-dn
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2016: Addenda m, ai, aj, au, az, bg, dn'
     style: v3
-- id: ashrae.combined_addenda.0154
+- id: ashrae.combined_addenda.0153
   identifier:
     _type: pubid:ashrae:combined-addenda
     base:
@@ -1154,10 +1139,25 @@
     addendum_codes: m, n, o, p, t
   representations:
     human: ASHRAE Addenda m, n, o, p, t to Standard 62.2-2007
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2007:standard:adds.m-n-o-p-t
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.2-2007 Addenda m, n, o, p, and t
+    style: v3
+- id: ashrae.combined_addenda.0154
+  identifier:
+    _type: pubid:ashrae:combined-addenda
+    base:
+      _type: pubid:ashrae:standard
+      number: '34'
+      year: '2007'
+    addendum_codes: m, v
+  representations:
+    human: ASHRAE Addenda m, v to Standard 34-2007
+    urn: urn:ashrae:34:2007:standard:adds.m-v
+  style: v3
+  non_normalized_aliases:
+  - spelling: 'ASHRAE Standard 34-2007: Addenda m through v'
     style: v3
 - id: ashrae.combined_addenda.0155
   identifier:
@@ -1169,7 +1169,7 @@
     addendum_codes: o, p, q
   representations:
     human: ASHRAE Addenda o, p, q to Standard 55-2010
-    urn: urn:ashrae:55
+    urn: urn:ashrae:55:2010:standard:adds.o-p-q
   style: v3
 - id: ashrae.combined_addenda.0156
   identifier:
@@ -1181,7 +1181,7 @@
     addendum_codes: p, q, r, s, t, u, v, y
   representations:
     human: ASHRAE Addenda p, q, r, s, t, u, v, y to Standard 34-2010
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2010:standard:adds.p-q-r-s-t-u-v-y
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2010: Addenda p, q, r, s, t, u, v, and y'
@@ -1196,7 +1196,7 @@
     addendum_codes: q, r
   representations:
     human: ASHRAE Addenda q, r to Standard 62.2-2007
-    urn: urn:ashrae:62.2
+    urn: urn:ashrae:62.2:2007:standard:adds.q-r
   style: v3
   non_normalized_aliases:
   - spelling: ASHRAE Standard 62.2-2007 Addenda q and r
@@ -1211,7 +1211,7 @@
     addendum_codes: q, s, z, ap, aq, ar
   representations:
     human: ASHRAE Addenda q, s, z, ap, aq, ar to Standard 90.1-2016
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2016:standard:adds.q-s-z-ap-aq-ar
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2016: Addenda q, s, z, ap, aq, ar'
@@ -1229,7 +1229,7 @@
     human: ASHRAE Addenda t, v, y, al, an, ao, at, aw, ay, az, ba, bb, bd, bf, bh,
       bi, bj, bk, bl, bq, bt, bx, bz, ca, cc, ce, cg, ch, ci, cj, cn, co to Standard
       90.1-2016
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2016:standard:adds.t-v-y-al-an-ao-at-aw-ay-az-ba-bb-bd-bf-bh-bi-bj-bk-bl-bq-bt-bx-bz-ca-cc-ce-cg-ch-ci-cj-cn-co
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2016: Addenda t, v, y, al, an, ao, at, aw, ay,
@@ -1245,7 +1245,7 @@
       year: '2009'
   representations:
     human: ASHRAE Addenda to Standard 135.1-2009
-    urn: urn:ashrae:135.1
+    urn: urn:ashrae:135.1:2009:standard:adds
   style: v3
 - id: ashrae.combined_addenda.0161
   identifier:
@@ -1256,7 +1256,7 @@
       year: '2001'
   representations:
     human: ASHRAE Addenda to Standard 34-2001
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2001:standard:adds
   style: v3
 - id: ashrae.combined_addenda.0162
   identifier:
@@ -1268,7 +1268,7 @@
     addendum_codes: u, w
   representations:
     human: ASHRAE Addenda u, w to Standard 170-2008
-    urn: urn:ashrae:170
+    urn: urn:ashrae:170:2008:standard:adds.u-w
   style: v3
 - id: ashrae.combined_addenda.0163
   identifier:
@@ -1280,7 +1280,7 @@
     addendum_codes: v, af, an, ao, ap
   representations:
     human: ASHRAE Addenda v, af, an, ao, ap to Standard 90.1-2007
-    urn: urn:ashrae:90.1
+    urn: urn:ashrae:90.1:2007:standard:adds.v-af-an-ao-ap
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 90.1-2007: Addenda v, af, an, ao, ap'
@@ -1295,7 +1295,7 @@
     addendum_codes: v, w
   representations:
     human: ASHRAE Addenda v, w to Standard 34-2004
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2004:standard:adds.v-w
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2004: Addenda v, w (PDF)'
@@ -1310,7 +1310,7 @@
     addendum_codes: x, y, aa, ab, ac, ad, ae
   representations:
     human: ASHRAE Addenda x, y, aa, ab, ac, ad, ae to Standard 34-2007
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2007:standard:adds.x-y-aa-ab-ac-ad-ae
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2007: Addenda x, y, aa, ab, ac, ad, and ae'
@@ -1325,7 +1325,7 @@
     addendum_codes: x, z, ab
   representations:
     human: ASHRAE Addenda x, z, ab to Standard 170-2008
-    urn: urn:ashrae:170
+    urn: urn:ashrae:170:2008:standard:adds.x-z-ab
   style: v3
 - id: ashrae.combined_addenda.0167
   identifier:
@@ -1337,7 +1337,7 @@
     addendum_codes: z, aa, ab
   representations:
     human: ASHRAE Addenda z, aa, ab to Standard 34-2010
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2010:standard:adds.z-aa-ab
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2010: Addenda z, aa, and ab'
@@ -1352,7 +1352,7 @@
     addendum_codes: z, ah, ai, aj
   representations:
     human: ASHRAE Addenda z, ah, ai, aj to Standard 34-2007
-    urn: urn:ashrae:34
+    urn: urn:ashrae:34:2007:standard:adds.z-ah-ai-aj
   style: v3
   non_normalized_aliases:
   - spelling: 'ASHRAE Standard 34-2007: Addenda z, ah, ai and aj'
