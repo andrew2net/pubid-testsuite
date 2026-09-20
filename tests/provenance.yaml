@@ -8,14 +8,15 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: cb628682eed8de7582f366d9730885d7ccba8e7c
+  commit: a8ce135898140fc780080c829426e7a7b7ce2607
   clean: true
   dirty_paths: []
 repository:
-  commit: 64a33d797bca4adaefaf0256178264f1d8a54158
+  commit: a44449bd6a9e8ada79facb73120176b754cfdb2c
   clean: false
   dirty_paths:
-  - tests/oiml/_normalization.yaml
+  - tests/cen_cenelec/_debt.yaml
+  - tests/cen_cenelec/_status.yaml
 ruby:
   version: 3.4.8
 counts:
@@ -251,8 +252,8 @@ payloads:
   sha256: ee67d26b75500074cc371ac1388590e72482df8bdf889870824d4901eb5f8b92
   bytes: 12833
 - path: cen_cenelec/_debt.yaml
-  sha256: aaf469056f361a23f41f8cddde0a24a8b84e15ae82e7dc9d0f0f0e1d1d38ac7b
-  bytes: 6393
+  sha256: baad872e060499399cbb18b25c9ca2a00490450416c8f0a30b44ab1af0761bbb
+  bytes: 6019
 - path: cen_cenelec/_negative.yaml
   sha256: 0ab1ea4f5dae51f9c903894493c887c43ee5903e47ea4d0bce0cd05bbb6b1657
   bytes: 1528
@@ -933,8 +934,8 @@ curated:
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: cen_cenelec/_status.yaml
-  sha256: f36abab99a9a4190f0240eaf219fa69b9813a963db0bde98c327fee2044c5349
-  bytes: 60
+  sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
+  bytes: 59
 - path: cie/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
