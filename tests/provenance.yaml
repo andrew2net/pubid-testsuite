@@ -12,16 +12,16 @@ oracle:
   clean: true
   dirty_paths: []
 repository:
-  commit: a44449bd6a9e8ada79facb73120176b754cfdb2c
+  commit: ff458deef0f5e39523ccf2c3d4bb4fa137ffa527
   clean: false
   dirty_paths:
-  - tests/cen_cenelec/_debt.yaml
-  - tests/cen_cenelec/_status.yaml
+  - tests/astm/_debt.yaml
+  - tests/astm/_status.yaml
 ruby:
   version: 3.4.8
 counts:
   flavors: 42
-  payloads: 334
+  payloads: 333
   cases: 98720
   aliases: 11404
   negatives: 1237
@@ -113,9 +113,6 @@ payloads:
 - path: asme/standard.yaml
   sha256: 73e6a9c915a50c978dbaf5bea85dece69e0d523182e8cab9892cba4141d52bb9
   bytes: 149767
-- path: astm/_debt.yaml
-  sha256: 1ff8ea8e21d9d4c45fecbcf3ffc74a052f9332b033b81502b353d2d24ed1ee57
-  bytes: 956
 - path: astm/_normalization.yaml
   sha256: e3b47f363ab118d472de683d900ff5d56d36471a4a538273a4e4074fe9b99b9b
   bytes: 565
@@ -919,8 +916,8 @@ curated:
   sha256: 58fb7ec4ffca22a82bc21940fe172dc553ba6505a7faefa9b585963198071879
   bytes: 340
 - path: astm/_status.yaml
-  sha256: 2de4b724ec02be13ebf297a3bf4aa948a6a1cd299b92b30e2a5e2e78048303c7
-  bytes: 339
+  sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
+  bytes: 59
 - path: bipm/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
