@@ -1,5 +1,5 @@
 ---
-- id: ieee.interpretation_identifier.4252
+- id: ieee.interpretation_identifier.4267
   identifier:
     _type: pubid:ieee:interpretation-identifier
     year: '1992'
@@ -18,7 +18,7 @@
   non_normalized_aliases:
   - spelling: IEEE Std 1003.1-1988/INT, 1992 Edition
     style: v3
-- id: ieee.interpretation_identifier.4269
+- id: ieee.interpretation_identifier.4284
   identifier:
     _type: pubid:ieee:interpretation-identifier
     year: '1994'
@@ -39,7 +39,7 @@
     style: v3
   - spelling: IEEE Std 1003.2-1992/INT, March 1994 Edition
     style: v3
-- id: ieee.interpretation_identifier.4270
+- id: ieee.interpretation_identifier.4285
   identifier:
     _type: pubid:ieee:interpretation-identifier
     year: '1994'
@@ -59,7 +59,7 @@
     style: v3
   - spelling: IEEE Std 1003.2/INT, March 1994
     style: v3
-- id: ieee.interpretation_identifier.4276
+- id: ieee.interpretation_identifier.4291
   identifier:
     _type: pubid:ieee:interpretation-identifier
     year: '1994'
@@ -78,7 +78,7 @@
   non_normalized_aliases:
   - spelling: IEEE Std 1003.5-1992/INT Mar 1994
     style: v3
-- id: ieee.interpretation_identifier.4278
+- id: ieee.interpretation_identifier.4293
   identifier:
     _type: pubid:ieee:interpretation-identifier
     year: '1994'
@@ -96,7 +96,7 @@
   non_normalized_aliases:
   - spelling: IEEE Std 1003.5/INT, Mar 1994
     style: v3
-- id: ieee.interpretation_identifier.4441
+- id: ieee.interpretation_identifier.4456
   identifier:
     _type: pubid:ieee:interpretation-identifier
     year: '1991'

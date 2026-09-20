@@ -1,5 +1,5 @@
 ---
-- id: ieee.si_standard.9219
+- id: ieee.si_standard.9669
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -16,12 +16,11 @@
   representations:
     human: IEEE/ASTM PSI 10/D2, October 2010
     urn: urn:ieee:ieee-astm:si:10:2010:draft./D2:October
-  roundtrip: false
   style: v3
   non_normalized_aliases:
   - spelling: IEEE PSI 10/D2, October 2010
     style: v3
-- id: ieee.si_standard.9220
+- id: ieee.si_standard.9670
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -38,9 +37,8 @@
   representations:
     human: IEEE/ASTM PSI 10/D2, October 2015
     urn: urn:ieee:ieee-astm:si:10:2015:draft./D2:October
-  roundtrip: false
   style: v3
-- id: ieee.si_standard.9221
+- id: ieee.si_standard.9671
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -57,9 +55,8 @@
   representations:
     human: IEEE/ASTM PSI 10/D3, October 2010
     urn: urn:ieee:ieee-astm:si:10:2010:draft./D3:October
-  roundtrip: false
   style: v3
-- id: ieee.si_standard.9222
+- id: ieee.si_standard.9672
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -76,9 +73,8 @@
   representations:
     human: IEEE/ASTM PSI 10/D3, October 2015
     urn: urn:ieee:ieee-astm:si:10:2015:draft./D3:October
-  roundtrip: false
   style: v3
-- id: ieee.si_standard.9223
+- id: ieee.si_standard.9673
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -97,7 +93,7 @@
   non_normalized_aliases:
   - spelling: IEEE/ASTM SI 10 -1997
     style: v3
-- id: ieee.si_standard.9224
+- id: ieee.si_standard.9674
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -118,7 +114,7 @@
     style: v3
   - spelling: IEEE/ASTM SI 10-2002 (Revision of IEEE/ASTM SI 10-1997)
     style: v3
-- id: ieee.si_standard.9225
+- id: ieee.si_standard.9675
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -139,7 +135,7 @@
     style: v3
   - spelling: IEEE/ASTM SI 10 -2010 (Revision of IEEE/ASTM SI 10 -2002)
     style: v3
-- id: ieee.si_standard.9226
+- id: ieee.si_standard.9676
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'

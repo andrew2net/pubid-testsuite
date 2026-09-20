@@ -2,6 +2,27 @@
 - id: ieee.joint_development.0914
   identifier:
     _type: pubid:ieee:joint-development
+    number: '60980'
+    year: '2019'
+    parts:
+    - '344'
+    separator: "."
+    publishers:
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: CDV
+    stage: CDV
+  representations:
+    human: IEC/IEEE CDV 60980.344:2019
+    urn: urn:ieee:iec-ieee:60980.344:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: IEC/IEEE P60980-344 CDV D1, June2019
+    style: v3
+- id: ieee.joint_development.0915
+  identifier:
+    _type: pubid:ieee:joint-development
     number: '62704'
     parts:
     - '2'
@@ -19,10 +40,11 @@
   non_normalized_aliases:
   - spelling: IEC/IEEE CDV P62704-2/D4
     style: v3
-- id: ieee.joint_development.0915
+- id: ieee.joint_development.0916
   identifier:
     _type: pubid:ieee:joint-development
     number: '62704'
+    year: '2016'
     parts:
     - '2'
     separator: "."
@@ -31,16 +53,33 @@
     - IEEE
     lead_party: ISO
     iso_stage: CDV
-    ieee_draft: D4
     stage: CDV
   representations:
-    human: IEC/IEEE CDV 62704.2
-    urn: urn:ieee:iec-ieee:62704.2
+    human: IEC/IEEE CDV 62704.2:2016
+    urn: urn:ieee:iec-ieee:62704.2:2016
   style: v3
   non_normalized_aliases:
   - spelling: IEC/IEEE CDV P62704-2/D4, July 2016
     style: v3
-- id: ieee.joint_development.0916
+- id: ieee.joint_development.0917
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '63113'
+    year: '2020'
+    publishers:
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: CDV
+    stage: CDV
+  representations:
+    human: IEC/IEEE CDV 63113:2020
+    urn: urn:ieee:iec-ieee:63113:2020
+  style: v3
+  non_normalized_aliases:
+  - spelling: IEC/IEEE P63113 CDV, May 2020
+    style: v3
+- id: ieee.joint_development.0918
   identifier:
     _type: pubid:ieee:joint-development
     number: '63195'
@@ -58,7 +97,28 @@
   non_normalized_aliases:
   - spelling: IEC/IEEE P63195_CDV/V3, February 2020
     style: v3
-- id: ieee.joint_development.0919
+- id: ieee.joint_development.0921
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '60214'
+    year: '2018'
+    parts:
+    - '2'
+    separator: "."
+    publishers:
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: IEC/IEEE FDIS 60214.2:2018
+    urn: urn:ieee:iec-ieee:60214.2:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: IEC/IEEE P60214-2, FDIS 2018
+    style: v3
+- id: ieee.joint_development.0922
   identifier:
     _type: pubid:ieee:joint-development
     number: '60780'
@@ -80,7 +140,49 @@
     style: v3
   - spelling: IEC/IEEE FDIS P60780-323, 2015
     style: v3
-- id: ieee.joint_development.0924
+- id: ieee.joint_development.0923
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '60980'
+    year: '2019'
+    parts:
+    - '344'
+    separator: "."
+    publishers:
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: IEC/IEEE FDIS 60980.344:2019
+    urn: urn:ieee:iec-ieee:60980.344:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: IEC/IEEE P60980-344 FDIS, December 2019
+    style: v3
+- id: ieee.joint_development.0925
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '62582'
+    year: '2018'
+    parts:
+    - '6'
+    separator: "."
+    publishers:
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: IEC/IEEE FDIS 62582.6:2018
+    urn: urn:ieee:iec-ieee:62582.6:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: IEC/IEEE P62582-6, FDIS 2018
+    style: v3
+- id: ieee.joint_development.0927
   identifier:
     _type: pubid:ieee:joint-development
     number: '62704'
@@ -101,7 +203,7 @@
   non_normalized_aliases:
   - spelling: IEC/IEEE P62704-3/D2
     style: v3
-- id: ieee.joint_development.0941
+- id: ieee.joint_development.0952
   identifier:
     _type: pubid:ieee:joint-development
     number: '24748'
@@ -122,7 +224,7 @@
   non_normalized_aliases:
   - spelling: IEEE P24748-5-CD3-July 2015
     style: v3
-- id: ieee.joint_development.0942
+- id: ieee.joint_development.0953
   identifier:
     _type: pubid:ieee:joint-development
     number: '24748'
@@ -142,7 +244,7 @@
   non_normalized_aliases:
   - spelling: IEEE P24748.5.CD3, July 2015
     style: v3
-- id: ieee.joint_development.9235
+- id: ieee.joint_development.9685
   identifier:
     _type: pubid:ieee:joint-development
     number: '62582'
@@ -160,7 +262,7 @@
   non_normalized_aliases:
   - spelling: IEEE/IEC P62582 CD2 proposal, May 2017
     style: v3
-- id: ieee.joint_development.9251
+- id: ieee.joint_development.9701
   identifier:
     _type: pubid:ieee:joint-development
     number: '42010'
@@ -179,7 +281,7 @@
   non_normalized_aliases:
   - spelling: IEEE/ISO/IEC P42010.CD1-V1.0, April 2020
     style: v3
-- id: ieee.joint_development.9252
+- id: ieee.joint_development.9702
   identifier:
     _type: pubid:ieee:joint-development
     number: '26515'
@@ -198,7 +300,1059 @@
   non_normalized_aliases:
   - spelling: IEEE/ISO/IEC FDIS P26515, May 2018
     style: v3
-- id: ieee.joint_development.9352
+- id: ieee.joint_development.9712
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24748'
+    year: '2017'
+    parts:
+    - '1'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    lead_party: ISO
+    iso_stage: DIS
+    stage: DIS
+  representations:
+    human: ISO/IEC DIS 24748.1:2017
+    urn: urn:ieee:iso-iec:24748.1:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC DIS P24748-1/D1, August 2017
+    style: v3
+- id: ieee.joint_development.9713
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '15289'
+    year: '2014'
+    publishers:
+    - ISO
+    - IEC
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: ISO/IEC FDIS 15289:2014
+    urn: urn:ieee:iso-iec:15289:2014
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC FDIS P15289, April 2014(E)
+    style: v3
+  - spelling: ISO/IEC FDIS P15289, December 2014 (E)
+    style: v3
+  - spelling: ISO/IEC FDIS P15289, July 2014 (E)
+    style: v3
+- id: ieee.joint_development.9714
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '12207'
+    year: '2020'
+    parts:
+    - '2'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 12207.2:2020
+    urn: urn:ieee:iso-iec-ieee:12207.2:2020
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 12207-2:2020(E)
+    style: v3
+- id: ieee.joint_development.9727
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '14764'
+    year: '2022'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 14764:2022
+    urn: urn:ieee:iso-iec-ieee:14764:2022
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 14764:2022(E)
+    style: v3
+- id: ieee.joint_development.9736
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '15026'
+    year: '2019'
+    parts:
+    - '1'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 15026.1:2019
+    urn: urn:ieee:iso-iec-ieee:15026.1:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 15026-1:2019(E)
+    style: v3
+- id: ieee.joint_development.9737
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '15026'
+    year: '2021'
+    parts:
+    - '4'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 15026.4:2021
+    urn: urn:ieee:iso-iec-ieee:15026.4:2021
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 15026-4:2021(E)
+    style: v3
+- id: ieee.joint_development.9744
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '15289'
+    year: '2011'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 15289:2011
+    urn: urn:ieee:iso-iec-ieee:15289:2011
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 15289:2011(E)
+    style: v3
+- id: ieee.joint_development.9745
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '15289'
+    year: '2015'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 15289:2015
+    urn: urn:ieee:iso-iec-ieee:15289:2015
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 15289:2015(E)
+    style: v3
+- id: ieee.joint_development.9746
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '15289'
+    year: '2017'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 15289:2017
+    urn: urn:ieee:iso-iec-ieee:15289:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 15289:2017(E)
+    style: v3
+- id: ieee.joint_development.9747
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '15289'
+    year: '2019'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 15289:2019
+    urn: urn:ieee:iso-iec-ieee:15289:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 15289:2019(E)
+    style: v3
+- id: ieee.joint_development.9748
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '15939'
+    year: '2017'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 15939:2017
+    urn: urn:ieee:iso-iec-ieee:15939:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 15939:2017(E)
+    style: v3
+- id: ieee.joint_development.9751
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '16085'
+    year: '2021'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 16085:2021
+    urn: urn:ieee:iso-iec-ieee:16085:2021
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 16085:2021(E)
+    style: v3
+- id: ieee.joint_development.9756
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '16326'
+    year: '2019'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 16326:2019
+    urn: urn:ieee:iso-iec-ieee:16326:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 16326:2019(E)
+    style: v3
+- id: ieee.joint_development.9757
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '18880'
+    year: '2015'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 18880:2015
+    urn: urn:ieee:iso-iec-ieee:18880:2015
+  style: v3
+- id: ieee.joint_development.9758
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '21450'
+    year: '2010'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 21450:2010
+    urn: urn:ieee:iso-iec-ieee:21450:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 21450:2010(E)
+    style: v3
+- id: ieee.joint_development.9760
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '21451'
+    year: '2010'
+    parts:
+    - '1'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 21451.1:2010
+    urn: urn:ieee:iso-iec-ieee:21451.1:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 21451-1:2010(E)
+    style: v3
+- id: ieee.joint_development.9761
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '21451'
+    year: '2010'
+    parts:
+    - '2'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 21451.2:2010
+    urn: urn:ieee:iso-iec-ieee:21451.2:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 21451-2:2010(E)
+    style: v3
+- id: ieee.joint_development.9762
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '21451'
+    year: '2010'
+    parts:
+    - '4'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 21451.4:2010
+    urn: urn:ieee:iso-iec-ieee:21451.4:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 21451-4:2010(E)
+    style: v3
+- id: ieee.joint_development.9766
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '21839'
+    year: '2019'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 21839:2019
+    urn: urn:ieee:iso-iec-ieee:21839:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 21839:2019(E)
+    style: v3
+- id: ieee.joint_development.9769
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '21840'
+    year: '2019'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 21840:2019
+    urn: urn:ieee:iso-iec-ieee:21840:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 21840:2019(E)
+    style: v3
+- id: ieee.joint_development.9771
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '21841'
+    year: '2019'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 21841:2019
+    urn: urn:ieee:iso-iec-ieee:21841:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 21841:2019(E)
+    style: v3
+- id: ieee.joint_development.9785
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24748'
+    year: '2018'
+    parts:
+    - '1'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 24748.1:2018
+    urn: urn:ieee:iso-iec-ieee:24748.1:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 24748-1:2018(E)
+    style: v3
+- id: ieee.joint_development.9786
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24748'
+    year: '2018'
+    parts:
+    - '2'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 24748.2:2018
+    urn: urn:ieee:iso-iec-ieee:24748.2:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 24748-2:2018(E)
+    style: v3
+- id: ieee.joint_development.9787
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24748'
+    year: '2020'
+    parts:
+    - '3'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 24748.3:2020
+    urn: urn:ieee:iso-iec-ieee:24748.3:2020
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 24748-3:2020(E)
+    style: v3
+- id: ieee.joint_development.9788
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24748'
+    year: '2017'
+    parts:
+    - '5'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 24748.5:2017
+    urn: urn:ieee:iso-iec-ieee:24748.5:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 24748-5:2017(E)
+    style: v3
+- id: ieee.joint_development.9789
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24765'
+    year: '2010'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 24765:2010
+    urn: urn:ieee:iso-iec-ieee:24765:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 24765:2010(E)
+    style: v3
+- id: ieee.joint_development.9790
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24765'
+    year: '2017'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 24765:2017
+    urn: urn:ieee:iso-iec-ieee:24765:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 24765:2017(E)
+    style: v3
+  - spelling: ISO/IEC/IEEE P24765/D3:2017
+    style: v3
+- id: ieee.joint_development.9794
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24774'
+    year: '2021'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 24774:2021
+    urn: urn:ieee:iso-iec-ieee:24774:2021
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 24774:2021(E)
+    style: v3
+- id: ieee.joint_development.9795
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '26511'
+    year: '2018'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 26511:2018
+    urn: urn:ieee:iso-iec-ieee:26511:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 26511:2018(E)
+    style: v3
+- id: ieee.joint_development.9796
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '26512'
+    year: '2017'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 26512:2017
+    urn: urn:ieee:iso-iec-ieee:26512:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 26512:2017(E)
+    style: v3
+- id: ieee.joint_development.9799
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '26513'
+    year: '2017'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 26513:2017
+    urn: urn:ieee:iso-iec-ieee:26513:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 26513:2017(E)
+    style: v3
+- id: ieee.joint_development.9803
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '26514'
+    year: '2022'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 26514:2022
+    urn: urn:ieee:iso-iec-ieee:26514:2022
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 26514:2022(E)
+    style: v3
+- id: ieee.joint_development.9804
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '26515'
+    year: '2018'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 26515:2018
+    urn: urn:ieee:iso-iec-ieee:26515:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 26515:2018(E)
+    style: v3
+- id: ieee.joint_development.9806
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '26531'
+    year: '2015'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 26531:2015
+    urn: urn:ieee:iso-iec-ieee:26531:2015
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 26531:2015(E)
+    style: v3
+- id: ieee.joint_development.9829
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29119'
+    year: '2013'
+    parts:
+    - '1'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 29119.1:2013
+    urn: urn:ieee:iso-iec-ieee:29119.1:2013
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29119-1:2013(E)
+    style: v3
+- id: ieee.joint_development.9830
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29119'
+    year: '2022'
+    parts:
+    - '1'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 29119.1:2022
+    urn: urn:ieee:iso-iec-ieee:29119.1:2022
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29119-1:2022(E)
+    style: v3
+- id: ieee.joint_development.9831
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29119'
+    year: '2013'
+    parts:
+    - '2'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 29119.2:2013
+    urn: urn:ieee:iso-iec-ieee:29119.2:2013
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29119-2:2013(E)
+    style: v3
+- id: ieee.joint_development.9832
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29119'
+    year: '2021'
+    parts:
+    - '2'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 29119.2:2021
+    urn: urn:ieee:iso-iec-ieee:29119.2:2021
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29119-2:2021(E)
+    style: v3
+- id: ieee.joint_development.9833
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29119'
+    year: '2013'
+    parts:
+    - '3'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 29119.3:2013
+    urn: urn:ieee:iso-iec-ieee:29119.3:2013
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29119-3:2013(E)
+    style: v3
+- id: ieee.joint_development.9834
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29119'
+    year: '2021'
+    parts:
+    - '3'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 29119.3:2021
+    urn: urn:ieee:iso-iec-ieee:29119.3:2021
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29119-3:2021(E)
+    style: v3
+- id: ieee.joint_development.9836
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29119'
+    year: '2015'
+    parts:
+    - '4'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 29119.4:2015
+    urn: urn:ieee:iso-iec-ieee:29119.4:2015
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29119-4:2015
+    style: v3
+- id: ieee.joint_development.9837
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29119'
+    year: '2021'
+    parts:
+    - '4'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 29119.4:2021
+    urn: urn:ieee:iso-iec-ieee:29119.4:2021
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29119-4:2021(E)
+    style: v3
+- id: ieee.joint_development.9840
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29148'
+    year: '2011'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 29148:2011
+    urn: urn:ieee:iso-iec-ieee:29148:2011
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29148:2011(E)
+    style: v3
+- id: ieee.joint_development.9841
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29148'
+    year: '2018'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 29148:2018
+    urn: urn:ieee:iso-iec-ieee:29148:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29148:2018(E)
+    style: v3
+- id: ieee.joint_development.9842
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '31320'
+    year: '2012'
+    parts:
+    - '1'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 31320.1:2012
+    urn: urn:ieee:iso-iec-ieee:31320.1:2012
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 31320-1:2012 (Adoption of IEEE Std 1320.1-1998 )
+    style: v3
+- id: ieee.joint_development.9843
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '31320'
+    year: '2012'
+    parts:
+    - '2'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 31320.2:2012
+    urn: urn:ieee:iso-iec-ieee:31320.2:2012
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 31320-2:2012(E)
+    style: v3
+- id: ieee.joint_development.9844
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '32430'
+    year: '2021'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 32430:2021
+    urn: urn:ieee:iso-iec-ieee:32430:2021
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 32430:2021(E)
+    style: v3
+- id: ieee.joint_development.9845
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '41062'
+    year: '2019'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 41062:2019
+    urn: urn:ieee:iso-iec-ieee:41062:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 41062:2019(E)
+    style: v3
+- id: ieee.joint_development.9848
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '42020'
+    year: '2019'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 42020:2019
+    urn: urn:ieee:iso-iec-ieee:42020:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 42020:2019(E)
+    style: v3
+- id: ieee.joint_development.9849
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '42030'
+    year: '2019'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 42030:2019
+    urn: urn:ieee:iso-iec-ieee:42030:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 42030:2019(E)
+    style: v3
+- id: ieee.joint_development.9857
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '8802'
+    year: '2018'
+    parts:
+    - '11'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 8802.11:2018
+    urn: urn:ieee:iso-iec-ieee:8802.11:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 8802-11:2018(E)
+    style: v3
+- id: ieee.joint_development.9863
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '8802'
+    year: '2018'
+    parts:
+    - '21'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 8802.21:2018
+    urn: urn:ieee:iso-iec-ieee:8802.21:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 8802-21:2018(E)
+    style: v3
+- id: ieee.joint_development.9864
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '8802'
+    year: '2015'
+    parts:
+    - '22'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 8802.22:2015
+    urn: urn:ieee:iso-iec-ieee:8802.22:2015
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 8802-22:2015
+    style: v3
+- id: ieee.joint_development.9867
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '8802'
+    year: '2014'
+    parts:
+    - '3'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 8802.3:2014
+    urn: urn:ieee:iso-iec-ieee:8802.3:2014
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 8802-3:2014(E)
+    style: v3
+- id: ieee.joint_development.9879
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '8802'
+    year: '2021'
+    parts:
+    - '3'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 8802.3:2021
+    urn: urn:ieee:iso-iec-ieee:8802.3:2021
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 8802-3:2021(E)
+    style: v3
+- id: ieee.joint_development.9890
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '90003'
+    year: '2018'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 90003:2018
+    urn: urn:ieee:iso-iec-ieee:90003:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 90003:2018(E)
+    style: v3
+- id: ieee.joint_development.9891
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '9945'
+    year: '2009'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEC/IEEE 9945:2009
+    urn: urn:ieee:iso-iec-ieee:9945:2009
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 9945:2009(E)
+    style: v3
+- id: ieee.joint_development.9892
   identifier:
     _type: pubid:ieee:joint-development
     number: '12207'
@@ -220,7 +1374,7 @@
   non_normalized_aliases:
   - spelling: 'ISO/IEC/IEEE CD2 P12207-2: 201x(E), February 2019'
     style: v3
-- id: ieee.joint_development.9353
+- id: ieee.joint_development.9893
   identifier:
     _type: pubid:ieee:joint-development
     number: '15026'
@@ -241,7 +1395,26 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE CD3 P15026-4
     style: v3
-- id: ieee.joint_development.9354
+- id: ieee.joint_development.9894
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '15288'
+    year: '2021'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: CD
+    stage: CD
+  representations:
+    human: ISO/IEC/IEEE CD 15288:2021
+    urn: urn:ieee:iso-iec-ieee:15288:2021
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE P15288/ CD, March 2021
+    style: v3
+- id: ieee.joint_development.9895
   identifier:
     _type: pubid:ieee:joint-development
     number: '15289'
@@ -260,7 +1433,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE CD P15289, November 2017
     style: v3
-- id: ieee.joint_development.9355
+- id: ieee.joint_development.9896
   identifier:
     _type: pubid:ieee:joint-development
     number: '21839'
@@ -279,7 +1452,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE CD.1 P21839, October 2017
     style: v3
-- id: ieee.joint_development.9356
+- id: ieee.joint_development.9897
   identifier:
     _type: pubid:ieee:joint-development
     number: '23026'
@@ -298,7 +1471,26 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE CD P23026:2013
     style: v3
-- id: ieee.joint_development.9357
+- id: ieee.joint_development.9898
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24641'
+    year: '2021'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: CD
+    stage: CD
+  representations:
+    human: ISO/IEC/IEEE CD 24641:2021
+    urn: urn:ieee:iso-iec-ieee:24641:2021
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE P24641/D3_CD2,March 2021
+    style: v3
+- id: ieee.joint_development.9899
   identifier:
     _type: pubid:ieee:joint-development
     number: '24748'
@@ -320,7 +1512,26 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE 24748.5.CD3, February 2015
     style: v3
-- id: ieee.joint_development.9358
+- id: ieee.joint_development.9900
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '26515'
+    year: '2017'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: CD
+    stage: CD
+  representations:
+    human: ISO/IEC/IEEE CD 26515:2017
+    urn: urn:ieee:iso-iec-ieee:26515:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE CD P26515/D1, March 2017
+    style: v3
+- id: ieee.joint_development.9901
   identifier:
     _type: pubid:ieee:joint-development
     number: '26531'
@@ -339,7 +1550,9 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE CD P26531, June 2013
     style: v3
-- id: ieee.joint_development.9359
+  - spelling: ISO/IEC/IEEE CD P26531/D2.1, December 2013
+    style: v3
+- id: ieee.joint_development.9902
   identifier:
     _type: pubid:ieee:joint-development
     number: '29119'
@@ -361,7 +1574,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE 29119.4.CD3, September 2012
     style: v3
-- id: ieee.joint_development.9360
+- id: ieee.joint_development.9903
   identifier:
     _type: pubid:ieee:joint-development
     number: '29119'
@@ -383,7 +1596,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE 29119.5.CD1, April 2014
     style: v3
-- id: ieee.joint_development.9361
+- id: ieee.joint_development.9904
   identifier:
     _type: pubid:ieee:joint-development
     number: '29119'
@@ -406,7 +1619,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE P29119-5-CD1 April 2014
     style: v3
-- id: ieee.joint_development.9362
+- id: ieee.joint_development.9905
   identifier:
     _type: pubid:ieee:joint-development
     number: '15939'
@@ -425,7 +1638,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE DIS P15939, August 2015
     style: v3
-- id: ieee.joint_development.9363
+- id: ieee.joint_development.9906
   identifier:
     _type: pubid:ieee:joint-development
     number: '16326'
@@ -444,7 +1657,29 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE DIS P16326/201x, December 2018
     style: v3
-- id: ieee.joint_development.9364
+- id: ieee.joint_development.9907
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24748'
+    year: '2017'
+    parts:
+    - '2'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: DIS
+    stage: DIS
+  representations:
+    human: ISO/IEC/IEEE DIS 24748.2:2017
+    urn: urn:ieee:iso-iec-ieee:24748.2:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE DIS P24748-2/D1, August 2017
+    style: v3
+- id: ieee.joint_development.9908
   identifier:
     _type: pubid:ieee:joint-development
     number: '26513'
@@ -463,7 +1698,26 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE DIS P26513, March 2016
     style: v3
-- id: ieee.joint_development.9365
+- id: ieee.joint_development.9909
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '26531'
+    year: '2014'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: DIS
+    stage: DIS
+  representations:
+    human: ISO/IEC/IEEE DIS 26531:2014
+    urn: urn:ieee:iso-iec-ieee:26531:2014
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE DIS P26531/D2.2, March 2014
+    style: v3
+- id: ieee.joint_development.9910
   identifier:
     _type: pubid:ieee:joint-development
     number: '29119'
@@ -486,7 +1740,7 @@
   non_normalized_aliases:
   - spelling: IEEE/ISO/IEC P29119-2-DIS, December 2011
     style: v3
-- id: ieee.joint_development.9366
+- id: ieee.joint_development.9911
   identifier:
     _type: pubid:ieee:joint-development
     number: '29119'
@@ -508,7 +1762,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE DIS P29119-5, August 2014
     style: v3
-- id: ieee.joint_development.9367
+- id: ieee.joint_development.9912
   identifier:
     _type: pubid:ieee:joint-development
     number: '29148'
@@ -527,7 +1781,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE DIS P29148, September 2017
     style: v3
-- id: ieee.joint_development.9368
+- id: ieee.joint_development.9913
   identifier:
     _type: pubid:ieee:joint-development
     number: '42020'
@@ -546,7 +1800,26 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE DIS P42020:201x(E), June 2017
     style: v3
-- id: ieee.joint_development.9369
+- id: ieee.joint_development.9914
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '42030'
+    year: '2017'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: DIS
+    stage: DIS
+  representations:
+    human: ISO/IEC/IEEE DIS 42030:2017
+    urn: urn:ieee:iso-iec-ieee:42030:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE DIS P42030/D1, December 2017
+    style: v3
+- id: ieee.joint_development.9915
   identifier:
     _type: pubid:ieee:joint-development
     number: '15288'
@@ -565,7 +1838,7 @@
   non_normalized_aliases:
   - spelling: Unapproved Draft Std ISO/IEC FDIS 15288:2007(E) IEEE P15288/D3,
     style: v3
-- id: ieee.joint_development.9370
+- id: ieee.joint_development.9916
   identifier:
     _type: pubid:ieee:joint-development
     number: '15288'
@@ -584,7 +1857,91 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE FDIS P15288:2015
     style: v3
-- id: ieee.joint_development.9371
+- id: ieee.joint_development.9917
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '15289'
+    year: '2017'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: ISO/IEC/IEEE FDIS 15289:2017
+    urn: urn:ieee:iso-iec-ieee:15289:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE FDIS P15289/D3, 2017
+    style: v3
+  - spelling: ISO/IEC/IEEE FDIS P15289/D4, 2017
+    style: v3
+- id: ieee.joint_development.9918
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '16085'
+    year: '2020'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: ISO/IEC/IEEE FDIS 16085:2020
+    urn: urn:ieee:iso-iec-ieee:16085:2020
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE P16085/ FDIS, August 2020
+    style: v3
+- id: ieee.joint_development.9919
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24748'
+    year: '2018'
+    parts:
+    - '2'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: ISO/IEC/IEEE FDIS 24748.2:2018
+    urn: urn:ieee:iso-iec-ieee:24748.2:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE/FDIS P24748-2/D3, June 2018
+    style: v3
+- id: ieee.joint_development.9920
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '24748'
+    year: '2020'
+    parts:
+    - '3'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: ISO/IEC/IEEE FDIS 24748.3:2020
+    urn: urn:ieee:iso-iec-ieee:24748.3:2020
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE P24748-3/D3_FDIS, April 2020 (E)
+    style: v3
+- id: ieee.joint_development.9921
   identifier:
     _type: pubid:ieee:joint-development
     number: '24748'
@@ -606,7 +1963,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE 24748.5.FDIS, December 2016
     style: v3
-- id: ieee.joint_development.9372
+- id: ieee.joint_development.9922
   identifier:
     _type: pubid:ieee:joint-development
     number: '24765'
@@ -625,7 +1982,45 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE FDIS P24765 FDIS, October 2016
     style: v3
-- id: ieee.joint_development.9373
+- id: ieee.joint_development.9923
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '26512'
+    year: '2016'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: ISO/IEC/IEEE FDIS 26512:2016
+    urn: urn:ieee:iso-iec-ieee:26512:2016
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE FDIS P26512/D1, October 2016
+    style: v3
+- id: ieee.joint_development.9924
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '26512'
+    year: '2017'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: ISO/IEC/IEEE FDIS 26512:2017
+    urn: urn:ieee:iso-iec-ieee:26512:2017
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE FDIS P26512/D3, January 2017
+    style: v3
+- id: ieee.joint_development.9925
   identifier:
     _type: pubid:ieee:joint-development
     number: '26515'
@@ -644,7 +2039,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE P26515 FDIS, May 2018
     style: v3
-- id: ieee.joint_development.9374
+- id: ieee.joint_development.9926
   identifier:
     _type: pubid:ieee:joint-development
     number: '29119'
@@ -668,7 +2063,7 @@
     style: v3
   - spelling: ISO/IEC/IEEE 29119.1.FDIS, March 2013
     style: v3
-- id: ieee.joint_development.9375
+- id: ieee.joint_development.9927
   identifier:
     _type: pubid:ieee:joint-development
     number: '29119'
@@ -690,7 +2085,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE 29119.2.FDIS, April 2013
     style: v3
-- id: ieee.joint_development.9376
+- id: ieee.joint_development.9928
   identifier:
     _type: pubid:ieee:joint-development
     number: '29119'
@@ -712,29 +2107,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE 29119.3.FDIS, April 2013
     style: v3
-- id: ieee.joint_development.9377
-  identifier:
-    _type: pubid:ieee:joint-development
-    number: '29119'
-    year: '2015'
-    parts:
-    - '4'
-    separator: "."
-    publishers:
-    - ISO
-    - IEC
-    - IEEE
-    lead_party: ISO
-    iso_stage: FDIS
-    stage: FDIS
-  representations:
-    human: ISO/IEC/IEEE FDIS 29119.4:2015
-    urn: urn:ieee:iso-iec-ieee:29119.4:2015
-  style: v3
-  non_normalized_aliases:
-  - spelling: ISO/IEC/IEEE 29119.4.FDIS, April 2015
-    style: v3
-- id: ieee.joint_development.9378
+- id: ieee.joint_development.9929
   identifier:
     _type: pubid:ieee:joint-development
     number: '29119'
@@ -757,7 +2130,67 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE P29119-4-FDIS April 2015
     style: v3
-- id: ieee.joint_development.9379
+- id: ieee.joint_development.9930
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '29119'
+    year: '2015'
+    parts:
+    - '4'
+    separator: "."
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: ISO/IEC/IEEE FDIS 29119.4:2015
+    urn: urn:ieee:iso-iec-ieee:29119.4:2015
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE 29119.4.FDIS, April 2015
+    style: v3
+- id: ieee.joint_development.9931
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '42020'
+    year: '2019'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: ISO/IEC/IEEE FDIS 42020:2019
+    urn: urn:ieee:iso-iec-ieee:42020:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE P42020 FDIS March 2019
+    style: v3
+- id: ieee.joint_development.9932
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '42030'
+    year: '2018'
+    publishers:
+    - ISO
+    - IEC
+    - IEEE
+    lead_party: ISO
+    iso_stage: FDIS
+    stage: FDIS
+  representations:
+    human: ISO/IEC/IEEE FDIS 42030:2018
+    urn: urn:ieee:iso-iec-ieee:42030:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEC/IEEE FDIS P42030/D2, August 2018
+    style: v3
+- id: ieee.joint_development.9933
   identifier:
     _type: pubid:ieee:joint-development
     number: '42030'
@@ -776,7 +2209,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE/FDIS P42030, March 2019
     style: v3
-- id: ieee.joint_development.9380
+- id: ieee.joint_development.9934
   identifier:
     _type: pubid:ieee:joint-development
     number: '11073'
@@ -799,7 +2232,7 @@
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE P11073-10417/D2 January 2015
     style: v3
-- id: ieee.joint_development.9381
+- id: ieee.joint_development.9935
   identifier:
     _type: pubid:ieee:joint-development
     number: '42010'
@@ -820,4 +2253,428 @@
   style: v3
   non_normalized_aliases:
   - spelling: ISO/IEC/IEEE P42010.WD4:2019(E)
+    style: v3
+- id: ieee.joint_development.9938
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2004'
+    parts:
+    - '10101'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10101:2004
+    urn: urn:ieee:iso-ieee:11073.10101:2004
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10101:2004(E)
+    style: v3
+- id: ieee.joint_development.9940
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2020'
+    parts:
+    - '10101'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10101:2020
+    urn: urn:ieee:iso-ieee:11073.10101:2020
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10101:2020(E)
+    style: v3
+- id: ieee.joint_development.9941
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2004'
+    parts:
+    - '10201'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10201:2004
+    urn: urn:ieee:iso-ieee:11073.10201:2004
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10201:2004(E)
+    style: v3
+- id: ieee.joint_development.9942
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2020'
+    parts:
+    - '10201'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10201:2020
+    urn: urn:ieee:iso-ieee:11073.10201:2020
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10201:2020(E)
+    style: v3
+- id: ieee.joint_development.9943
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2019'
+    parts:
+    - '10207'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10207:2019
+    urn: urn:ieee:iso-ieee:11073.10207:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10207:2019(E)
+    style: v3
+- id: ieee.joint_development.9944
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2010'
+    parts:
+    - '10407'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10407:2010
+    urn: urn:ieee:iso-ieee:11073.10407:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10407:2010(E)
+    style: v3
+- id: ieee.joint_development.9945
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2010'
+    parts:
+    - '10408'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10408:2010
+    urn: urn:ieee:iso-ieee:11073.10408:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10408:2010(E)
+    style: v3
+- id: ieee.joint_development.9946
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2010'
+    parts:
+    - '10415'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10415:2010
+    urn: urn:ieee:iso-ieee:11073.10415:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10415:2010(E)
+    style: v3
+- id: ieee.joint_development.9947
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2010'
+    parts:
+    - '10417'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10417:2010
+    urn: urn:ieee:iso-ieee:11073.10417:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10417:2010(E)
+    style: v3
+- id: ieee.joint_development.9948
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2019'
+    parts:
+    - '10419'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10419:2019
+    urn: urn:ieee:iso-ieee:11073.10419:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10419:2019(E)
+    style: v3
+- id: ieee.joint_development.9949
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2016'
+    parts:
+    - '10424'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10424:2016
+    urn: urn:ieee:iso-ieee:11073.10424:2016
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10424:2016(E)
+    style: v3
+- id: ieee.joint_development.9950
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2019'
+    parts:
+    - '10425'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10425:2019
+    urn: urn:ieee:iso-ieee:11073.10425:2019
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10425:2019(E)
+    style: v3
+- id: ieee.joint_development.9951
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2018'
+    parts:
+    - '10427'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.10427:2018
+    urn: urn:ieee:iso-ieee:11073.10427:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-10427:2018(E)
+    style: v3
+- id: ieee.joint_development.9952
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2004'
+    parts:
+    - '20101'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.20101:2004
+    urn: urn:ieee:iso-ieee:11073.20101:2004
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-20101:2004(E)
+    style: v3
+- id: ieee.joint_development.9953
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2010'
+    parts:
+    - '20601'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.20601:2010
+    urn: urn:ieee:iso-ieee:11073.20601:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-20601:2010(E)
+    style: v3
+- id: ieee.joint_development.9954
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2016'
+    parts:
+    - '20601'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.20601:2016
+    urn: urn:ieee:iso-ieee:11073.20601:2016
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-20601:2016(E)
+    style: v3
+- id: ieee.joint_development.9955
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2020'
+    parts:
+    - '20701'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.20701:2020
+    urn: urn:ieee:iso-ieee:11073.20701:2020
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-20701:2020(E)
+    style: v3
+- id: ieee.joint_development.9956
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2018'
+    parts:
+    - '20702'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.20702:2018
+    urn: urn:ieee:iso-ieee:11073.20702:2018
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-20702:2018(E)
+    style: v3
+- id: ieee.joint_development.9957
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2004'
+    parts:
+    - '30200'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.30200:2004
+    urn: urn:ieee:iso-ieee:11073.30200:2004
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-30200:2004(E)
+    style: v3
+- id: ieee.joint_development.9958
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2004'
+    parts:
+    - '30300'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+  representations:
+    human: ISO/IEEE 11073.30300:2004
+    urn: urn:ieee:iso-ieee:11073.30300:2004
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE 11073-30300:2004(E)
+    style: v3
+- id: ieee.joint_development.9959
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2010'
+    parts:
+    - '10418'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+    iso_stage: DIS
+    stage: DIS
+  representations:
+    human: ISO/IEEE DIS 11073.10418:2010
+    urn: urn:ieee:iso-ieee:11073.10418:2010
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE DIS P11073-10418/D8, July 2010
+    style: v3
+- id: ieee.joint_development.9960
+  identifier:
+    _type: pubid:ieee:joint-development
+    number: '11073'
+    year: '2011'
+    parts:
+    - '10418'
+    separator: "."
+    publishers:
+    - ISO
+    - IEEE
+    lead_party: ISO
+    iso_stage: DIS
+    stage: DIS
+  representations:
+    human: ISO/IEEE DIS 11073.10418:2011
+    urn: urn:ieee:iso-ieee:11073.10418:2011
+  style: v3
+  non_normalized_aliases:
+  - spelling: ISO/IEEE DIS P11073-10418 D13, January 2011
+    style: v3
+  - spelling: ISO/IEEE DIS P11073-10418/D15, June 2011
     style: v3
