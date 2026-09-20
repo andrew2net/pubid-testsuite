@@ -1,5 +1,5 @@
 ---
-- id: ashrae.guideline.1406
+- id: ashrae.guideline.1407
   identifier:
     _type: pubid:ashrae:guideline
     number: '0'
@@ -8,7 +8,7 @@
     human: ASHRAE Guideline 0-2019
     urn: urn:ashrae:0:2019:guideline
   style: v3
-- id: ashrae.guideline.1407
+- id: ashrae.guideline.1408
   identifier:
     _type: pubid:ashrae:guideline
     number: '0.2'
@@ -17,7 +17,7 @@
     human: ASHRAE Guideline 0.2-2015
     urn: urn:ashrae:0.2:2015:guideline
   style: v3
-- id: ashrae.guideline.1408
+- id: ashrae.guideline.1409
   identifier:
     _type: pubid:ashrae:guideline
     number: 0.3P
@@ -25,7 +25,7 @@
     human: ASHRAE Guideline 0.3P
     urn: urn:ashrae:0.3P:guideline
   style: v3
-- id: ashrae.guideline.1411
+- id: ashrae.guideline.1414
   identifier:
     _type: pubid:ashrae:guideline
     number: '1.1'
@@ -34,7 +34,7 @@
     human: ASHRAE Guideline 1.1-2025
     urn: urn:ashrae:1.1:2025:guideline
   style: v3
-- id: ashrae.guideline.1412
+- id: ashrae.guideline.1415
   identifier:
     _type: pubid:ashrae:guideline
     number: '1.2'
@@ -43,7 +43,7 @@
     human: ASHRAE Guideline 1.2-2019
     urn: urn:ashrae:1.2:2019:guideline
   style: v3
-- id: ashrae.guideline.1414
+- id: ashrae.guideline.1418
   identifier:
     _type: pubid:ashrae:guideline
     number: '1.3'
@@ -52,7 +52,7 @@
     human: ASHRAE Guideline 1.3-2018
     urn: urn:ashrae:1.3:2018:guideline
   style: v3
-- id: ashrae.guideline.1416
+- id: ashrae.guideline.1421
   identifier:
     _type: pubid:ashrae:guideline
     number: '1.4'
@@ -61,7 +61,7 @@
     human: ASHRAE Guideline 1.4-2019
     urn: urn:ashrae:1.4:2019:guideline
   style: v3
-- id: ashrae.guideline.1417
+- id: ashrae.guideline.1422
   identifier:
     _type: pubid:ashrae:guideline
     number: '1.5'
@@ -69,7 +69,7 @@
     human: ASHRAE Guideline 1.5
     urn: urn:ashrae:1.5:guideline
   style: v3
-- id: ashrae.guideline.1418
+- id: ashrae.guideline.1423
   identifier:
     _type: pubid:ashrae:guideline
     number: '1.5'
@@ -78,7 +78,7 @@
     human: ASHRAE Guideline 1.5-2025
     urn: urn:ashrae:1.5:2025:guideline
   style: v3
-- id: ashrae.guideline.1419
+- id: ashrae.guideline.1424
   identifier:
     _type: pubid:ashrae:guideline
     number: 1.6P
@@ -86,7 +86,7 @@
     human: ASHRAE Guideline 1.6P
     urn: urn:ashrae:1.6P:guideline
   style: v3
-- id: ashrae.guideline.1420
+- id: ashrae.guideline.1425
   identifier:
     _type: pubid:ashrae:guideline
     number: '10'
@@ -95,7 +95,7 @@
     human: ASHRAE Guideline 10-2023
     urn: urn:ashrae:10:2023:guideline
   style: v3
-- id: ashrae.guideline.1421
+- id: ashrae.guideline.1426
   identifier:
     _type: pubid:ashrae:guideline
     number: '11'
@@ -104,7 +104,7 @@
     human: ASHRAE Guideline 11-2018
     urn: urn:ashrae:11:2018:guideline
   style: v3
-- id: ashrae.guideline.1422
+- id: ashrae.guideline.1427
   identifier:
     _type: pubid:ashrae:guideline
     number: '11'
@@ -113,7 +113,7 @@
     human: ASHRAE Guideline 11-2021
     urn: urn:ashrae:11:2021:guideline
   style: v3
-- id: ashrae.guideline.1424
+- id: ashrae.guideline.1430
   identifier:
     _type: pubid:ashrae:guideline
     number: '12'
@@ -122,7 +122,7 @@
     human: ASHRAE Guideline 12-2020
     urn: urn:ashrae:12:2020:guideline
   style: v3
-- id: ashrae.guideline.1426
+- id: ashrae.guideline.1433
   identifier:
     _type: pubid:ashrae:guideline
     number: '12'
@@ -131,7 +131,7 @@
     human: ASHRAE Guideline 12-2023
     urn: urn:ashrae:12:2023:guideline
   style: v3
-- id: ashrae.guideline.1427
+- id: ashrae.guideline.1434
   identifier:
     _type: pubid:ashrae:guideline
     number: '13'
@@ -140,7 +140,7 @@
     human: ASHRAE Guideline 13-2024
     urn: urn:ashrae:13:2024:guideline
   style: v3
-- id: ashrae.guideline.1430
+- id: ashrae.guideline.1440
   identifier:
     _type: pubid:ashrae:guideline
     number: '14'
@@ -152,7 +152,7 @@
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 14-2023 (May 10, 2024)
     style: v3
-- id: ashrae.guideline.1432
+- id: ashrae.guideline.1443
   identifier:
     _type: pubid:ashrae:guideline
     number: '16'
@@ -161,7 +161,7 @@
     human: ASHRAE Guideline 16-2022
     urn: urn:ashrae:16:2022:guideline
   style: v3
-- id: ashrae.guideline.1433
+- id: ashrae.guideline.1444
   identifier:
     _type: pubid:ashrae:guideline
     number: '2'
@@ -174,7 +174,7 @@
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 2-2010(RA2014)
     style: v3
-- id: ashrae.guideline.1434
+- id: ashrae.guideline.1445
   identifier:
     _type: pubid:ashrae:guideline
     number: '20'
@@ -184,7 +184,7 @@
     human: ASHRAE Guideline 20-2010 (RA2016)
     urn: urn:ashrae:20:2010:guideline:reaff.2016
   style: v3
-- id: ashrae.guideline.1435
+- id: ashrae.guideline.1446
   identifier:
     _type: pubid:ashrae:guideline
     number: '21'
@@ -193,7 +193,7 @@
     human: ASHRAE Guideline 21-2022
     urn: urn:ashrae:21:2022:guideline
   style: v3
-- id: ashrae.guideline.1436
+- id: ashrae.guideline.1447
   identifier:
     _type: pubid:ashrae:guideline
     number: '22'
@@ -202,7 +202,7 @@
     human: ASHRAE Guideline 22-2025
     urn: urn:ashrae:22:2025:guideline
   style: v3
-- id: ashrae.guideline.1437
+- id: ashrae.guideline.1448
   identifier:
     _type: pubid:ashrae:guideline
     number: '23'
@@ -211,7 +211,7 @@
     human: ASHRAE Guideline 23-2016
     urn: urn:ashrae:23:2016:guideline
   style: v3
-- id: ashrae.guideline.1438
+- id: ashrae.guideline.1449
   identifier:
     _type: pubid:ashrae:guideline
     number: '24'
@@ -220,7 +220,7 @@
     human: ASHRAE Guideline 24-2015
     urn: urn:ashrae:24:2015:guideline
   style: v3
-- id: ashrae.guideline.1440
+- id: ashrae.guideline.1452
   identifier:
     _type: pubid:ashrae:guideline
     number: '26'
@@ -229,7 +229,7 @@
     human: ASHRAE Guideline 26-2012
     urn: urn:ashrae:26:2012:guideline
   style: v3
-- id: ashrae.guideline.1441
+- id: ashrae.guideline.1453
   identifier:
     _type: pubid:ashrae:guideline
     number: '27'
@@ -238,7 +238,7 @@
     human: ASHRAE Guideline 27-2019
     urn: urn:ashrae:27:2019:guideline
   style: v3
-- id: ashrae.guideline.1443
+- id: ashrae.guideline.1456
   identifier:
     _type: pubid:ashrae:guideline
     number: '27'
@@ -248,7 +248,7 @@
     human: ASHRAE Guideline 27-2019R
     urn: urn:ashrae:27:2019:guideline:r
   style: v3
-- id: ashrae.guideline.1444
+- id: ashrae.guideline.1457
   identifier:
     _type: pubid:ashrae:guideline
     number: '28'
@@ -257,7 +257,7 @@
     human: ASHRAE Guideline 28-2016
     urn: urn:ashrae:28:2016:guideline
   style: v3
-- id: ashrae.guideline.1446
+- id: ashrae.guideline.1460
   identifier:
     _type: pubid:ashrae:guideline
     number: '28'
@@ -266,7 +266,7 @@
     human: ASHRAE Guideline 28-2021
     urn: urn:ashrae:28:2021:guideline
   style: v3
-- id: ashrae.guideline.1448
+- id: ashrae.guideline.1463
   identifier:
     _type: pubid:ashrae:guideline
     number: '29'
@@ -275,7 +275,7 @@
     human: ASHRAE Guideline 29-2019
     urn: urn:ashrae:29:2019:guideline
   style: v3
-- id: ashrae.guideline.1449
+- id: ashrae.guideline.1464
   identifier:
     _type: pubid:ashrae:guideline
     number: '3'
@@ -284,7 +284,7 @@
     human: ASHRAE Guideline 3-1996
     urn: urn:ashrae:3:1996:guideline
   style: v3
-- id: ashrae.guideline.1450
+- id: ashrae.guideline.1465
   identifier:
     _type: pubid:ashrae:guideline
     number: '32'
@@ -293,7 +293,7 @@
     human: ASHRAE Guideline 32-2018
     urn: urn:ashrae:32:2018:guideline
   style: v3
-- id: ashrae.guideline.1451
+- id: ashrae.guideline.1466
   identifier:
     _type: pubid:ashrae:guideline
     number: '33'
@@ -302,7 +302,7 @@
     human: ASHRAE Guideline 33-2021
     urn: urn:ashrae:33:2021:guideline
   style: v3
-- id: ashrae.guideline.1452
+- id: ashrae.guideline.1467
   identifier:
     _type: pubid:ashrae:guideline
     number: '33'
@@ -315,7 +315,7 @@
   non_normalized_aliases:
   - spelling: ASHRAE Guideline 33-2021 (RA 2016)
     style: v3
-- id: ashrae.guideline.1453
+- id: ashrae.guideline.1468
   identifier:
     _type: pubid:ashrae:guideline
     number: '34'
@@ -324,7 +324,7 @@
     human: ASHRAE Guideline 34-2017
     urn: urn:ashrae:34:2017:guideline
   style: v3
-- id: ashrae.guideline.1454
+- id: ashrae.guideline.1469
   identifier:
     _type: pubid:ashrae:guideline
     number: '36'
@@ -333,7 +333,7 @@
     human: ASHRAE Guideline 36-2018
     urn: urn:ashrae:36:2018:guideline
   style: v3
-- id: ashrae.guideline.1455
+- id: ashrae.guideline.1470
   identifier:
     _type: pubid:ashrae:guideline
     number: '36'
@@ -342,7 +342,7 @@
     human: ASHRAE Guideline 36-2021
     urn: urn:ashrae:36:2021:guideline
   style: v3
-- id: ashrae.guideline.1457
+- id: ashrae.guideline.1473
   identifier:
     _type: pubid:ashrae:guideline
     number: '36'
@@ -351,7 +351,7 @@
     human: ASHRAE Guideline 36-2024
     urn: urn:ashrae:36:2024:guideline
   style: v3
-- id: ashrae.guideline.1458
+- id: ashrae.guideline.1474
   identifier:
     _type: pubid:ashrae:guideline
     number: '38'
@@ -360,7 +360,7 @@
     human: ASHRAE Guideline 38-2023
     urn: urn:ashrae:38:2023:guideline
   style: v3
-- id: ashrae.guideline.1459
+- id: ashrae.guideline.1475
   identifier:
     _type: pubid:ashrae:guideline
     number: '39'
@@ -369,7 +369,7 @@
     human: ASHRAE Guideline 39-2017
     urn: urn:ashrae:39:2017:guideline
   style: v3
-- id: ashrae.guideline.1460
+- id: ashrae.guideline.1476
   identifier:
     _type: pubid:ashrae:guideline
     number: '4'
@@ -378,7 +378,7 @@
     human: ASHRAE Guideline 4-2019
     urn: urn:ashrae:4:2019:guideline
   style: v3
-- id: ashrae.guideline.1461
+- id: ashrae.guideline.1477
   identifier:
     _type: pubid:ashrae:guideline
     number: '40'
@@ -387,7 +387,7 @@
     human: ASHRAE Guideline 40-2017
     urn: urn:ashrae:40:2017:guideline
   style: v3
-- id: ashrae.guideline.1462
+- id: ashrae.guideline.1478
   identifier:
     _type: pubid:ashrae:guideline
     number: '41'
@@ -396,7 +396,7 @@
     human: ASHRAE Guideline 41-2020
     urn: urn:ashrae:41:2020:guideline
   style: v3
-- id: ashrae.guideline.1464
+- id: ashrae.guideline.1481
   identifier:
     _type: pubid:ashrae:guideline
     number: '42'
@@ -405,7 +405,7 @@
     human: ASHRAE Guideline 42-2023
     urn: urn:ashrae:42:2023:guideline
   style: v3
-- id: ashrae.guideline.1465
+- id: ashrae.guideline.1482
   identifier:
     _type: pubid:ashrae:guideline
     number: '43'
@@ -414,7 +414,7 @@
     human: ASHRAE Guideline 43-2025
     urn: urn:ashrae:43:2025:guideline
   style: v3
-- id: ashrae.guideline.1466
+- id: ashrae.guideline.1483
   identifier:
     _type: pubid:ashrae:guideline
     number: '44'
@@ -423,7 +423,7 @@
     human: ASHRAE Guideline 44-2024
     urn: urn:ashrae:44:2024:guideline
   style: v3
-- id: ashrae.guideline.1468
+- id: ashrae.guideline.1486
   identifier:
     _type: pubid:ashrae:guideline
     number: 45P
@@ -431,7 +431,7 @@
     human: ASHRAE Guideline 45P
     urn: urn:ashrae:45P:guideline
   style: v3
-- id: ashrae.guideline.1469
+- id: ashrae.guideline.1487
   identifier:
     _type: pubid:ashrae:guideline
     number: 48P
@@ -439,7 +439,7 @@
     human: ASHRAE Guideline 48P
     urn: urn:ashrae:48P:guideline
   style: v3
-- id: ashrae.guideline.1470
+- id: ashrae.guideline.1488
   identifier:
     _type: pubid:ashrae:guideline
     number: '6'
@@ -448,7 +448,7 @@
     human: ASHRAE Guideline 6-2015
     urn: urn:ashrae:6:2015:guideline
   style: v3
-- id: ashrae.guideline.1471
+- id: ashrae.guideline.1489
   identifier:
     _type: pubid:ashrae:guideline
     number: '8'
