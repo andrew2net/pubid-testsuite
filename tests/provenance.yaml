@@ -8,26 +8,23 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: 7ca94c0f81cd6090962ab5b06fc085ba3b166465
-  clean: false
-  dirty_paths:
-  - lib/pubid/asme/builder.rb
-  - lib/pubid/asme/parser.rb
-  - spec/pubid/asme/root_number_spec.rb
+  commit: 743dfd83426aa7adc7593640412bd860430ecbaa
+  clean: true
+  dirty_paths: []
 repository:
-  commit: 9c1226312901a6913b4625a6feb074f1e16b6c07
+  commit: 3237b40a4ae41e6d753733c2ca6171e5c838cd18
   clean: false
   dirty_paths:
-  - tests/iso/_status.yaml
-  - tests/iso/bundled_identifier.yaml
-  - tests/iso/directives.yaml
+  - tests/asme/_debt.yaml
+  - tests/asme/_status.yaml
+  - tests/asme/standard.yaml
 ruby:
   version: 3.4.8
 counts:
   flavors: 42
-  payloads: 333
-  cases: 98720
-  aliases: 11403
+  payloads: 332
+  cases: 98872
+  aliases: 11258
   negatives: 1237
 payloads:
 - path: amca/_debt.yaml
@@ -108,15 +105,12 @@ payloads:
 - path: ashrae/standard.yaml
   sha256: 6999f4eea3935046b14935ee79b05e6c6f40d3bacadcda36616f2d5779975c7a
   bytes: 91998
-- path: asme/_debt.yaml
-  sha256: cb264cd7171a4995c49b046ade40909781ee449025d5f0f4063eb9ae147e3fff
-  bytes: 7778
 - path: asme/_normalization.yaml
   sha256: f95283d03abfe4744d6603c8cf9341a27619bd6b2d915796b7e4cbef2f8139be
   bytes: 10593
 - path: asme/standard.yaml
-  sha256: 73e6a9c915a50c978dbaf5bea85dece69e0d523182e8cab9892cba4141d52bb9
-  bytes: 149767
+  sha256: 3a61117101153481dd2edbc5efab719ccf88d3f7e7c5e8c16ef4732325678b18
+  bytes: 177339
 - path: astm/_normalization.yaml
   sha256: e3b47f363ab118d472de683d900ff5d56d36471a4a538273a4e4074fe9b99b9b
   bytes: 565
@@ -917,8 +911,8 @@ curated:
   sha256: 27a051d7d1c5c0fdc31a9f9713517619e163fcb9818e48ee15d5d247a7976dfe
   bytes: 61
 - path: asme/_status.yaml
-  sha256: 58fb7ec4ffca22a82bc21940fe172dc553ba6505a7faefa9b585963198071879
-  bytes: 340
+  sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
+  bytes: 59
 - path: astm/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
