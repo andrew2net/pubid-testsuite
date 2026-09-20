@@ -12,18 +12,20 @@ oracle:
   clean: true
   dirty_paths: []
 repository:
-  commit: 547de43412016b295ba262b86b0609633d9302d1
+  commit: 55e1d1a1518afbb9324c4a3e3ec017ce5d8fc5d8
   clean: false
   dirty_paths:
-  - tests/csa/_debt.yaml
-  - tests/csa/_status.yaml
+  - tests/amca/_status.yaml
+  - tests/amca/interpretation.yaml
+  - tests/amca/publication.yaml
+  - tests/amca/standard.yaml
 ruby:
   version: 3.4.8
 counts:
   flavors: 42
   payloads: 332
-  cases: 98872
-  aliases: 11258
+  cases: 98874
+  aliases: 11242
   negatives: 1237
 payloads:
 - path: amca/_debt.yaml
@@ -36,14 +38,14 @@ payloads:
   sha256: 1b4bbf083a15b150957256887c56aa684545bc293af13ad650a293627bb14555
   bytes: 1557
 - path: amca/interpretation.yaml
-  sha256: a83f588393fb89e4f697aa1884f041c7eaf4767057e7684ec9b4c5dbe0cf5347
-  bytes: 1927
+  sha256: 32c0ee5c4f6b84b19000a0b935e61aac1286b6c924f94e31553be7f1a3f214b1
+  bytes: 1811
 - path: amca/publication.yaml
-  sha256: fe1ecb39b6e1d4f2c51177b5b739961398705cbf81356d934e5429863ae6b875
-  bytes: 3124
+  sha256: d82164ee15f6e70b77273103987732087ae5781352758881ba6f9fadaf266722
+  bytes: 2137
 - path: amca/standard.yaml
-  sha256: d26d7df048ed7a6acb4f488fabe48810ea91b9e87812e3ff706af9d6239b63de
-  bytes: 8678
+  sha256: bc79fd8e7e37ad47a13124423426f7f15b7142416820bf82f6d021c45cf14601
+  bytes: 7286
 - path: ansi/standard.yaml
   sha256: 0f0ac3afbc09e16dafa39aae833fad25e9ecff76c1671474eba277f25aee4c38
   bytes: 41600
@@ -898,8 +900,8 @@ payloads:
   bytes: 7860
 curated:
 - path: amca/_status.yaml
-  sha256: 1622e7ac5f733a04cb259eef05cbf7d1e862000809bd8d8b69d77d42867955a4
-  bytes: 340
+  sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
+  bytes: 59
 - path: ansi/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
