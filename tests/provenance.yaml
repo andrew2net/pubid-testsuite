@@ -8,22 +8,20 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: d63870f18c02e3e1dc431a344f0ecfff01e19109
+  commit: f9d953cc45cbe6dc388f3a7b60d9ceea8131c269
   clean: true
   dirty_paths: []
 repository:
-  commit: 55e1d1a1518afbb9324c4a3e3ec017ce5d8fc5d8
+  commit: 180271af1e8fdc21bdfc86fe1fb6d8614766d803
   clean: false
   dirty_paths:
-  - tests/amca/_status.yaml
-  - tests/amca/interpretation.yaml
-  - tests/amca/publication.yaml
-  - tests/amca/standard.yaml
+  - tests/nist/_debt.yaml
+  - tests/nist/_status.yaml
 ruby:
   version: 3.4.8
 counts:
   flavors: 42
-  payloads: 332
+  payloads: 331
   cases: 98874
   aliases: 11242
   negatives: 1237
@@ -733,9 +731,6 @@ payloads:
 - path: jis/japanese_industrial_standard.yaml
   sha256: 62d926adca128a9be3bac00f19cde6fec4020c705623611814d3a96fdd4eec43
   bytes: 2668160
-- path: nist/_debt.yaml
-  sha256: 1ca8c8c85fa705d7d333a50b6f9da7cf83c89e40eb94deb6f3ce90b712d1aa94
-  bytes: 1141
 - path: nist/_normalization.yaml
   sha256: f5adb110fbd572c2e42b5c5bf28fb05db3822d57ee19f3306d9fba1b0d9ac1f5
   bytes: 103310
@@ -996,8 +991,8 @@ curated:
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: nist/_status.yaml
-  sha256: 82d942109a9f152e5715edf8768fa52e8f2339ef0154c97f992f530641dfc86e
-  bytes: 61
+  sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
+  bytes: 59
 - path: oasis/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
