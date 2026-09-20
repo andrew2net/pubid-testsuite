@@ -8,16 +8,15 @@ generator:
   exporter_sha256: 17c6c0e180f1ca39d3867588aa83e2d6bb081c0b1948cd7ded2f12d1cebf7dc6
 oracle:
   gem: pubid
-  commit: 743dfd83426aa7adc7593640412bd860430ecbaa
+  commit: d63870f18c02e3e1dc431a344f0ecfff01e19109
   clean: true
   dirty_paths: []
 repository:
-  commit: 3237b40a4ae41e6d753733c2ca6171e5c838cd18
+  commit: 547de43412016b295ba262b86b0609633d9302d1
   clean: false
   dirty_paths:
-  - tests/asme/_debt.yaml
-  - tests/asme/_status.yaml
-  - tests/asme/standard.yaml
+  - tests/csa/_debt.yaml
+  - tests/csa/_status.yaml
 ruby:
   version: 3.4.8
 counts:
@@ -331,8 +330,8 @@ payloads:
   sha256: 5fb168b94f0295e740a39e26cbeacfe5961110ae3eed42d475311dfbd2344ea7
   bytes: 208
 - path: csa/_debt.yaml
-  sha256: 24521f231d419096577201c439445b7d6760e7d592819b60d1ca5bce1e7dd11c
-  bytes: 27580
+  sha256: 9966c4f1d42b5e2e6fd9661b8a00fc5b06bf6796f084ac22d772f75d0957e3c5
+  bytes: 27213
 - path: csa/_negative.yaml
   sha256: 6a9c33056bab085e9c30bcdc2c84d80bbb1af25c1b34d451e6697069c0b13e6e
   bytes: 9393
@@ -935,8 +934,8 @@ curated:
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: csa/_status.yaml
-  sha256: 1973a24b08347f33ee3ea2d5d96624d9603a06c78e8ac06b1aa3928250743fd1
-  bytes: 340
+  sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
+  bytes: 59
 - path: doi/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59

@@ -1,12 +1,4 @@
 ---
-- id: csa.debt.a69cc68fad8d
-  input: CAN/CSA-IWA 18:17 (R2022)
-  expect:
-    error:
-      code: unclassified
-  notes: 'unparsed ground-truth fixture: Pubid::Errors::ParseError: Expected one of
-    [ISO_IEC_ADOPTION, SERIES_IDENTIFIER, CEC_IDENTIFIER, BUNDLED_IDENTIFIER, COMBINED_SLASH,
-    COMBINED_COMMA, SINGLE_IDENTIFIER, CODE_ONLY_IDENTIFIER] at line 1 char 1.'
 - id: csa.debt.a33cc413eae3
   input: CSA C22.2 NO. 231SP-M1990 (R1996)
   expect:
