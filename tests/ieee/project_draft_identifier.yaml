@@ -23214,11 +23214,6 @@
     human: IEEE P24748-5/D5=DIS.3
     urn: urn:ieee:ieee:p:24748-5:draft./D5=DIS.3
   style: v3
-  non_normalized_aliases:
-  - spelling: IEEE P24748-5/D5=DDIS.3
-    style: v3
-  - spelling: IEEE P24748-5/D5=DDIS3
-    style: v3
 - id: ieee.project_draft_identifier.2685
   identifier:
     _type: pubid:ieee:project-draft-identifier
