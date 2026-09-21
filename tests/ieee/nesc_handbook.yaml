@@ -1,5 +1,5 @@
 ---
-- id: ieee.nesc_handbook.5722
+- id: ieee.nesc_handbook.5744
   identifier:
     _type: pubid:ieee:nesc-handbook
     number: '2'
@@ -14,7 +14,7 @@
   non_normalized_aliases:
   - spelling: 2012 NESC Handbook, Seventh Edition
     style: v3
-- id: ieee.nesc_handbook.5723
+- id: ieee.nesc_handbook.5745
   identifier:
     _type: pubid:ieee:nesc-handbook
     number: '2'
@@ -29,7 +29,7 @@
   non_normalized_aliases:
   - spelling: 2017 NESC Handbook, Premier Edition
     style: v3
-- id: ieee.nesc_handbook.5724
+- id: ieee.nesc_handbook.5746
   identifier:
     _type: pubid:ieee:nesc-handbook
     number: '2'

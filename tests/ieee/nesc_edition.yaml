@@ -1,5 +1,5 @@
 ---
-- id: ieee.nesc_edition.5725
+- id: ieee.nesc_edition.5747
   identifier:
     _type: pubid:ieee:nesc-edition
     number: '2'
@@ -12,7 +12,7 @@
   non_normalized_aliases:
   - spelling: 2017 National Electrical Safety Code
     style: v3
-- id: ieee.nesc_edition.5726
+- id: ieee.nesc_edition.5748
   identifier:
     _type: pubid:ieee:nesc-edition
     number: '2'
