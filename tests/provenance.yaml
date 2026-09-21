@@ -19,31 +19,36 @@ oracle:
   - spec/fixtures/asme/SUMMARY.txt
   - spec/fixtures/asme/identifiers/pass/standard.txt
 repository:
-  commit: 0604c72a7299f472e5954054d5f7fce9cd872778
+  commit: 0b311d853df1308db07c1f91d14ee18b718c5d06
   clean: false
   dirty_paths:
   - README.md
-  - reference-docs/amca/SUMMARY.txt
-  - reference-docs/amca/identifiers/fail/unknown.txt
-  - reference-docs/amca/identifiers/pass/interpretation.txt
-  - reference-docs/amca/identifiers/pass/publication.txt
-  - reference-docs/amca/identifiers/pass/standard.txt
-  - reference-docs/asme/SUMMARY.txt
-  - reference-docs/asme/identifiers/pass/standard.txt
-  - tests/amca/_debt.yaml
-  - tests/amca/_normalization.yaml
-  - tests/amca/interpretation.yaml
-  - tests/amca/standard.yaml
-  - tests/asme/_normalization.yaml
-  - tests/asme/standard.yaml
+  - reference-docs/ieee/identifiers/pass/draft.txt
+  - tests/ieee/_status.yaml
+  - tests/ieee/adopted_standard.yaml
+  - tests/ieee/amendment.yaml
+  - tests/ieee/conformance_identifier.yaml
+  - tests/ieee/corrigendum.yaml
+  - tests/ieee/csa_dual_published.yaml
+  - tests/ieee/dual_published.yaml
+  - tests/ieee/iec_ieee_copublished.yaml
+  - tests/ieee/interpretation_identifier.yaml
+  - tests/ieee/joint_development.yaml
+  - tests/ieee/multi_numbered_identifier.yaml
+  - tests/ieee/nesc_edition.yaml
+  - tests/ieee/nesc_handbook.yaml
+  - tests/ieee/nesc_standard.yaml
+  - tests/ieee/project_draft_identifier.yaml
+  - tests/ieee/si_standard.yaml
+  - tests/ieee/standard.yaml
   - tests/provenance.yaml
 ruby:
   version: 3.4.10
 counts:
   flavors: 42
   payloads: 338
-  cases: 100175
-  aliases: 12223
+  cases: 100217
+  aliases: 12208
   negatives: 1237
 payloads:
 - path: amca/_debt.yaml
@@ -569,59 +574,59 @@ payloads:
   sha256: ecf57cc758b4f5b02b6933ec838f0bf520ffe5acc5d7316f5f31e7b7f6681573
   bytes: 603424
 - path: ieee/adopted_standard.yaml
-  sha256: 40d6379ca0c1e447da2de936b5275ee558221c4fab9d5601dee80e7d7cee2303
-  bytes: 45867
+  sha256: 9b54100443cbbb53f0645e13280cc452084795707981e7cb358d71fcf128c4ee
+  bytes: 45924
 - path: ieee/aiee.yaml
   sha256: 929af04c3a16388ac58830ae5870ad33828b36b635bb934b2c295f3d1d57e66d
   bytes: 43168
 - path: ieee/amendment.yaml
-  sha256: 021030c08c5d8c44b1f719050fb212c0388b2132d7d5288f6bfe8994c2404026
+  sha256: ce3ee9ae834b3b0b6879b02fd6d64cf965b7f76d51233560b025b36cfc4fb362
   bytes: 19017
 - path: ieee/conformance_identifier.yaml
-  sha256: 74d3acd7746716c944c1471345c6766ae3562b4c6e2aadb91915d1dac3cbd72a
+  sha256: 95b6f41196c3187af1cf6c66dddf09628fd93b2a3d151ffb64818c7bba0af158
   bytes: 2972
 - path: ieee/corrigendum.yaml
-  sha256: 0713011dcd1a895a301783c4cbe5517335e8339ae6468025df6df8ff562967b6
-  bytes: 90074
+  sha256: d08c64e4fce793d1f1c7f6ceac6486b53a270951c2ae3ba8b58c07e0aa13ee0f
+  bytes: 91964
 - path: ieee/csa_dual_published.yaml
-  sha256: 16a475e8a021e6da55bf7f67fc09e32f68cb2a9725fc017a5554351dd845529a
+  sha256: 793cd4cac5c160bb581071ad321395dd8332741ff4621b6f5597361a4171f15d
   bytes: 1768
 - path: ieee/dual_published.yaml
-  sha256: 4ed222d75ba3837a436021cfe4a0bb418e1888ea223fe5b9b9256ed4b0a6d402
-  bytes: 17611
+  sha256: 1865cb75c33e6b07bff2fce35582944364596b2027ed43b337cadca933310f01
+  bytes: 17693
 - path: ieee/iec_ieee_copublished.yaml
-  sha256: 914973e0d4121de11aa531c385f089400e7fc725980a146aafbd3891a8774efd
-  bytes: 31879
+  sha256: '08fbeeecd777673e4914b50fd0645a4a3084cbfd0f44b3a01783d5b3b65e5597'
+  bytes: 25312
 - path: ieee/interpretation_identifier.yaml
-  sha256: 259c6918dd60c018d20195c52bdc5844e016dd2cd4c32c47d9539e1db5eb973f
+  sha256: f791d1cd55b7a6f3c4b20cf92dd01c29869f354a237e42e69986907fc9530382
   bytes: 2793
 - path: ieee/ire.yaml
   sha256: 438931d34b23b0d5815958fd98890cf8772ff81c9fa1e2d189a484deed89f93a
   bytes: 222
 - path: ieee/joint_development.yaml
-  sha256: 5c46be487c3fad7a4eb46ff888479074b8c9f912c47f7aa6e6670b5a1a372ebc
-  bytes: 59184
+  sha256: 909b0c9a2b360dde917b30064d7a1d5af5b1b2181363b07e6f42789b69401fd9
+  bytes: 65816
 - path: ieee/multi_numbered_identifier.yaml
-  sha256: 6a95d9f4f46dd752713853cd8bd4246672d03ce58946612621ab5f72fcd243da
+  sha256: 8f0168102e7765eb5de85b2cd9896760f4ccb67fdc5c9da751cf9d417c2531c5
   bytes: 471
 - path: ieee/nesc_edition.yaml
-  sha256: 8c7de9782460df1a721bf4412ccfd224f8f1eb8608aa008ab33967ba48f31a70
+  sha256: e8b390d468e77f7a2fab859383eeabf3978fa6f072c39255575e8b91c34123c4
   bytes: 672
 - path: ieee/nesc_handbook.yaml
-  sha256: 73601d36b94432eb040364c6d9d7e42543b9cd58dd053a2b8dad68acef26f7f5
+  sha256: 431f2e2fb0649c7ba87c55a290494cc9cbf032f15bbd8230404dcbbb5235e006
   bytes: 1153
 - path: ieee/nesc_standard.yaml
-  sha256: '0861a61bc9fb69dedf6d5c60eb76664f6f288bdaf0cc890eb35110922fa2975a'
+  sha256: 24e50b3a281c5e13c2eae5527cf25ce57b7889223a64382de797424ec15a5329
   bytes: 757
 - path: ieee/project_draft_identifier.yaml
-  sha256: ad218dce1ec0305bc2710485e0b9024b9feeef800b7da6ec034e6fee7e26fde6
-  bytes: 1058605
+  sha256: ac68818a740dd7a907f9ea7a57e9bc8916c1e20ece6f1f569b57e3f2f021018a
+  bytes: 1174174
 - path: ieee/si_standard.yaml
-  sha256: 5132c9e183ebff668380fbf5e6eb92fefd4facd13be4ac9ca04798424e0ca685
+  sha256: f1eda44f2d1d645761e2fa68ad055a6324a43b1b1b380bb7f0ec7681c44dcc1c
   bytes: 3620
 - path: ieee/standard.yaml
-  sha256: 4a1e19d8530ce5f9ab252cea7c9ceb769f3db611b375a1438d8e67febf062800
-  bytes: 2306782
+  sha256: 5814dd9258e6964f79edc771ae3bcf8a2296e3987cd187f83f6f2e335049748a
+  bytes: 2276589
 - path: ietf/bcp.yaml
   sha256: 5550f54365fa3abe45c266d956fc5c0bc239fb1e652ca3abc845ea1d8d5bf764
   bytes: 36048
@@ -1008,8 +1013,8 @@ curated:
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
 - path: ieee/_status.yaml
-  sha256: ae1130bf86e878adec61ce6157ce69e59721711a354537bc1b566d13ad21d521
-  bytes: 636
+  sha256: 44f87db5df53f0cc2373d28f8a21c1c2b954ec5d1fade9b2565d3dcf85efa885
+  bytes: 724
 - path: ietf/_status.yaml
   sha256: da8b5c732041f6936d83e8f046b33824cea9c87e149da4d107ae8efd143a050f
   bytes: 59
