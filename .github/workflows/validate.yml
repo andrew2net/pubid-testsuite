@@ -4,13 +4,13 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           autocrlf: false
       # Sibling checkout: the pubid gem at main (the SSOT foundations the
       # testsuite's rawCopy diff was restored on have merged there; the
       # old ssot/schema-foundations pin is deleted).
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           repository: pubid/pubid
           ref: main
