@@ -1,5 +1,5 @@
 ---
-- id: ieee.si_standard.9669
+- id: ieee.si_standard.9691
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -20,7 +20,7 @@
   non_normalized_aliases:
   - spelling: IEEE PSI 10/D2, October 2010
     style: v3
-- id: ieee.si_standard.9670
+- id: ieee.si_standard.9692
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -38,7 +38,7 @@
     human: IEEE/ASTM PSI 10/D2, October 2015
     urn: urn:ieee:ieee-astm:si:10:2015:draft./D2:October
   style: v3
-- id: ieee.si_standard.9671
+- id: ieee.si_standard.9693
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -56,7 +56,7 @@
     human: IEEE/ASTM PSI 10/D3, October 2010
     urn: urn:ieee:ieee-astm:si:10:2010:draft./D3:October
   style: v3
-- id: ieee.si_standard.9672
+- id: ieee.si_standard.9694
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -74,7 +74,7 @@
     human: IEEE/ASTM PSI 10/D3, October 2015
     urn: urn:ieee:ieee-astm:si:10:2015:draft./D3:October
   style: v3
-- id: ieee.si_standard.9673
+- id: ieee.si_standard.9695
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -93,7 +93,7 @@
   non_normalized_aliases:
   - spelling: IEEE/ASTM SI 10 -1997
     style: v3
-- id: ieee.si_standard.9674
+- id: ieee.si_standard.9696
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -114,7 +114,7 @@
     style: v3
   - spelling: IEEE/ASTM SI 10-2002 (Revision of IEEE/ASTM SI 10-1997)
     style: v3
-- id: ieee.si_standard.9675
+- id: ieee.si_standard.9697
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
@@ -135,7 +135,7 @@
     style: v3
   - spelling: IEEE/ASTM SI 10 -2010 (Revision of IEEE/ASTM SI 10 -2002)
     style: v3
-- id: ieee.si_standard.9676
+- id: ieee.si_standard.9698
   identifier:
     _type: pubid:ieee:si-standard
     number: '10'
